@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <style>
+        body {
+            font-family: 'Noto Sans', sans-serif;
+            background-color: #ffffff;
+            color: #2c3e50;
+        }
+
+        /* Hero Section */
+        .hero-body {
+            padding-top: 4rem;
+            padding-bottom: 3rem;
+        }
+
+        .title.is-1 {
+            font-family: 'Google Sans', sans-serif;
+            font-weight: 700;
+            font-size: 2.8rem;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+        }
+
+        .subtitle.is-3 {
+            font-weight: 400;
+            font-size: 1.5rem;
+            color: #555;
+            margin-top: 1rem;
+        }
+
+        .publication-authors {
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            color: #4a4a4a;
+        }
+
+        .publication-venue {
+            font-weight: bold;
+            color: #b71c1c;
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+        }
+
+        /* Buttons */
+        .button.is-dark.is-rounded {
+            background-color: #363636;
+            border: none;
+            transition: all 0.3s ease;
+        }
+
+        .button.is-dark.is-rounded:hover {
+            background-color: #555;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Abstract & Sections */
+        .section-title {
+            font-family: 'Google Sans';
+            font-weight: 600;
+            font-size: 2rem;
+            margin: 50px 0 30px;
+            text-align: center;
+            color: #000;
+        }
+
+        .content p {
+            font-size: 1.1rem;
+            leading-height: 1.6;
+            text-align: justify;
+        }
+
+        .abstract-box {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 2.5rem;
+            border: 1px solid #e9ecef;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+        }
+
+        /* Stats Dashboard */
+        .stats-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 40px;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            flex: 1;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #eee;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+            min-width: 120px;
+        }
+
+        .stat-value {
+            font-size: 2.2rem;
+            font-weight: 800;
+            color: #209cee;
+            font-family: 'Google Sans';
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #7f8c8d;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            margin-top: 5px;
+        }
+
+        /* Leaderboard Tables */
+        .table-wrapper {
+            overflow-x: auto;
+            border-radius: 8px;
+            border: 1px solid #dbdbdb;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        table.leaderboard {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+
+        table.leaderboard th {
+            background-color: #f1f3f5;
+            color: #495057;
+            padding: 15px 10px;
+            text-align: center;
+            border-bottom: 2px solid #dee2e6;
+            vertical-align: middle;
+            white-space: nowrap;
+        }
+
+        table.leaderboard td {
+            padding: 12px 10px;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+            vertical-align: middle;
+        }
+
+        table.leaderboard tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+
+        table.leaderboard tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        /* Highlighting */
+        .best-score {
+            font-weight: 800;
+            color: #d32f2f;
+        }
+
+        /* Red for 1st */
+        .second-score {
+            font-weight: 700;
+            color: #1976d2;
+        }
+
+        /* Blue for 2nd */
+        .model-name {
+            font-weight: 600;
+            text-align: left !important;
+            padding-left: 15px !important;
+        }
+
+        .tag-ours {
+            background-color: #e3f2fd;
+            color: #1565c0;
+            font-size: 0.7rem;
+            padding: 2px 6px;
+            border-radius: 4px;
+            margin-left: 5px;
+            vertical-align: middle;
+        }
+
+        /* Tabs Customization */
+        .tabs.is-toggle li.is-active a {
+            background-color: #2c3e50;
+            border-color: #2c3e50;
+        }
+
+        .sub-tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+            gap: 10px;
+        }
+
+        .sub-tab-btn {
+            padding: 8px 20px;
+            border: 1px solid #dbdbdb;
+            border-radius: 20px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .sub-tab-btn.active {
+            background: #209cee;
+            color: white;
+            border-color: #209cee;
+            box-shadow: 0 2px 5px rgba(32, 156, 238, 0.3);
+        }
+
+        /* Carousel */
+        .carousel-container {
+            position: relative;
+            overflow: hidden;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        .carousel-track {
+            display: flex;
+            transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        .carousel-slide {
+            min-width: 100%;
+        }
+
+        .carousel-nav {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 20px;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+
+        .nav-btn {
+            pointer-events: auto;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.9);
+            border: none;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            color: #333;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .nav-btn:hover {
+            background: white;
+            transform: scale(1.1);
+        }
+
+        .image-caption {
+            margin-top: 10px;
+            font-size: 0.95rem;
+            color: #666;
+            font-style: italic;
+            text-align: center;
+        }
+
+        .notification.is-info.is-light {
+            border-left: 4px solid #3298dc;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <section class="hero">
+        <div class="hero-body">
+            <div class="container is-max-desktop has-text-centered">
+
+                <h1 class="title is-1">
+                    TextEditBench: Evaluating Reasoning-aware<br>Text Editing Beyond Rendering
+                </h1>
+
+                <div class="publication-authors">
+                    <span class="author-block">
+                        <strong>Anonymous Authors</strong><sup>*</sup>
+                    </span>
+                </div>
+
+                <div class="buttons is-centered">
+                    <a href="#" class="button is-dark is-rounded">
+                        <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                        <span>Paper</span>
+                    </a>
+                    <a href="#" class="button is-dark is-rounded">
+                        <span class="icon"><i class="fab fa-github"></i></span>
+                        <span>Code</span>
+                    </a>
+                    <a href="#" class="button is-dark is-rounded">
+                        <span class="icon"><i class="far fa-images"></i></span>
+                        <span>Dataset (HuggingFace)</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="padding-top: 0;">
+        <div class="container is-max-desktop">
+            <img src="images/overview_01.jpg" alt="Teaser"
+                style="width: 100%; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
+            <p class="image-caption">
+                Figure 1: TextEditBench covers diverse text-in-image editing types such as translation, replacement,
+                color/rotation adjustment, removal, scaling, and creation.
+            </p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+
+            <div class="stats-row">
+                <div class="stat-card">
+                    <div class="stat-value">14</div>
+                    <div class="stat-label">Topics</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">6</div>
+                    <div class="stat-label">Task Types</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">1,196</div>
+                    <div class="stat-label">Annotated Instances</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">12</div>
+                    <div class="stat-label">Models Evaluated</div>
+                </div>
+            </div>
+
+            <div class="columns is-centered">
+                <div class="column is-full">
+                    <h2 class="section-title">Abstract</h2>
+                    <div class="abstract-box content">
+                        <p>
+                            Text rendering has recently emerged as one of the most challenging frontiers in visual
+                            generation. However, <strong>text editing within images remains largely unexplored</strong>,
+                            as it requires generating legible characters while preserving semantic, geometric, and
+                            contextual coherence.
+                        </p>
+                        <p>
+                            To fill this gap, we introduce <strong>TextEditBench</strong>, a comprehensive evaluation
+                            benchmark that explicitly focuses on text-centric regions in images. Beyond basic pixel
+                            manipulations, our benchmark emphasizes <strong>reasoning-intensive editing
+                                scenarios</strong> that require models to understand physical plausibility, linguistic
+                            meaning, and cross-modal dependencies.
+                        </p>
+                        <p>
+                            We further propose a novel evaluation dimension, <strong>Semantic Expectation (SE)</strong>,
+                            which measures the reasoning ability of models to maintain semantic consistency. Extensive
+                            experiments on 12 state-of-the-art editing systems reveal that while current models can
+                            follow simple textual instructions, they still struggle with context-dependent reasoning and
+                            layout-aware integration.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section has-background-light">
+        <div class="container is-max-desktop">
+            <h2 class="section-title">Dual-Track Evaluation Framework</h2>
+            <div class="content">
+                <p>
+                    TextEditBench employs two complementary tracks to assess both low-level fidelity and high-level
+                    reasoning:
+                </p>
+                <ul>
+                    <li><strong>Track 1: Pixel-Level Objective Metrics (Script-based)</strong> - Uses SSIM, PSNR, MSE,
+                        and LPIPS to measure background preservation and visual fidelity on non-edited regions.</li>
+                    <li><strong>Track 2: MLLM-based Semantic Metrics (GPT-4o)</strong> - Assesses 5 dimensions:
+                        Instruction Following (IF), Text Accuracy (TA), Visual Consistency (VC), Layout Preservation
+                        (LP), and the novel <strong>Semantic Expectation (SE)</strong>.</li>
+                </ul>
+            </div>
+            <div class="has-text-centered">
+                <img src="images/evaluation_02.jpg" style="max-width: 90%; margin-top: 20px; border-radius: 8px;">
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <h2 class="section-title">🏆 Leaderboard</h2>
+
+            <div class="content has-text-centered">
+                <p class="is-size-6 mb-5">
+                    Comparing 12 models including <strong>Step1X, MagicBrush, OmniGen2, Flux, Qwen-Image-Edit, and
+                        NanoBanana</strong>.
+                </p>
+            </div>
+
+            <div class="tabs is-toggle is-fullwidth is-large is-centered">
+                <ul>
+                    <li class="is-active" onclick="switchMainTab('script')">
+                        <a>
+                            <span class="icon"><i class="fas fa-code"></i></span>
+                            <span>Objective Metrics (Pixel)</span>
+                        </a>
+                    </li>
+                    <li onclick="switchMainTab('mllm')">
+                        <a>
+                            <span class="icon"><i class="fas fa-robot"></i></span>
+                            <span>Semantic Metrics (GPT-4o)</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="tab-script" class="main-tab-content">
+
+                <div class="sub-tabs">
+                    <button class="sub-tab-btn active" onclick="filterTable('script', 'synthetic')">Synthetic
+                        Dataset</button>
+                    <button class="sub-tab-btn" onclick="filterTable('script', 'real')">Real-World Dataset</button>
+                </div>
+
+                <div class="table-wrapper">
+                    <table class="leaderboard">
+                        <thead>
+                            <tr>
+                                <th class="model-name">Model</th>
+                                <th>SSIM↑</th>
+                                <th>LPIPS↓</th>
+                                <th>PSNR↑</th>
+                                <th>MSE↓</th>
+                            </tr>
+                        </thead>
+                        <tbody class="data-synthetic">
+                            <tr>
+                                <td class="model-name">Step1X-Edit</td>
+                                <td>0.879</td>
+                                <td>0.089</td>
+                                <td>25.52</td>
+                                <td>982.5</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Step1X-Edit-Think</td>
+                                <td>0.899</td>
+                                <td>0.067</td>
+                                <td>27.01</td>
+                                <td>584.2</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">MagicBrush</td>
+                                <td>0.788</td>
+                                <td>0.162</td>
+                                <td>19.29</td>
+                                <td>3456.7</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">InstructPix2Pix</td>
+                                <td>0.768</td>
+                                <td>0.187</td>
+                                <td>17.77</td>
+                                <td>2718.5</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Emu3.5 (512)</td>
+                                <td>0.769</td>
+                                <td>0.092</td>
+                                <td>19.32</td>
+                                <td>1131.3</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">OmniGen2</td>
+                                <td>0.836</td>
+                                <td>0.129</td>
+                                <td>21.38</td>
+                                <td>2046.6</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel (512)</td>
+                                <td>0.873</td>
+                                <td>0.077</td>
+                                <td>24.42</td>
+                                <td>726.4</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel-Think (512)</td>
+                                <td>0.896</td>
+                                <td>0.057</td>
+                                <td>25.52</td>
+                                <td>459.2</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">FLUX.1-Kontext</td>
+                                <td class="best-score">0.906</td>
+                                <td>0.056</td>
+                                <td>28.29</td>
+                                <td>522.1</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Qwen-Image-Edit</td>
+                                <td>0.901</td>
+                                <td>0.039</td>
+                                <td>28.22</td>
+                                <td>278.5</td>
+                            </tr>
+                            <tr></tr>
+                            <td class="model-name">NanoBanana</td>
+                            <td>0.904</td>
+                            <td class="best-score">0.036</td>
+                            <td class="best-score">29.88</td>
+                            <td class="best-score">160.3</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Seedream</td>
+                                <td>0.775</td>
+                                <td>0.136</td>
+                                <td>20.33</td>
+                                <td>1121.8</td>
+                            </tr>
+                        </tbody>
+
+                        <tbody class="data-real" style="display:none">
+                            <tr>
+                                <td class="model-name">Step1X-Edit</td>
+                                <td>0.872</td>
+                                <td>0.091</td>
+                                <td>27.17</td>
+                                <td>997.9</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Step1X-Edit-Think</td>
+                                <td>0.861</td>
+                                <td>0.099</td>
+                                <td>26.71</td>
+                                <td>1319.1</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">MagicBrush</td>
+                                <td>0.746</td>
+                                <td>0.186</td>
+                                <td>19.72</td>
+                                <td>3646.2</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">InstructPix2Pix</td>
+                                <td>0.725</td>
+                                <td>0.245</td>
+                                <td>16.94</td>
+                                <td>3601.6</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Emu3.5 (512)</td>
+                                <td>0.758</td>
+                                <td>0.082</td>
+                                <td>21.63</td>
+                                <td>842.3</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">OmniGen2</td>
+                                <td>0.818</td>
+                                <td>0.140</td>
+                                <td>22.73</td>
+                                <td>2039.8</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel (512)</td>
+                                <td>0.894</td>
+                                <td>0.063</td>
+                                <td>28.19</td>
+                                <td>545.2</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel-Think (512)</td>
+                                <td class="best-score">0.901</td>
+                                <td>0.058</td>
+                                <td>28.36</td>
+                                <td>423.0</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">FLUX.1-Kontext</td>
+                                <td>0.896</td>
+                                <td>0.069</td>
+                                <td>29.64</td>
+                                <td>399.2</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Qwen-Image-Edit</td>
+                                <td>0.887</td>
+                                <td>0.045</td>
+                                <td>30.02</td>
+                                <td>228.4</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">NanoBanana</td>
+                                <td>0.888</td>
+                                <td class="best-score">0.043</td>
+                                <td class="best-score">31.48</td>
+                                <td class="best-score">175.5</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Seedream</td>
+                                <td>0.808</td>
+                                <td>0.143</td>
+                                <td>24.23</td>
+                                <td>496.8</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div id="tab-mllm" class="main-tab-content" style="display:none">
+
+                <div class="sub-tabs">
+                    <button class="sub-tab-btn active" onclick="filterTable('mllm', 'synthetic')">Synthetic
+                        Dataset</button>
+                    <button class="sub-tab-btn" onclick="filterTable('mllm', 'real')">Real-World Dataset</button>
+                </div>
+
+                <div class="table-wrapper">
+                    <table class="leaderboard">
+                        <thead>
+                            <tr>
+                                <th class="model-name">Model</th>
+                                <th>Instruct Follow</th>
+                                <th>Text Acc</th>
+                                <th>Visual Consist</th>
+                                <th>Layout Preserv</th>
+                                <th>Semantic Exp (SE)</th>
+                                <th>Overall (/25)</th>
+                            </tr>
+                        </thead>
+                        <tbody class="data-synthetic">
+                            <tr>
+                                <td class="model-name">Step1X-Edit</td>
+                                <td>1.40</td>
+                                <td>1.44</td>
+                                <td>1.88</td>
+                                <td>3.40</td>
+                                <td>1.14</td>
+                                <td>9.26</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Step1X-Edit-Think</td>
+                                <td>2.28</td>
+                                <td>2.50</td>
+                                <td>2.52</td>
+                                <td>3.81</td>
+                                <td>2.07</td>
+                                <td>13.18</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">MagicBrush</td>
+                                <td>0.73</td>
+                                <td>0.73</td>
+                                <td>0.60</td>
+                                <td>1.18</td>
+                                <td>0.62</td>
+                                <td>3.86</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">InstructPix2Pix</td>
+                                <td>0.90</td>
+                                <td>1.14</td>
+                                <td>1.14</td>
+                                <td>1.61</td>
+                                <td>0.72</td>
+                                <td>5.51</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Emu3.5 (512)</td>
+                                <td>1.40</td>
+                                <td>2.41</td>
+                                <td>1.98</td>
+                                <td>1.90</td>
+                                <td>1.65</td>
+                                <td>9.34</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">OmniGen2</td>
+                                <td>1.12</td>
+                                <td>1.74</td>
+                                <td>1.72</td>
+                                <td>3.08</td>
+                                <td>0.86</td>
+                                <td>8.52</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel (512)</td>
+                                <td>1.81</td>
+                                <td>2.31</td>
+                                <td>1.83</td>
+                                <td>2.94</td>
+                                <td>1.52</td>
+                                <td>10.41</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel-Think (512)</td>
+                                <td>1.53</td>
+                                <td>1.85</td>
+                                <td>1.67</td>
+                                <td>2.97</td>
+                                <td>1.34</td>
+                                <td>9.36</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">FLUX.1-Kontext</td>
+                                <td>1.85</td>
+                                <td>2.15</td>
+                                <td>2.67</td>
+                                <td>4.35</td>
+                                <td>1.40</td>
+                                <td>12.42</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Qwen-Image-Edit</td>
+                                <td class="best-score">2.91</td>
+                                <td>3.23</td>
+                                <td class="best-score">3.51</td>
+                                <td class="best-score">4.48</td>
+                                <td>2.45</td>
+                                <td class="best-score">16.58</td>
+                            </tr>
+                            <tr style="background:#e3f2fd">
+                                <td class="model-name">NanoBanana (Ours)</td>
+                                <td>2.90</td>
+                                <td class="best-score">3.25</td>
+                                <td>3.40</td>
+                                <td>4.46</td>
+                                <td class="best-score">2.53</td>
+                                <td>16.54</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Seedream</td>
+                                <td>2.67</td>
+                                <td>3.44</td>
+                                <td>2.97</td>
+                                <td>3.25</td>
+                                <td class="best-score">2.57</td>
+                                <td>14.90</td>
+                            </tr>
+                        </tbody>
+
+                        <tbody class="data-real" style="display:none">
+                            <tr>
+                                <td class="model-name">Step1X-Edit</td>
+                                <td>1.96</td>
+                                <td>2.11</td>
+                                <td>2.81</td>
+                                <td>4.06</td>
+                                <td>1.08</td>
+                                <td>12.02</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Step1X-Edit-Think</td>
+                                <td>3.05</td>
+                                <td>3.42</td>
+                                <td>3.48</td>
+                                <td>4.24</td>
+                                <td>1.98</td>
+                                <td>16.17</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">MagicBrush</td>
+                                <td>0.59</td>
+                                <td>0.80</td>
+                                <td>0.64</td>
+                                <td>1.42</td>
+                                <td>0.67</td>
+                                <td>4.12</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">InstructPix2Pix</td>
+                                <td>0.56</td>
+                                <td>1.22</td>
+                                <td>1.09</td>
+                                <td>1.69</td>
+                                <td>0.79</td>
+                                <td>5.35</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Emu3.5 (512)</td>
+                                <td>2.82</td>
+                                <td>3.00</td>
+                                <td>3.10</td>
+                                <td>3.73</td>
+                                <td>1.40</td>
+                                <td>14.05</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">OmniGen2</td>
+                                <td>1.67</td>
+                                <td>2.22</td>
+                                <td>2.45</td>
+                                <td>3.63</td>
+                                <td>1.02</td>
+                                <td>10.99</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel (512)</td>
+                                <td>2.21</td>
+                                <td>2.50</td>
+                                <td>2.75</td>
+                                <td>4.22</td>
+                                <td>1.15</td>
+                                <td>12.83</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Bagel-Think (512)</td>
+                                <td>1.53</td>
+                                <td>1.53</td>
+                                <td>2.13</td>
+                                <td>4.09</td>
+                                <td>0.93</td>
+                                <td>10.21</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">FLUX.1-Kontext</td>
+                                <td>2.53</td>
+                                <td>2.94</td>
+                                <td>3.57</td>
+                                <td>4.66</td>
+                                <td>1.23</td>
+                                <td>14.93</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Qwen-Image-Edit</td>
+                                <td class="best-score">3.50</td>
+                                <td>3.83</td>
+                                <td class="best-score">4.15</td>
+                                <td>4.75</td>
+                                <td>2.47</td>
+                                <td class="best-score">18.70</td>
+                            </tr>
+                            <tr style="background:#e3f2fd">
+                                <td class="model-name">NanoBanana (Ours)</td>
+                                <td>3.18</td>
+                                <td>3.60</td>
+                                <td>3.94</td>
+                                <td class="best-score">4.77</td>
+                                <td class="best-score">2.73</td>
+                                <td>18.22</td>
+                            </tr>
+                            <tr>
+                                <td class="model-name">Seedream</td>
+                                <td>3.64</td>
+                                <td class="best-score">3.96</td>
+                                <td>3.90</td>
+                                <td>4.42</td>
+                                <td>2.62</td>
+                                <td>18.54</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="notification is-info is-light mt-4 is-size-7">
+                    <i class="fas fa-info-circle"></i> <strong>Note:</strong>
+                    The "Think" variants represent models using Chain-of-Thought reasoning.
+                    "Semantic Expectation (SE)" is our novel metric for evaluating reasoning capabilities.
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <h2 class="section-title">Reasoning-Aware Editing Examples</h2>
+            <p class="has-text-centered mb-5">
+                Examples from <strong>Figure 6</strong> showing multi-step reasoning (e.g., math calculation, date
+                adjustment).
+            </p>
+
+
+            <div class="carousel-container">
+                <div class="carousel-nav">
+                    <button class="nav-btn prev-btn" onclick="moveCarousel(-1)"><i
+                            class="fas fa-chevron-left"></i></button>
+                    <button class="nav-btn next-btn" onclick="moveCarousel(1)"><i
+                            class="fas fa-chevron-right"></i></button>
+                </div>
+
+                <div class="carousel-track" id="track">
+                    <div class="carousel-slide">
+                        <img src="https://via.placeholder.com/960x500/e0e0e0/555?text=Case+1:+Discount+Calculation+(Crop+Fig+6)"
+                            style="width:100%">
+                        <div class="image-caption">Math Reasoning: Calculating 20% off for two people.</div>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="https://via.placeholder.com/960x500/dcdcdc/555?text=Case+2:+Date+Adjustment+(Crop+Fig+6)"
+                            style="width:100%">
+                        <div class="image-caption">Temporal Reasoning: Postponing the date by 4 days.</div>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="https://via.placeholder.com/960x500/d0d0d0/555?text=Case+3:+Time+Update+(Crop+Fig+6)"
+                            style="width:100%">
+                        <div class="image-caption">Context Association: Updating progress bar along with time.</div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="section" id="BibTeX">
+        <div class="container is-max-desktop">
+            <h2 class="title is-3">BibTeX</h2>
+            <div class="box" style="position: relative; background: #f5f5f5; border: 1px solid #ddd;">
+                <button class="button is-small is-white"
+                    style="position: absolute; right: 10px; top: 10px; border:1px solid #ccc;" onclick="copyBibtex()">
+                    <i class="fas fa-copy"></i>
+                </button>
+                <pre style="background: transparent; padding: 0;">
+        <code>@article{texteditbench2026,
+  title={TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering},
+  author={Anonymous Authors},
+  journal={CVPR Submission},
+  volume={3050},
+  year={2026}
+}</code></pre>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="content has-text-centered">
+                <p class="is-size-7">
+                    Website template adapted from <a href="https://github.com/nerfies/nerfies.github.io">Nerfies</a>.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // 主 Tab 切换 (Script vs MLLM)
+        function switchMainTab(tabName) {
+            // 隐藏所有 Tab 内容
+            document.getElementById('tab-script').style.display = 'none';
+            document.getElementById('tab-mllm').style.display = 'none';
+
+            // 显示选中的 Tab
+            document.getElementById('tab-' + tabName).style.display = 'block';
+
+            // 更新 Tab 按钮样式
+            const tabs = document.querySelectorAll('.tabs li');
+            tabs.forEach(t => t.classList.remove('is-active'));
+            event.currentTarget.classList.add('is-active');
+        }
+
+        // 子 Tab 切换 (Synthetic vs Real)
+        function filterTable(parentID, datasetType) {
+            const container = document.getElementById('tab-' + parentID);
+
+            // 隐藏该容器下的所有 tbody
+            container.querySelectorAll('tbody').forEach(el => el.style.display = 'none');
+
+            // 显示选中的 tbody
+            container.querySelector('.data-' + datasetType).style.display = 'table-row-group';
+
+            // 更新按钮状态
+            const btns = container.querySelectorAll('.sub-tab-btn');
+            btns.forEach(b => b.classList.remove('active'));
+            event.currentTarget.classList.add('active');
+        }
+
+        // 轮播图逻辑
+        let slideIndex = 0;
+        function moveCarousel(step) {
+            const track = document.getElementById('track');
+            const slides = track.children;
+            slideIndex = (slideIndex + step + slides.length) % slides.length;
+            track.style.transform = `translateX(-${slideIndex * 100}%)`;
+        }
+
+        // 复制 BibTeX
+        function copyBibtex() {
+            navigator.clipboard.writeText(`@article{texteditbench2026,
+  title={TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering},
+  author={Anonymous Authors},
+  journal={CVPR Submission},
+  volume={3050},
+  year={2026}
+}`);
+            alert('BibTeX copied!');
+        }
+    </script>
+
+</body>
+
+</html>
