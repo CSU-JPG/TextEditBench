@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_020",
+        "topic": "Business &Advertising",
+        "prompt": "Adjust the size of 'CANVA DIGITAL' to the width and length of the logo.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "20.jpg",
+        "output_image": "scaling_20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

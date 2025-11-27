@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_041",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Scale 'Spring Travel Guide' to 80%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,1,0,0,0,0,0,1,1,0)",
+        "input_image": "41.jpg",
+        "output_image": "scaling_41.jpg",
+        "source_tag": "human_annotation"
+    }
+]

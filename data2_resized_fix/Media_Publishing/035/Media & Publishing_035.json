@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Media & Publishing_035",
+        "topic": "Media & Publishing",
+        "prompt": "Invert the word 'money', but at the same time maintain the shape of a book.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,1,1,0,0,0,2,1,2,2)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the title of this book is inverted, the corresponding book format also needs to be inverted. The page borders should be reversed in order to maintain the book's structural integrity when bound."
+    }
+]

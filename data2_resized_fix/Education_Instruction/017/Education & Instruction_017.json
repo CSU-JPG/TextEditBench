@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Education & Instruction_009",
+        "topic": "Education & Instruction",
+        "prompt": "make 'stop' bigger",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

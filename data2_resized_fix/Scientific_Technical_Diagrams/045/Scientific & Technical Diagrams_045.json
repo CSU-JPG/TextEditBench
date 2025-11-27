@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_045",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Add 'Break limits, own your power—her strength has no bounds!' at the bottom right corner of the mirror",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

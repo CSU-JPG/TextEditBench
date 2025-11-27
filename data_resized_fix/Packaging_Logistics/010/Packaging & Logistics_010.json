@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_010",
+        "topic": "Packaging & Logistics",
+        "prompt": "Delete the text of 'logistics partner' in the picture",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "6(2,2,0,0,0,0,0,0,0,2)",
+        "input_image":"10.jpg",
+        "output_image":"text_delete_10.jpg",
+        "source_tag":"human_anntation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_022",
+        "topic": "Art & Creative Expression",
+        "prompt": "Delete the handwritten test of 'opinion' from the artwork while keeping the overall composition and background unchanged.",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,2,0,0,0,0,0,0,0)",
+        "input_image": "22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

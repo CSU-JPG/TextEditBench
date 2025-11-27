@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_031",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Enlarge the two 'a' on the blackboard.",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,0,2,0,0,0,2,1,1,0)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

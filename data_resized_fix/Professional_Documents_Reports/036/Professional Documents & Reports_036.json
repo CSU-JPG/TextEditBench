@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_036",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Insert '2023' in the top right corner",
+        "editing_method":"text_insert",
+        "difficulty":"easy",
+        "difficulty_score":"1(0,0,1,0,0,0,0,0,0,0)",
+        "input_image": "36.jpg",
+        "output_image": "text_insert_36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

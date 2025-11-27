@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_028",
+        "topic": "Art & Creative Expression",
+        "prompt": "Replace the text on the main front sign (the one in sharp focus) with: 'I LOVE YOU WITH ALL MY HEART, NO BUTS.' Keep the same all-caps distressed white font, line breaks, alignment, and black wood block background. Do not alter any of the surrounding blurry signs.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,0,0,0,0,0,0,0,2)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The goal is to edit only the readable foreground block. The replacement text must preserve the worn, slightly chipped stencil style and the multi-line stacked layout so it still looks like a printed wooden quote sign sold in a store. The other signs in the background should remain untouched and out of focus."
+    }
+]

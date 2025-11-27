@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_023",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the label on the bottle to 'CHINA'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,1,0,0,1,0,0)",
+        "input_image": "23.jpg",
+        "source_tag": "human_annotation"
+    }
+]

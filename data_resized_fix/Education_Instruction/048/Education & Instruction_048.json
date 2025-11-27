@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_048",
+        "topic": "Education & Instruction",
+        "prompt": "Change the font of 'Come on, new semester'.",
+        "editing_method":"text_attribute",
+        "difficulty":"easy",
+        "difficulty_score":"4(0,1,1,0,0,0,1,1,0)",
+        "input_image": "48.jpg",
+        "output_image": "text_attribute_48.jpg",
+        "source_tag": "human_innoration"
+   }

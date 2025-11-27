@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_031",
+"topic": "Packaging & Logistics",
+"prompt": "Rotate the text 'LOGISTICS' 15° clockwise around its center.",
+"editing_method": "text_relocation",
+"difficulty": "easy",
+"difficulty_score": "4(0,1,0,0,0,0,1,0,2,0)",
+"input_image": "31.jpg",
+"output_image": "text_relocation_31.jpg",
+"source_tag": "human_annotation"
+}
+]

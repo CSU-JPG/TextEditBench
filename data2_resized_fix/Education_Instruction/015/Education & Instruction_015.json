@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Education & Instruction_015",
+        "topic": "Education & Instruction",
+        "prompt": "Put 'Rush to the snow-capped mountains, not just chasing the wind's trace; measure the ski slopes with respect and write love's meaning with perseverance!'' at the picture's bottom.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

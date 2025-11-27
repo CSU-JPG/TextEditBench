@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_010",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "enlarge the text 'I love you from the moon and back.' to 150%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,2,0,0,0,0,0,1,0)",
+        "input_image": "10.jpg",
+        "output_image": "scaling_10.jpg",
+        "source_tag": "human_annotation"
+    }
+]

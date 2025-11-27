@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_032",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change 'Those who chase the light will eventually shine brightly.' to 'Those who shun the light will ultimately be engulfed in darkness.'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,2,0,0,0,0,1,0,2)",
+        "input_image": "32.jpg",
+        "output_image": "text_change_32.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Change the original sentence to its opposite meaning, which implies the semantic expectation that the background should also be changed to a dim and sorrowful style, and 'Good luck' should be changed to 'Bad luck'."
+    }
+]

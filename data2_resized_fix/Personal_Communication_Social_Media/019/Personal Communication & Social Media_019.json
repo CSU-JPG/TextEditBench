@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_019",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Remove the 'Region' emblem from the window.",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,2,0,0,2)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the emblem is written on white cloth, it should be filled with white color after removal."
+    }
+]

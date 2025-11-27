@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_033",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the building sign text from 'BOODLE' to 'HARPER', ensuring the same bold sans-serif font style, metallic material, spacing, and alignment beneath the clock on the corner wall.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,0,2,0,0,0,0,1,0,0)",
+        "input_image": "33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

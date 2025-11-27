@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_017",
+    "topic": "Business & Advertising",
+    "prompt": "delete 'PARIBAS'",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,0,0,0,0,0,0,2,0,0)",
+    "input_image": "17.jpg",
+    "source_tag": "human_annotation"
+  }
+]

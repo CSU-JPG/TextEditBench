@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_042",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Change the font color of 'JOY' to gold.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,0,0,0,1,1,2)",
+        "input_image": "42.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Because the background color is slightly yellowish, the revised color should be bright enough to create a clear contrast with it."
+    }
+]

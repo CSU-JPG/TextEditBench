@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_038",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate the text 'Do one's best I know how good I am' 30 degrees clockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,2,0,0,0,0,0,2,0)",
+        "input_image": "38.jpg",
+        "output_image": "text_relocation_38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

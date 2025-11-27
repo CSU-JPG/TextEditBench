@@ -1,0 +1,13 @@
+[
+    {
+        "id": " &TextEditing_Environmental & Spatial Signage_001",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "To make the tone of the sentence 'do not stop' milder",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,1,0,0,0,0,0,0,0,2)",
+        "input_image": "1.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "To make the tone of the sentence 'do not stop' milder, according to the picture information and semantic expectations, replace 'do not stop' with 'Just keep moving forward' to meet the requirement."
+    }
+]

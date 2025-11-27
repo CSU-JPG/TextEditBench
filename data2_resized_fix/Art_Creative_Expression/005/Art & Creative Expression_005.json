@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_005",
+    "topic": "Art & Creative Expression",
+    "prompt": "Change 'HOT' to its opposite",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,2,0,0,0,0,1,0,2)",
+    "input_image": "5.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Change 'HOT' to its opposite"
+  }
+]

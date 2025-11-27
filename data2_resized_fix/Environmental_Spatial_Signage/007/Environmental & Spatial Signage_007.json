@@ -1,0 +1,13 @@
+[
+    {
+        "id": " &TextEditing_Environmental & Spatial Signage_007",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Replace 'location' with its synonym",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace 'location' with its synonym. It is easy to know that 'location' and 'position' are synonyms. As can be seen from the semantic expectations, replace 'location' with 'position' to meet the requirement."
+    }
+]

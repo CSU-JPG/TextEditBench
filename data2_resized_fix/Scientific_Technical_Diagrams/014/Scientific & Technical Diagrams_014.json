@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_014",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Shift the position of the text 'LAUNCH' to the left side, also shift the position of the text 'EVVENT' to the right side",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,0,0,0,0,1,1,0)",
+        "input_image": "14.jpg",
+        "source_tag": "human_annotation"
+    }
+]

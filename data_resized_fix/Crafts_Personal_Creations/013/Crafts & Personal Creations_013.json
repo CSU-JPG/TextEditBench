@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_013",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Add the sentence 'LOOKING FORWARD TO YOUR ARRIVAL' under 'INVITATION'",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,2,1,0,0,0,0,0,0,0)",
+        "input_image": "13.jpg",
+        "output_image": "text_insert_13.jpg",
+        "source_tag": "human_annotation"
+    }
+]

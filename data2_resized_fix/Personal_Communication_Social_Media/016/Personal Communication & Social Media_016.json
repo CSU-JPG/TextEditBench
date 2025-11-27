@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_016",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add the phrase 'come on' below the text.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_008",
+    "topic": "Media & Publishing",
+    "prompt": "Change the 4 to 3",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,0,0,2,0,0,0,1,0,0)",
+    "input_image": "8.jpg",
+    "output_image": "text_change_8.jpg",
+    "source_tag": "human_annotation",
+    "knoeledge_prompt":"The numbers in the picture are continuous. When the prompt asks to change the number 4 to 3, it means that the semantics expect the number 5 to be changed to 4 as well, so as to maintain the continuity of the numbers in the picture."
+  }
+]

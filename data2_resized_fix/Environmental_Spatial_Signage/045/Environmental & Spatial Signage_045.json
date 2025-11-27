@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_045",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Move the author's name above the sentence",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

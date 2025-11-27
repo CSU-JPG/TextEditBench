@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_018",
+        "topic": "Business &Advertising",
+        "prompt": "Add the sentence 'welcome to buy' in the upper left corner of the picture.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "18.jpg",
+        "output_image": "text_insert_18.jpg",
+        "source_tag": "human_annotation"
+    }
+]

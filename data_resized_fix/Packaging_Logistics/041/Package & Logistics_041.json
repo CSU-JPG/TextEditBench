@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_041",
+"topic": "Packaging & Logistics",
+"prompt": "Change the button text 'SHOP NOW' to the Chinese text '马上订购', keeping the same font size, color, and centered alignment inside the button shape.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+"input_image": "41.jpg",
+"output_image": "text_change_41.jpg",
+"source_tag": "human_annotation"
+}
+]

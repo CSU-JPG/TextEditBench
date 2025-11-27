@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_007",
+        "topic": "Professional Documents & Reports",
+        "prompt": "add 'the only' betwwen 'are' and 'one'",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation"
+    }
+]

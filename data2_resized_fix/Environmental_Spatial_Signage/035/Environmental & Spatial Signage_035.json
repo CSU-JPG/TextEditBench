@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_035",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the street sign text from 'MAJOR St' to 'MINOR St', keeping the same font, capitalization style, arrow direction, and white-on-blue color scheme with consistent lighting and background integration.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_005",
+        "topic": "Professional Documents & Reports",
+        "prompt": "delete 'To see'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "5.jpg",
+        "source_tag": "human_annotation"
+    }
+]

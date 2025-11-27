@@ -1,0 +1,13 @@
+[
+    {
+        "id": " &TextEditing_Education & Instruction_013",
+        "topic": "Education & Instruction",
+        "prompt": " Replace 'united' with a synonym",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace 'united' with a synonym. As it is easy to know that 'solidary' is a synonym for 'united', the semantic intention indicates that 'united' should be changed to 'solidary'"
+    }
+]

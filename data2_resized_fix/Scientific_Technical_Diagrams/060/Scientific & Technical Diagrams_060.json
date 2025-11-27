@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Scientific & Technical Diagrams_060",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "The energy value displayed on this defibrillator is too high (1150) - adjust it.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(2,0,0,0,0,0,2,1,2,2)",
+        "input_image": "60.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The '1150J' energy value displayed on the defibrillator screen far exceeds clinical safety standards (typically, the maximum for an adult monophasic wave is 360J, and for a biphasic wave, it is generally 150J-200J). This seriously distorted data would immediately raise concerns among medical professionals regarding the reliability of the device and the authenticity of the displayed information, and it implies a risk of causing severe burns to patients. Adjusting the energy value to the conventional clinical range (e.g., 300J) ensures that the device readings comply with medical standards and common operational practices, thereby maintaining the accuracy and credibility of the display in a professional context and avoiding the communication of erroneous and dangerous medical information."
+    }
+]

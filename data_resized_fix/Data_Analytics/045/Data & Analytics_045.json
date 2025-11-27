@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_045",
+  "topic": "Data & Analytics",
+  "prompt": "Correct the spelling of 'attual' to 'actual' in the table.",
+  "editing_method": "text_change",
+  "difficulty": "easy",
+  "difficulty_score": "4(1,1,0,0,0,0,0,1,1,0)",
+  "input_image": "45.jpg",
+  "output_image": "text_change_45.jpg",
+  "source_tag": "human_annotation"
+}

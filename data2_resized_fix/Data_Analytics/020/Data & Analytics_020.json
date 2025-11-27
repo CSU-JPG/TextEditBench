@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_0010",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Replace the text in the picture with its synonyms",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "20.jpg",
+        "source_tag": "model_generated",
+        "knowledge_prompt": "Replace the text in the picture with its synonyms. It is easy to know that 'hello' and 'hi' are synonyms. As can be seen from the semantic expectations, replace 'hi' with 'hello' to meet the requirement."
+    }
+]

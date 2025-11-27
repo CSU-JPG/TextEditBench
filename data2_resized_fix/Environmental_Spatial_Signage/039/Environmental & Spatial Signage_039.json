@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_039",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the text on the red octagonal traffic sign from 'STOP' to 'YIELD', keeping the same white capital letters, centered alignment, and maintaining the reflective red background and realistic lighting.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+        "input_image": "39.jpg",
+        "source_tag": "human_annotation"
+    }
+]

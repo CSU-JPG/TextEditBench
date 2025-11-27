@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_0013",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "delete 'believe in your dreams'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "53.jpg",
+        "source_tag": "human_annotation"
+    }
+]

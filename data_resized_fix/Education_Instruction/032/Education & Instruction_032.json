@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_032",
+        "topic": "Education & Instruction",
+        "prompt": "Change the font of 'Kewa Early Childhood Education Class starts!' to a more decorative font",
+        "editing_method":"text_attribute",
+        "difficulty":"medium",
+        "difficulty_score":"8(0,2,2,2,0,0,0,1,1,0)",
+        "input_image": "32.jpg",
+        "output_image": "text_attribute_32.jpg",
+        "source_tag": "human_innoration"
+    }

@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_049",
+        "topic": "Education & Instruction",
+        "prompt": "Reduce the font size of 'Student Union recruits new students'.",
+        "editing_method":"scaling",
+        "difficulty":"medium",
+        "difficulty_score":"7(0,2,1,2,0,0,1,1,0)",
+        "input_image": "49.jpg",
+        "output_image": "scaling_49.jpg",
+        "source_tag": "human_innoration"
+   }

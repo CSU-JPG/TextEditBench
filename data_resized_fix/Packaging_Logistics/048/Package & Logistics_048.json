@@ -1,0 +1,13 @@
+[
+    {
+    "id": "TextEditing_Packaging & Logistics_048",
+    "topic": "Packaging & Logistics",
+    "prompt": "Rotate the text 'Logistic Company' diagonally upward to the right while keeping the same font, color, and layout position on the left side of the image.",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,1,0,0,0,0,1,0,0,0)",
+    "input_image": "48.jpg",
+    "output_image": "text_relocation_48.jpg",
+    "source_tag": "human_annotation"
+    }
+]

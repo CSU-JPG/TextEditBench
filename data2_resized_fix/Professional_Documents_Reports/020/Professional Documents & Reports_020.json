@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_020",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Adjust the scale of the x-axis so that '6' aligns with the larger minimum value of the red line.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

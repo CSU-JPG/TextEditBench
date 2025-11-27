@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_040",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Enlarge the text below the picture a little",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,2,0,0,0,0,0,2,1,0)",
+        "input_image": "40.jpg",
+        "output_image": "scaling_40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

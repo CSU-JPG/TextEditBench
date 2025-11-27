@@ -1,0 +1,15 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_028",
+        "topic": "Art & Creative Expression",
+        "prompt": "change 'waste reuse'' to 'good furniture items'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,2,0,2,0,0,2,0,0,2)",
+        "input_image": "28.jpg",
+        "output_image": "text_change_28.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"Replace 'waste reuse' with 'good furniture items'. To ensure overall harmony, as indicated by the semantic intention, all relevant elements need to be adjusted accordingly to maintain overall consistency and harmony"
+
+    }
+]

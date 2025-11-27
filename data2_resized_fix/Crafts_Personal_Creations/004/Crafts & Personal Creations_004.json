@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Crafts & Personal Creations_004",
+    "topic": "Crafts & Personal Creations",
+    "prompt": "Delete 'FOREIGN'",
+    "editing_method": "text_delete",
+    "difficulty": "medium",
+    "difficulty_score": "6(0,0,2,0,2,0,0,2,0,0)",
+    "input_image": "4.jpg",
+    "source_tag": "human_annotation"
+  }
+]

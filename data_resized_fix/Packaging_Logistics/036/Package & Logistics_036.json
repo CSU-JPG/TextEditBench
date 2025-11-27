@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_036",
+"topic": "Packaging & Logistics",
+"prompt": "Scale up the word 'DELIVERY' while keeping its center position, baseline alignment, font, and color unchanged. Do not modify other texts or elements.",
+"editing_method": "scaling",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,0,0,0,1,0)",
+"input_image": "36.jpg",
+"output_image": "scaling_36.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "Only the headline 'DELIVERY' is enlarged. Typography (typeface, weight, color), alignment, and baseline must be preserved to maintain balance with 'SERVICE' and surrounding content. No relocation or reflow of other elements."
+}
+]

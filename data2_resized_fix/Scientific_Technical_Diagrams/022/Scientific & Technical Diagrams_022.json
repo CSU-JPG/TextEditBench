@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_022",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change the color of all 'me time' in the image to red",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "10(2,2,2,0,0,0,2,1,1,0)",
+        "input_image": "22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

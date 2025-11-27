@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_075",
+        "topic": "Business & Advertising",
+        "prompt": "The sign in the background of the picture has obvious problems; fix it.",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,0,1,0,0,0,2,2,2,2)",
+        "input_image": "75.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The image shows two children eating pizza inside the store, which clearly suggests that the store is open; however, the clearly visible 'closed' sign in the background conveys the exact opposite message about the store's operating status. This direct contradiction between visual elements can confuse viewers and undermine the realism and credibility of the scene. Therefore, it is recommended to remove it at the very least, ensuring that all visual information consistently points to a unified operating status, thereby restoring the internal coherence and plausibility of the image."
+    }
+]

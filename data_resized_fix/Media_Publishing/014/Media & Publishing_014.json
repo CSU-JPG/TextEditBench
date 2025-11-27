@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_014",
+    "topic": "Media & Publishing",
+    "prompt": "Change the location in the diagram to the capital of China.",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+    "input_image": "14.jpg",
+    "output_image": "text_change_14.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"Change the location in the picture to the capital of China. The capital of China is Beijing, so the location in the picture should be changed to Beijing."
+  }
+]

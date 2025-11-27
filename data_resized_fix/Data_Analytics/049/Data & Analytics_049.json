@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_049",
+  "topic": "Data & Analytics",
+  "prompt": "Change the font of the sentence 'Our work aims to serve clients well. We use effective ways to achieve this goal.' from Source Han Sans to KuaHua NiuNiu font.",
+  "editing_method": "text_attribute",
+  "difficulty": "easy",
+  "difficulty_score": "4(1,1,0,0,0,0,0,1,1,0)",
+  "input_image": "49.jpg",
+  "output_image": "text_attribute_49.jpg",
+  "source_tag": "human_annotation"
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_041",
+        "topic": "Business &Advertising",
+        "prompt": "Enlarge the sentence 'Full-court goods' to make it about the same length as the main title.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,0,2,0,0,0,0,1,0)",
+        "input_image": "41.jpg",
+        "output_image": "scaling_41.jpg",
+        "source_tag": "human_annotation"
+    }
+]

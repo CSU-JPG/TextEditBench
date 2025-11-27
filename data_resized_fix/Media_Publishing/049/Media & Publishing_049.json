@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_049",
+    "topic": "Media & Publishing",
+    "prompt": "Move the sentences in the picture up.",
+    "editing_method": "text_relocation",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "49.jpg",
+    "output_image": "text_relocation_49.jpg",
+    "source_tag": "human_annotation"
+  }
+]

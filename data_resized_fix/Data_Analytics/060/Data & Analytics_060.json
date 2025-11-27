@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_060",
+  "topic": "Data & Analytics",
+  "prompt": "Move the '82%' gauge chart and its corresponding icon to the top of the paragraph.",
+  "editing_method": "text_relocation",
+  "difficulty": "medium",
+  "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+  "input_image": "60.jpg",
+  "output_image": "text_relocation_60.jpg",
+  "source_tag": "human_annotation"
+}

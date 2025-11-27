@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Environmental & Spatial Signage_009",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "add 'Danger ahead' below the 'stop'",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "9.jpg",
+        "source_tag": "human_annotation"
+    }
+]

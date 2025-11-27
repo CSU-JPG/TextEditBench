@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Merchandise & Apparel_030",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "The text under 128 is meaningless; modify it into an appropriate format.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(1,0,2,0,2,0,2,1,0,0)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "In the image, the 'adado' under 128, as part of the product name, is ambiguous and cannot intuitively convey effective information related to the efficacy of the lotion, which may easily confuse consumers about the product's characteristics. Changing it to 'Essence' can directly clarify the core ingredient formulation and functional positioning of the product, effectively establishing an accurate connection between the text description and the actual attributes of the product."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_033",
+        "topic": "Business &Advertising",
+        "prompt": "Fix the text errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,0,0,0,0,2,0,2,2)",
+        "input_image": "33.jpg",
+        "output_image": "text_change_33.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "According to the information in the article, it can be seen that this is about marketing plan, In order to meet semantic expectations, 'planing' should be changed to 'planning', here is a spelling mistake."
+    }
+]

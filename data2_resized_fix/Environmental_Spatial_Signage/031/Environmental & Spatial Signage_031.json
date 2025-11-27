@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_031",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the road sign text from 'BUMP' to 'STOP', maintaining the same bold black uppercase font, centered alignment, and proportions within the red circular border on the white background.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_009",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Replace the text inside <> with with:'Mountain Gongga' and 'Mountain Sgula' ",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"4(1,2,0,0,0,0,0,1,0,0)",
+        "input_image": "9.jpg",
+        "output_image": "text_change_9.jpg",
+        "source_tag": "human_generated"
+    }
+]

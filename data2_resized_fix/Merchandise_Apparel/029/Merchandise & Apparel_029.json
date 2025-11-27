@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_029",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "A few bottles of lotion, the text under the words 'body lotion' is too blurry, just delete it.",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "10(2,2,1,0,2,1,0,2,0,0)",
+        "input_image": "29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

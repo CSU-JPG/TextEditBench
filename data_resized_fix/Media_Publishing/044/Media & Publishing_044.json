@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_044",
+    "topic": "Media & Publishing",
+    "prompt": "Change the name of the author of the work to the name of the author of A Dream of Red Mansions.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "44.jpg",
+    "output_image": "text_change_44.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"The author of A Dream of Red Mansions is Cao Xueqin, so the name was changed to Cao Xueqin."
+  }
+]

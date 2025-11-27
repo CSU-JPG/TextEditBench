@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_018",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change the color of the four nouns included in STEM from black to blue",
+        "editing_method": "text_attribute",
+        "difficulty": "hard",
+        "difficulty_score": "11(2,2,0,0,0,0,2,2,1,2)",
+        "input_image": "18.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "There are four words that describe the concept of STEM: Science, Technology, Engineering, and Mathematics. Change their color from black to blue."
+    }
+]

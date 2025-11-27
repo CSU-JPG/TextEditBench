@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_049",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "change the color of the title and subtitles to purple",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "9(2,2,0,0,0,0,2,0,1,2)",
+        "input_image": "49.jpg",
+        "output_image": "text_attribute_49.jpg",
+        "source_tag": "human_annotation"
+    }
+]

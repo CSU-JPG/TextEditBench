@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_031",
+        "topic": "Art & Creative Expression",
+        "prompt": "Delete the top header text 'JANUARY 15' and the weekday labels at the top of the notebook page, keeping the hand-lettered quote and eyelash drawings unchanged. Restore the grid paper background with consistent square lines, paper texture, and lighting.",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,2,0,0,0,0,0,1,0,0)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

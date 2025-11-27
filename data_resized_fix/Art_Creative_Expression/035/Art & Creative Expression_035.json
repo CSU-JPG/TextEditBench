@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_035",
+        "topic": "Art & Creative Expression",
+        "prompt": "add 'The bees are humming, humming in the clover;The bobolink is singing in the rye;The brook is purling, purling in the valley, and the river's laughing, laughing to the sky.' into the picture",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,1,0,0,0,0,2,0,0)",
+        "input_image": "35.jpg",
+        "output_image": "text_insert_35.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_001",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Increase the font size of 'Colgate'.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,2,0,0,0,1,2)",
+        "input_image": "21.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since 'Colgate' is printed on a red sticker, the entire sticker should be enlarged proportionally when scaling up the text."
+    }
+]

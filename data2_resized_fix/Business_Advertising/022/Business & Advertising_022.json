@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_022",
+        "topic": "Business & Advertising",
+        "prompt": "delete the 'chi kery' and 'bakery'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,1,0,0,0,0,0,0,0,0)",
+        "input_image": "22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

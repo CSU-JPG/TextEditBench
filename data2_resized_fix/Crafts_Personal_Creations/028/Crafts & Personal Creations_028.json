@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_028",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the lightbox text from 'I HATE NOTHING ABOUT U' to text with the same meaning",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,2,0,0,0,0,0,1,0,2)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The task is a semantic rewording on a lit sign. The new phrase must convey the same affectionate meaning as “I HATE NOTHING ABOUT U,” expressing complete acceptance or love without criticism. The replacement should stay concise, all-caps, and visually balanced on the lightbox while keeping the same glow, alignment, and perspective of the original illuminated sign."
+    }
+]

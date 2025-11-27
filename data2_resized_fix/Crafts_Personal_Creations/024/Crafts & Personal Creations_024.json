@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_024",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Scale down the word 'CHRISTMAS' slightly so it fits with more padding inside the red sign while keeping its original cream color, bold slab-serif font, alignment, and overall layout intact. Do not change the text above or the decorative flourishes.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,2,0,0,0,0,0,1,0,0)",
+        "input_image": "24.jpg",
+        "source_tag": "human_annotation"
+    }
+]

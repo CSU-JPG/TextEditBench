@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_030",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Scale down the text in the image",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,2,0,0,1,0,0,1,0)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

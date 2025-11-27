@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_003",
+    "topic": "Data & Analytics",
+    "prompt": "Remove the 'Independent/other' label from the chart legend.",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "5(1,0,0,0,0,0,2,0,0,2)",
+    "input_image": "3.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "When deleting the 'Independent/other' label, also remove its corresponding gray bar segments from the bar chart, as they share the same semantic info. Removing both ensures logical consistency."
+  }
+]

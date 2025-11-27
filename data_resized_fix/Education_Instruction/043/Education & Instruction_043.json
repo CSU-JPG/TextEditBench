@@ -1,0 +1,12 @@
+{
+        "id": "TextEditing_Education & Instruction_043",
+        "topic": "Education & Instruction",
+        "prompt": "All course prices are reduced by RMB 500.",
+        "editing_method":"text_change",
+        "difficulty":"hard",
+        "difficulty_score":"10(2,2,1,2,0,0,1,0,2)",
+        "input_image": "43.jpg",
+        "output_image": "text_change_43.jpg",
+        "source_tag": "human_innoration",
+        "knowledge_prompt":"Find the number that represents the price and do the calculation. For example, 9800-500=9300, 7500-500=7000."
+   }

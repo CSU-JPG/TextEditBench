@@ -1,0 +1,15 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_025",
+            "topic": "Packaging & Logistics",
+            "prompt": "Change the text ‘Riben’ in the image to ‘Bali’",
+            "editing_method": "text_change",
+            "difficulty": "medium",
+            "difficulty_score": "6(1,1,2,0,1,1,0,0,0,0)",
+            "input_image":"25.jpg",
+            "output_image":"text_change_25.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Changing “Riben” to “Bali” requires the model to recognize that the image depicts a well-known Balinese landmark, not a location in Japan.\nThe semantic expectation is that the new text should correctly correspond to the visual content — aligning the destination name with the actual place shown in the picture.\nIn addition, the replacement should preserve the same font style, color tone, and composition balance to maintain the original travel-poster aesthetic and professional layout."
+
+        }
+    ]

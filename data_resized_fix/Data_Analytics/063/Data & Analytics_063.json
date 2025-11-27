@@ -1,0 +1,12 @@
+{
+  "id": "TextEditing_Data & Analytics_063",
+  "topic": "Data & Analytics",
+  "prompt": "Change the clock-out time on 07 May 2025 from 5:00 p.m. to 6:00 p.m..",
+  "editing_method": "text_change",
+  "difficulty": "medium",
+  "difficulty_score": "4 (0,0,0,0,0,0,0,2,2,0)",
+  "input_image": "63.jpg",
+  "output_image": "text_change_63.jpg",
+  "source_tag": "human_annotation",
+  "knowledge_prompt": "When changing the clock-out time from 5:00 p.m. to 6:00 p.m. on 07 May 2025, the AI needs to calculate: 1) Working Hours increases from 8 to 9 (standard 8-hour workday plus 1 extra hour), 2) Total Hours for that day increases from 8 to 9, 3) Total Working Hours increases from 48 to 49, 4) Overall Total Hours increases from 67 to 68, 5) Salary for Working Hours increases from ¥7,200.00 to ¥7,350.00 (49 hours × ¥150.00), 6) Total Salary needs to be recalculated accordingly."
+}

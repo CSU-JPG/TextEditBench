@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_004",
+        "topic": "Professional Documents & Reports",
+        "prompt": "exchange the the location of 'Project One' and 'Project Two'",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"4(1,2,0,0,0,0,0,0,1,0)",
+        "input_image": "4.jpg",
+        "output_image": "text_relocation_4.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "'Project One' and 'Project Two' are both titles of two pieces of text. It is required that Project One and Two swap positions, which implies that the corresponding texts below them should also swap positions in order to ensure the correctness of the meaning."
+    }
+]

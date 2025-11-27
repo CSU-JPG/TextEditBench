@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_022",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "shift the position of the title to the top center of the image",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,0,1,2)",
+        "input_image": "22.jpg",
+        "output_image": "text_relocation_22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

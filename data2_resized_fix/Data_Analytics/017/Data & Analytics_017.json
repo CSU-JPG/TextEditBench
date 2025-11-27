@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_017",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Add 'Failure is the mother of success' at the top right corner of the picture",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "17.jpg",
+        "source_tag": "model_generated"
+    }
+]

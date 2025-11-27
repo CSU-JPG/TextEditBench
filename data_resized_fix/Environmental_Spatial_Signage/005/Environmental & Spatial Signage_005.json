@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_005",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Translate the Chinese sentence below the 'GOOD MORNING' in the image into English",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"4(0,2,0,2,0,0,0,0,0,0)",
+        "input_image": "5.jpg",
+        "output_image": "text_change_5.jpg",
+        "source_tag": "human_annotation"
+    }
+]

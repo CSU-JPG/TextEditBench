@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_011",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the brand name 'GUCCI' on the brown gift box to 'PRADA', maintaining the same gold embossed lettering style, font, and centered alignment on the box lid. Ensure lighting and reflections on the metallic text remain natural and consistent.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

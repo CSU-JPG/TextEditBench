@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_031",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Increase the discount in the image from 50% to 60%",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,0,0,0,0,2,0,0,2)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the original discount was 50%, each person needed $5 in tuition, so the original tuition price was $10. Now the discount has increased to 60%, so the cost per person is reduced to $4. The corresponding $5 in the picture should be changed to $4."
+    }
+]

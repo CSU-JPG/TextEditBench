@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_021",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the text on the table from 'SESTT' to 'FAMILY', keeping the same black capitalized font style, alignment, and perspective consistent with the wooden surface.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,1,0,0,0,0,0,1,0,0)",
+        "input_image": "21.jpg",
+        "source_tag": "human_annotation"
+    }
+]

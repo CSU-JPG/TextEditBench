@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_008",
+        "topic": "Professional Documents & Reports",
+        "prompt": "delete the web and the last text",
+        "editing_method":"text_delete",
+        "difficulty":"easy",
+        "difficulty_score":"3(1,2,0,0,0,0,0,0,0,0)",
+        "input_image": "8.jpg",
+        "output_image": "text_delete_8.jpg",
+        "source_tag": "human_annotation"
+    }
+]

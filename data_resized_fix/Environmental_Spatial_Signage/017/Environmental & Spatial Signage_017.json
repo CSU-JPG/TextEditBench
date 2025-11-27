@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_017",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Make the tone of the text at the bottom of the image more relaxed.",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "17.jpg",
+        "output_image": "text_change_17.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt" : "The tone should be made more relaxed, using fewer formal words and more casual ones."
+    }
+]

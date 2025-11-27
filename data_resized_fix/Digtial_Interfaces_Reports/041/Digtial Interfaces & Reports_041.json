@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_041",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Change the connection on the top side to white text",
+        "editing_method":"text_attribute",
+        "difficulty":"easy",
+        "difficulty_score":"5(2,0,0,0,0,0,0,2,1,0)",
+        "input_image": "41.jpg",
+        "output_image": "text_attribute_41.jpg",
+        "source_tag": "human_annotation"
+    }
+]

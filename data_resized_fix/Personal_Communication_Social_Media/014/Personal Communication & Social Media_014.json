@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_014",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Please make the text 'Live with a free soul, always on the path to beauty.' more inspiring and poetic.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "14.jpg",
+        "output_image": "text_change_14.jpg",
+        "source_tag": "human_annotation",
+        "konwledge_prompt": "To modify the tone to be more inspiring and poetic, the overall language should employ more dynamic and passionate verbs, vivid imagery, and incorporate expressions related to motivation, invocation, and beautiful imagery."
+    }
+]

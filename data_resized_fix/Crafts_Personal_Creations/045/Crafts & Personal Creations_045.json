@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_045",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Turn white text into black.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "45.jpg",
+        "output_image": "text_attribute_45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

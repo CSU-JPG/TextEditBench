@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_028",
+        "topic": "Media & Publishing",
+        "prompt": "Translate the text in the image into Chinese",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,2,0,0,1,0,0,1,2,0)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

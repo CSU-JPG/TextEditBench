@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_006",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change all 'AI' in the image to red",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "9(2,2,2,0,,0,0,2,0,1,0)",
+        "input_image": "6.jpg",
+        "source_tag": "human_annotation"
+    }
+]

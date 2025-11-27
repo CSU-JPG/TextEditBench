@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Crafts & Personal Creations_010",
+    "topic": "Crafts & Personal Creations",
+    "prompt": "Add 'PLANE' below the image",
+    "editing_method": "text_insert",
+    "difficulty": "easy",
+    "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+    "input_image": "10.jpg",
+    "source_tag": "human_annotation"
+  }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_025",
+        "topic": "Art & Creative Expression",
+        "prompt": "change 'Shuangjiang (First Frost)'' to 'Lidong (Beginning of Winter)'",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "12(2,2,1,2,0,0,2,1,0,2)",
+        "input_image": "25.jpg",
+        "output_image": "text_change_25.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"When changing the theme from the 'Shuangjiang' to the 'Beginning of Winter', it can be known from the semantic expectation that the elements related to the theme such as the time of the solar terms should also undergo corresponding changes."
+    }
+]

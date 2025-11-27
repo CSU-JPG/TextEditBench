@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_070",
+  "topic": "Data & Analytics",
+  "prompt": "Move the text 'data' to beside the 'Growth Ratio' title.",
+  "editing_method": "text_relocation",
+  "difficulty": "easy",
+  "input_image": "70.jpg",
+  "difficulty_score": "2 (0,0,0,0,0,0,0,0,2,0)",
+  "output_image": "text_relocation_70.jpg",
+  "source_tag": "human_annotation"
+}

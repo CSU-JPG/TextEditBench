@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Documents & CredentialBusiness & Advertising_064",
+        "topic": "Business & Advertising",
+        "prompt": "Change the font color to pink",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,2,0,0,0,0,0,1,0)",
+        "input_image": "64.jpg",
+        "source_tag": "human_annotation"
+    }
+]

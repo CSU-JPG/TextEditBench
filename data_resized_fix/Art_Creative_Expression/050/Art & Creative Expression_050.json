@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_050",
+        "topic": "Art & Creative Expression",
+        "prompt": "make 'HELLO SPRING' smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,2,1,0)",
+        "input_image": "50.jpg",
+        "output_image": "scaling_50.jpg",
+        "source_tag": "human_annotation"
+    }
+]

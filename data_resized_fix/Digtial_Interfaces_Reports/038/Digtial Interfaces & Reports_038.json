@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_038",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Bold the title text at the top of the entire image",
+        "editing_method":"text_attribute",
+        "difficulty":"easy",
+        "difficulty_score":"4(2,1,0,0,0,0,0,0,0,1)",
+        "input_image": "38.jpg",
+        "output_image": "text_attribute_38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

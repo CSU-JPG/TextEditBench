@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_059",
+        "topic": "Business & Advertising",
+        "prompt": "Scale up the title text on the book cover ('LEA ESTE LIBRO SI DESEA TOMAR BUENAS FOTOGRAFÍAS' and the author 'HENRY CARROLL') slightly so it is more prominent, preserving the metallic silver color, embossed effect, line breaks, alignment, and the book’s perspective on the wooden table.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,1,0,0,0,0,0,1,0,0)",
+        "input_image": "59.jpg",
+        "source_tag": "human_annotation"
+    }
+]

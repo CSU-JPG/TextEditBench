@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_031",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change 'MORNING' to 'EVENING'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,2,0,2)",
+        "input_image": "31.jpg",
+        "output_image": "text_change_31.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Change 'MORNING' to 'EVENING', which implies the semantic expectation that the background should also change to night."
+    }
+]

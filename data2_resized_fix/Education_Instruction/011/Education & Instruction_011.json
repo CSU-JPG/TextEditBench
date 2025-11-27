@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Education & Instruction_011",
+        "topic": "Education & Instruction",
+        "prompt": "Add 'Caution: Safety First' to the chair",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

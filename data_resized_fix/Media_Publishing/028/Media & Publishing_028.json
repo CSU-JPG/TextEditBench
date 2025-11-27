@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_028",
+    "topic": "Media & Publishing",
+    "prompt": "Insert the time of the autumn solstice in the picture.",
+    "editing_method": "text_insert",
+    "difficulty": "medium",
+    "difficulty_score": "9(0,1,1,2,1,0,0,2,0,2)",
+    "input_image": "28.jpg",
+    "output_image": "text_insert_28.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"Insert the time of the autumn solstice in the picture, and the time of the autumn solstice is September 22, so September 22 is inserted."
+  }
+]

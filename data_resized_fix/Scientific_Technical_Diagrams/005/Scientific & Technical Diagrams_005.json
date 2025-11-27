@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_005",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "fix the spelling mistake in the title 'PLANT LEAF & PHOTOSYNTHESYS'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,0,0,0,0,0,1,2)",
+        "input_image": "5.jpg",
+        "output_image": "text_change_5.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The text 'PLANT LEAF & PHOTOSYNTHESYS' should be corrected to 'PLANT LEAVES & PHOTOSYNTHESIS' because the original spelling contains two errors: first, 'LEAF' should be changed to the plural form 'LEAVES' since the topic refers to plants in general, not a single leaf; second, 'PHOTOSYNTHESYS' is a misspelling of 'PHOTOSYNTHESIS', which is the correct scientific term for the process by which plants produce energy from sunlight."
+    }
+]

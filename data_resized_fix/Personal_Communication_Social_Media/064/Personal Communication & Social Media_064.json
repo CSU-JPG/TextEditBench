@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_064",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate 'Open Today' 30 degrees counterclockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,1,2,0)",
+        "input_image": "64.jpg",
+        "output_image": "text_relocation_64.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_017",
+        "topic": "Business &Advertising",
+        "prompt": "Replace 'sales champion' in the picture with synonyms.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "17.jpg",
+        "output_image": "text_change_17.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "If the semantics are required to remain unchanged, then the semantic expectation can only modify the text without changing the overall meaning. From the picture, we can see that the semantic expectation is to write that a person is the most popular."
+    }
+]

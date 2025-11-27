@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_033",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Increase the size of the subtitle to 1.5 times its original size",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"4(1,2,0,1,0,0,0,0,1,0)",
+        "input_image": "33.jpg",
+        "output_image": "scaling_33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

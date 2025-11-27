@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_042",
+        "topic": "Business & Advertising",
+        "prompt": "Change the word 'UMBRELLAS' on the illuminated sign above the man to 'RAIN SHOP' while keeping the same bold sans-serif font, capitalization, and glowing effect. Preserve the lighting, color tone, and sign dimensions.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,2,0,1,0,0,1,0,0)",
+        "input_image": "42.jpg",
+        "source_tag": "human_annotation"
+    }
+]

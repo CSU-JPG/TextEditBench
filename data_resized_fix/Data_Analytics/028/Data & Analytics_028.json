@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_028",
+    "topic": "Data & Analytics",
+    "prompt": "Change the Sales Amount in Month X for region1 from ¥317,900.00 to ¥320,000.00.",
+    "editing_method": "text_change",
+    "difficulty": "hard",
+    "difficulty_score": "12(2,2,1,0,2,0,0,2,3,0)",
+    "input_image": "28.jpg",
+    "output_image": "text_change_28.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Update the sales proportion chart,update the bar chart height for region1 and recalculate region1's achievement rate to 80.00%."
+  }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_039",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Resize the word 'KEHUA DESIGN STUDIO' so that it is aligned with the length of logo",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "39.jpg",
+        "output_image": "scaling_39.jpg",
+        "source_tag": "human_annotation"
+    }
+]

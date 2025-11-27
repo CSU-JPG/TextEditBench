@@ -1,0 +1,13 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_018",
+            "topic": "Packaging & Logistics",
+            "prompt": "Enlarge the text of 'Pitch Deck Presentation' in the image",
+            "editing_method": "scaling",
+            "difficulty": "medium",
+            "difficulty_score": "6(1,2,0,0,0,0,2,0,1,0)",
+            "input_image":"18.jpg",
+            "output_image":"scaling_18.jpg",
+            "source_tag":"human_annotation"
+        }
+    ]

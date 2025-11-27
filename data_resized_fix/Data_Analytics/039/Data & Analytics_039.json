@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_039",
+  "topic": "Data & Analytics",
+  "prompt":  "Add a subtitle 'Unveiling Trends and Insights Across Projects' below the main title 'Market data analysis'.",
+  "editing_method": "text_insert",
+  "difficulty": "medium",
+  "difficulty_score": "8(2,2,1,0,0,0,0,2,1,0)",
+  "input_image": "39.jpg",
+  "output_image": "text_insert_39.jpg",
+  "source_tag": "human_annotation"
+}

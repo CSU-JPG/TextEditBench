@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_025",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change all visible 'SUZUKI' text on the motorcycle and in the image to 'YAMAHA', preserving capitalization, font style, logo placement, and alignment across all locations on the vehicle body and floor text.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,1,1,0,0,1,1,0,0)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_043",
+        "topic": "Business &Advertising",
+        "prompt": "Fix the text errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+        "input_image": "43.jpg",
+        "output_image": "text_change_43.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "According to the information in the picture, it can be inferred that the picture is in the directory that introduces the content, so it should be written 'contents' instead of 'contents'"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_020",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change both illuminated billboard texts from 'STILL' to 'MOVE', preserving capitalization, lighting contrast between red and white panels, font size, and alignment consistent with the original signage.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,1,2,1,0,0,1,1,0,0)",
+        "input_image": "20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

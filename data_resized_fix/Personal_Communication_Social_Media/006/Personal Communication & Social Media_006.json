@@ -1,0 +1,13 @@
+﻿[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_006",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Scale the sentence directly below the image to 50%.",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,2,2,0,0,0,0,0,1,0)",
+        "input_image": "6.jpg",
+        "output_image": "scaling_6.jpg",
+        "source_tag": "human_annotation"
+    }
+]

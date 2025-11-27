@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_025",
+        "topic": "Media & Publishing",
+        "prompt": "Delete 'great'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,2,0,0,1,0,0)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation"
+    }
+]

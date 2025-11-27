@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_020",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Make 'Manage Home' a little bigger",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

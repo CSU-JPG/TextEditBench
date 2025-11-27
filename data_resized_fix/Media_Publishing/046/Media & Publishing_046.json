@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_046",
+    "topic": "Media & Publishing",
+    "prompt": "Change the deadline of the event to Double Eleven.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "46.jpg",
+    "output_image": "text_change_46.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"Double Eleven refers to November 11th, so the deadline is changed to November 11th."
+  }
+]

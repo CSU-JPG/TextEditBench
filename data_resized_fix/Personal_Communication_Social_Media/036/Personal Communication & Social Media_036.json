@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_036",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate the text 'Looking for Shining You' 10 degrees clockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,0,0,0,0,1,2,0)",
+        "input_image": "36.jpg",
+        "output_image": "text_relocation_36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

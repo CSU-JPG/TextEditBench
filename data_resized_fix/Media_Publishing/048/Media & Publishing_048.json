@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_048",
+    "topic": "Media & Publishing",
+    "prompt": "Change the font of Chinese sentences in the picture.",
+    "editing_method": "text_attribute",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "48.jpg",
+    "output_image": "text_attribute_48.jpg",
+    "source_tag": "human_annotation"
+  }
+]

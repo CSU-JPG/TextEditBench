@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Merchandise & Apparel_038",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Change the name on this player's jersey to 'Messi'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(1,1,1,0,1,0,2,1,0,2)",
+        "input_image": "38.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When the name on a jersey is changed to 'Messi,' the entity referred to by the visual information shifts from an ordinary player to a specific, well-known star, 'Lionel Messi.' In the public perception of football, the name 'Messi' is strongly and inseparably associated with his iconic number 10 jersey, which is a core visual symbol of his identity. Therefore, it is necessary to also change the jersey number to 10 to ensure that the textual information (the name) and the visual symbol (the number) are fully aligned in referring to the same individual. This maintains the authenticity and credibility of the image in the eyes of fans and general viewers, avoiding cognitive conflict caused by a mismatch between the number and the known name association."
+    }
+]

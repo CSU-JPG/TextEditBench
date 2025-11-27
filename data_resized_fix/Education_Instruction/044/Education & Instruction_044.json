@@ -1,0 +1,12 @@
+{
+        "id": "TextEditing_Education & Instruction_044",
+        "topic": "Education & Instruction",
+        "prompt": "Summarize the content of each of the four learning methods in the picture in one sentence.",
+        "editing_method":"text_insert",
+        "difficulty":"hard",
+        "difficulty_score":"10(2,2,1,2,0,0,1,0,2)",
+        "input_image": "44.jpg",
+        "output_image": "text_insert_44.jpg",
+        "source_tag": "human_innoration",
+        "knowledge_prompt":"Find ways to study and summarize the content. For example, the content of 'Simon learning method' can be briefly summarized as 'For someone with a basic foundation, mastering any discipline in 6 months is achievable with genuine dedication.'"
+   }

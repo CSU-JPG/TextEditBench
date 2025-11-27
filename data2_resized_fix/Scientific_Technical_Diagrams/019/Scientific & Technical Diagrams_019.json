@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_019",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "delete the 2 titles in the image",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "9(1,2,2,0,0,0,2,0,0,2)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The titles and their surrounding boxes form unified visual elements. The boxes are integral parts of the title design rather than separate decorations, so deleting the titles entails removing both the text and their enclosing boxes to maintain visual coherence."
+    }
+]

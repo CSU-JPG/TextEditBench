@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_013",
+    "topic": "Art & Creative Expression",
+    "prompt": "Make 'HALLWEEN' a little smaller",
+    "editing_method": "scaling",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,0,2,0,2,0,0,2,1,0)",
+    "input_image": "13.jpg",
+    "source_tag": "human_annotation"
+  }
+]

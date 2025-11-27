@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_022",
+        "topic": "Business &Advertising",
+        "prompt": "Change '2024' to '2025'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,0,0,0,0,2,0,0,2)",
+        "input_image": "22.jpg",
+        "output_image": "text_change_22.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Because Mother's Day is different every year, when 2024 is changed to 2025, the corresponding activity date should also be revised."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_041",
+        "topic": "Art & Creative Expression",
+        "prompt": "Delete 'ACTUALLY'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,1,0,0,1,0,0)",
+        "input_image": "41.jpg",
+        "source_tag": "human_annotation"
+    }
+]

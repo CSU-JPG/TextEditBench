@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_034",
+  "topic": "Data & Analytics",
+  "prompt": "Scale down the title 'Salary Management Inventory'",
+  "editing_method": "text_change",
+  "difficulty": "medium",
+  "difficulty_score": "5(1,2,1,0,0,0,0,1,0,0)",
+  "input_image": "34.jpg",
+  "output_image": "scaling_34.jpg",
+  "source_tag": "human_annotation"
+}

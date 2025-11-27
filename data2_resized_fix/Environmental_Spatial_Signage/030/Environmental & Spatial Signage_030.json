@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_030",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the large text on the sign from 'CLEAR' to 'STOP', keeping the same bold black uppercase font style, size, and centered alignment within the red-bordered frame.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(2,2,2,0,1,0,0,1,0,0)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

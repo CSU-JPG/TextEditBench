@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_048",
+        "topic": "Professional Documents & Reports",
+        "prompt": "translate the Chinese text into English",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,2,0,1,0,0,0,0,2,0)",
+        "input_image": "48.jpg",
+        "output_image": "text_change_48.jpg",
+        "source_tag": "human_annotation"
+    }
+]

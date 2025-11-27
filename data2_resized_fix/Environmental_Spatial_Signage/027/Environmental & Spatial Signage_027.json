@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_027",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the house number from '61' to '88', keeping the same black serif font style, size, and centered alignment on the white plaque.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,2,0,0,0,0,0,0,0)",
+        "input_image": "27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

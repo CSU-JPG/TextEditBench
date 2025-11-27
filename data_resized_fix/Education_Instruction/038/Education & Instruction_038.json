@@ -1,0 +1,12 @@
+{
+        "id": "TextEditing_Education & Instruction_038",
+        "topic": "Education & Instruction",
+        "prompt": "Change the English word under the word '效' to another expression without changing the meaning of the expression..",
+        "editing_method":"text_change",
+        "difficulty":"hard",
+        "difficulty_score":"11(1,2,2,2,0,0,0,2,0,2)",
+        "input_image": "38.jpg",
+        "output_image": "text_change_38.jpg",
+        "source_tag": "human_innoration",
+        "knowledge_prompt":"Replace with synonyms, such as 'MAKE RIPPLES' with 'creating waves',' 'WONDERFUL' with 'fascinating',' 'CONVERSATION' with 'dialogue', etc.."
+    }

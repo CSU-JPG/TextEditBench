@@ -1,0 +1,14 @@
+[
+    {
+        "id":"TextEditing_Business &Advertising_051",
+        "topic":"Business&Advertising",
+        "prompt":"Insert a minus sign ,the text 'gift certificate'and the deduction amount for this gift certificate after the text 'Cross-store discount'and its amount.",
+        "editing_method":"text_insert",
+        "difficulty":"easy",
+        "difficulty_score":"2(2,0,0,0,0,0,0,0,0,0)",
+        "input_image":"51.jpg",
+        "output_image":"text_insert_51.jpg",
+        "source_tag":"human_annotation",
+        "knowledge_prompt":"The user's instruction adds a new deduction item — the gift certificate — after the existing “Cross-store discount.” This reflects that the final payable amount should further decrease because the gift certificate provides an additional reduction. Therefore, the total price on the image should drop from 349 yuan to 299 yuan, and the original note of “Direct decrease of 150 yuan” should logically update to “Direct decrease of 200 yuan,” showing the combined discount effect of both the cross-store discount and the gift certificate."
+    }
+]

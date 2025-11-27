@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_037",
+        "topic": "Business &Advertising",
+        "prompt": "Move the sentence 'BUSINESS PLAN GENERAL PRESENTATION'to the top of the title.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "37.jpg",
+        "output_image": "text_relocation_37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

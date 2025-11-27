@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_017",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the cake topper text from 'Happy Birthday' to 'Happy Anniversary', keeping the same font, color, and upright stick placement on the cake.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,1,2,0,0,0,0,1,0,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

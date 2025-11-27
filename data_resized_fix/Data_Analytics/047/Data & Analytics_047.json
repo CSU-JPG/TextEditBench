@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_047",
+  "topic": "Data & Analytics",
+  "prompt": "Make the font size larger for the sentence 'we aim to boost market expansion efforts'.",
+  "editing_method": "scaling",
+  "difficulty": "easy",
+  "difficulty_score": "4(1,1,0,0,0,0,0,1,1,0)",
+  "input_image": "47.jpg",
+  "output_image": "scaling_47.jpg",
+  "source_tag": "human_annotation"
+}

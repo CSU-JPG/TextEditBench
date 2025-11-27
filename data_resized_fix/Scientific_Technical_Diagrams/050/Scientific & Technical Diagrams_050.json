@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_050",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "add a white title 'THE STRUCTURE OF A HUMAN HEART' at the center of the red block on the top",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "50.jpg",
+        "output_image": "text_insert_50.jpg",
+        "source_tag": "human_annotation"
+    }
+]

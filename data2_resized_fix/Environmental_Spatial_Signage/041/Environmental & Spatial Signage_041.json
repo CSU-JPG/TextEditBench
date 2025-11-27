@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_041",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Remove 'ONE WAY'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "41.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since 'ONE WAY' is written on the arrow, the arrow sign should also be removed after deletion."
+    }
+]

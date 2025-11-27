@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_042",
+"topic": "Packaging & Logistics",
+"prompt": "Scale up the title text 'Logistic Service' while keeping its original font style, color, and alignment unchanged.",
+"editing_method": "scaling",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,0,0,0,1,0)",
+"input_image": "42.jpg",
+"output_image": "scaling_42.jpg",
+"source_tag": "human_annotation"
+}
+]

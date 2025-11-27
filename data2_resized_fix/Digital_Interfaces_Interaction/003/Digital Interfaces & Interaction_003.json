@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_003",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Add 'The intersection of fingertips is an epitome of work and life in the 4G era. Every key press and screen activation is an 'active' moment connecting the world.' to the top right corner of the picture.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "3.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Crafts & Personal Creations_008",
+    "topic": "Crafts & Personal Creations",
+    "prompt": "Replace the words in the image with synonyms",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,2,0,0,0,0,1,0,2)",
+    "input_image": "8.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "The text in the picture is 'good', and its synonym can be 'nice', so 'good' can be replaced with 'nice'."
+  }
+]

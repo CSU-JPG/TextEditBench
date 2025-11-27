@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_026",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Resize the word 'garden service' so that it is aligned with the length of 'flora enhancement'",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "26.jpg",
+        "output_image": "scaling_26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

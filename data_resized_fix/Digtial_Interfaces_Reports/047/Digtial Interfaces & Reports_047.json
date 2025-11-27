@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_047",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Move all the text that is significantly offset in the top right corner to a semi-transparent box at the top center, symmetrically.",
+        "editing_method":"text_relocation",
+        "difficulty":" medium",
+        "difficulty_score":"8(2,2,0,0,0,0,0,2,2,0)",
+        "input_image": "47.jpg",
+        "output_image": "text_relocation_47.jpg",
+        "source_tag": "human_annotation"
+    }
+]

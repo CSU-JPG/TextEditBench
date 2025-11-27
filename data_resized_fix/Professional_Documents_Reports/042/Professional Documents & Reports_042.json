@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_042",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Enlarge the body text size to 1.5 times the original.",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"4(1,2,0,0,0,0,0,0,1,0)",
+        "input_image": "42.jpg",
+        "output_image": "scaling_42.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Media & Publishing_036",
+        "topic": "Media & Publishing",
+        "prompt": "Replace 'army'. Modify it according to the context in the text to make it more appropriate.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,0,0,0,1,2,1,0,2)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "In the image, the name 'American Central Hospital' as a civilian medical institution obviously conflicts in meaning with the word 'army' below. This inconsistency undermines the professionalism and credibility of the information, causing viewers to be confused about the nature of the institution. Changing 'army' to 'medical system' can align it with the hospital name above in terms of industry characteristics and organizational logic, eliminating the ambiguity caused by the original mixed terminology and enhancing the overall internal consistency and coherence of the text within a professional medical context."
+    }
+]

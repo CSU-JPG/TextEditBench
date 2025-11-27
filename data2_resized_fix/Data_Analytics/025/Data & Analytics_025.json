@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Data & Analytics_025",
+        "topic": "Data & Analytics",
+        "prompt": "Change the number on the road sign from '123' to '456', keeping the same black font, size, alignment, and arrow direction on the white background of the sign.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation"
+    }
+]

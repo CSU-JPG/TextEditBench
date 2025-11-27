@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_015",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the font of the movie titles below the three images to 'Adventurous'.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "15.jpg",
+        "output_image": "text_attribute_15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_016_relocation",
+  "topic": "Data & Analytics",
+  "prompt": "Move the sentence 'The content ecosystem is in full bloom, enriching the public's vision and imagination of home decoration.' from its original position and place it directly below the 3x3 table (which contains items like Enabler space, Creative corner, Nordic style, etc.).",
+  "editing_method": "text_relocation",
+  "difficulty": "easy",
+  "difficulty_score": "6(2,2,0,0,0,0,0,1,1,0)",
+  "input_image": "16.jpg",
+  "output_image": "text_relocation_16.jpg",
+  "source_tag": "human_annotation"
+}

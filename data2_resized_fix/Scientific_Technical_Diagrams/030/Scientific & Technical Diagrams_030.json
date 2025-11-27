@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_030",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change the font of 'upper lip' and 'lower lip' in the picture to red",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,2,0,0,0,0,0,0,1,0)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

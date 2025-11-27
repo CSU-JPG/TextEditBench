@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_035",
+"topic": "Packaging & Logistics",
+"prompt": "Relocate the brand text and subtitle: move 'Arowwwai' to the top-center of the page, place the circular eagle logo directly below it, and move 'Logistic' to be centered under the logo. Keep original font, weight, color, and spacing relationships.",
+"editing_method": "text_relocation",
+"difficulty": "medium",
+"difficulty_score": "4(1,1,0,0,0,0,1,0,1,0)",
+"input_image": "35.jpg",
+"output_image": "text_relocation_35.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "This task requires consistent hierarchical alignment across multiple typographic elements. The model must reflow the layout so the main wordmark 'Arowwwai' becomes the top-centered anchor, the logo sits beneath it, and the descriptor 'Logistic' is centered under the logo. Typography and colors remain unchanged; only positions and spacing are adjusted to preserve visual balance."
+}
+]

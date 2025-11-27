@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_026",
+        "topic": "Business & Advertising",
+        "prompt": "Add 'Speed Rages, Unbeatable!'' to the exact center of the picture",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

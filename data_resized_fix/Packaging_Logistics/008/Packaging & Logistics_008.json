@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_008",
+        "topic": "Packaging & Logistics",
+        "prompt": "Scale up the text 'Express Delivery & Cargo Transport Solutions', increasing its size while keeping its position, font style, and background unchanged",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "7(2,2,0,0,0,0,0,0,1,2)",
+        "input_image":"8.jpg",
+        "output_image":"scaling_8.jpg",
+        "source_tag":"human_annotation"
+    }
+]

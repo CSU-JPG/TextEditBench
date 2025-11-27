@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_034",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Change the text on the bag to blue",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,1,1,0,0,0,2,1,0)",
+        "input_image": "34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

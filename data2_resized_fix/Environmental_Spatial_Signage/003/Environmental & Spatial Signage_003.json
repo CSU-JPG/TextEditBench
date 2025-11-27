@@ -1,0 +1,13 @@
+[
+    {
+        "id": " &TextEditing_Environmental & Spatial Signage_003",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "find the errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+        "input_image": "3.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Find the errors in the picture. According to the information on the picture, it is found that the warning sign does not match the picture. To ensure the harmony of the picture, it can be known from the semantic expectations that 'lakeside' should be changed to 'no smoking' to guarantee the unity of the picture."
+    }
+]

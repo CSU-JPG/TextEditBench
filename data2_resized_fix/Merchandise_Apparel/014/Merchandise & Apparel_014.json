@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_014",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the brand name on the diaper packaging from 'Merries' to 'Huggies', keeping the same font size, blue color tone, and centered alignment within the orange circular frame. Ensure the overall packaging design, shadows, and lighting remain natural.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "8(1,2,2,0,2,0,0,1,0,0)",
+        "input_image": "14.jpg",
+        "source_tag": "human_annotation"
+    }
+]

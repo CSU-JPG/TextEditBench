@@ -1,0 +1,11 @@
+ {
+    "id": "TextEditing_Data & Analytics_042",
+    "topic": "Data & Analytics",
+    "prompt": "Translate the second 'Conclusion' title to Chinese as '结论'.",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "4(1,1,0,0,0,0,0,1,1,0)",
+    "input_image": "42.jpg",
+    "output_image": "text_change_42.jpg",
+    "source_tag": "human_annotation"
+  }

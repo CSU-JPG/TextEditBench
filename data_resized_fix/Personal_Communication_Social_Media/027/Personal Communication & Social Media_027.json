@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_027",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add '2025' directly below the speech bubble.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "27.jpg",
+        "output_image": "text_insert_27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_045",
+        "topic": "Packaging & Logistics",
+        "prompt": "Remove the label on the bag that is on the bicycle's back seat.",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "10(0,2,0,2,2,0,2,0,0,2)",
+        "input_image": "45.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the label consists of the text on top and the black filled background underneath, while removing the text, one should cover the area where the label is located with the same dark green color as the rest of the bag."
+    }
+]

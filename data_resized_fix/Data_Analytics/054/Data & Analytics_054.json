@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_054",
+  "topic": "Data & Analytics",
+  "prompt": "Change the font style of 'Overview' to italic.",
+  "editing_method": "text_attribute",
+  "difficulty": "easy",
+  "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "54.jpg",
+  "output_image": "text_attribute_54.jpg",
+  "source_tag": "human_annotation"
+}

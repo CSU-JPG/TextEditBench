@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_032",
+        "topic": "Media & Publishing",
+        "prompt": "Make the white text a little smaller.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,1,0,0,1,0,0,0,1,0)",
+        "input_image": "32.jpg",
+        "source_tag": "human_annotation"
+    }
+]

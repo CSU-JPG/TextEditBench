@@ -1,0 +1,12 @@
+ {
+        "id": "TextEditing_Art & Creative Expression_016",
+        "topic": "Art & Creative Expression",
+        "prompt": "replace 'BEGINNING OF SPRING ' with 'BEGINNING OF AUTUMN'",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"9(1, 2, 0, 2, 0, 0, 2, 0, 0, 2)",
+        "input_image": "16.jpg ",
+        "output_image": "text_change_16.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"When changing the theme from the 'Beginning of Spring' to the 'Beginning of Autumn', it can be known from the semantic expectation that the elements related to the theme such as the time of the solar terms should also undergo corresponding changes."
+    }

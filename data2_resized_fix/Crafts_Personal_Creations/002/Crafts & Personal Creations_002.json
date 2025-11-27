@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Crafts & Personal Creations_002",
+    "topic": "Crafts & Personal Creations",
+    "prompt": "Rotate 'Randy' 30 degrees to the right",
+    "editing_method": "text_relocation",
+    "difficulty": "medium",
+    "difficulty_score": "6(1,0,2,0,0,0,0,1,2,0)",
+    "input_image": "2.jpg",
+    "source_tag": "human_annotation"
+  }
+]

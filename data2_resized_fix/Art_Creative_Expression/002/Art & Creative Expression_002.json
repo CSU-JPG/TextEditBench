@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_002",
+    "topic": "Art & Creative Expression",
+    "prompt": "Make 'tac' a little bigger",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+    "input_image": "2.jpg",
+    "source_tag": "human_annotation"
+  }
+]

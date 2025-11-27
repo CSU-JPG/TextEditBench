@@ -1,0 +1,10 @@
+{
+    "id":"TextEditing_Media & Publishing_006",
+    "topic": "Media & Publishing",
+    "prompt": "Change the Chinese font in the picture",
+    "editing_method":"text_attribute",
+    "difficulty":"medium",
+    "difficulty_score":"7(0,2,1,2,1,0,0,0,1,0)",
+    "input_image": "6.jpg",
+    "source_tag": "human_annotation"
+}

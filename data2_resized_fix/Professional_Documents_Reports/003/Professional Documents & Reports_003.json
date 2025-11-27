@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_003",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Replace the words in the picture with their synonyms",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "3.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace the words in the picture with their synonyms. According to the information in the picture, it is also easy to know that 'attorney' and 'lawyer' are synonyms. As can be seen from the semantic expectations, replace 'lawyer' with 'attorney' to meet the requirement."
+    }
+]

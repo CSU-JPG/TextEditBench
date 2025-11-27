@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_022",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the label text on the jar from 'Z' to 'X', maintaining font size, color, and alignment while preserving the contrast and ink-splatter pattern around the label.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,1,0,0,0,0,1,1,0,0)",
+        "input_image": "22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

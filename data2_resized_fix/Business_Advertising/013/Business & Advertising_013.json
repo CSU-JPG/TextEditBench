@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_013",
+    "topic": "Business & Advertising",
+    "prompt": "Replace 'hot' with a synonym",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,0,0,0,0,0,0,0,0,2)",
+    "input_image": "13.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Replace 'hot', but without changing the original meaning, you can use 'fiery'"
+  }
+]

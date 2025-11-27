@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Art & Creative Expression_046",
+        "topic": "Art & Creative Expression",
+        "prompt": "Reduce the gold text in the image",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,1,0,0,0,0,2,1,0)",
+        "input_image": "46.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_032",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Change to a more definite tone",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,2,2,0,0,0,2,0,0,2)",
+        "input_image": "32.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "You can use words like Absolutely, Definitely, Certainly, Surely, etc"
+    }
+]

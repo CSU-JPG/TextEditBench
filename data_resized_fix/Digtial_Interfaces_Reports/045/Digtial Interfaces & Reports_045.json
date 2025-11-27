@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_045",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Add an underline to the text segment with the most characters in this image.",
+        "editing_method":"text_attribute",
+        "difficulty":"medium",
+        "difficulty_score":"10(1,2,2,0,0,0,2,1,0,2)",
+        "input_image": "45.jpg",
+        "output_image": "text_attribute_45.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt":"After analyzing these three sections of text, the one with the most characters is 'Joseph & Imogen', so underline this one."
+    }
+]

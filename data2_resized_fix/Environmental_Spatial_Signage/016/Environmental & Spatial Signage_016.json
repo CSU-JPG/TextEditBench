@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Environmental & Spatial Signage_016",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Translate this text into English",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,2,1,0,0,0,1,2,0)",
+        "input_image": "16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

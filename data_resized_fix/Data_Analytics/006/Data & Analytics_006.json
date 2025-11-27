@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_006",
+    "topic": "Data & Analytics",
+    "prompt": "Change the font style of the 'FINANCIAL DATA' heading to italic",
+    "editing_method": "text_attribute",
+    "difficulty": "easy",
+    "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+    "input_image": "6.jpg",
+    "output_image": "text_attribute_6.jpg",
+    "source_tag": "human_annotation"
+  }
+]

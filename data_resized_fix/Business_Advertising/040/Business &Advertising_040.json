@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_040",
+        "topic": "Business &Advertising",
+        "prompt": "Translate only the sentence 'Blue minimalist business plan' into Chinese.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,0,2,0,0,0,0,2,0)",
+        "input_image": "40.jpg",
+        "output_image": "text_change_40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

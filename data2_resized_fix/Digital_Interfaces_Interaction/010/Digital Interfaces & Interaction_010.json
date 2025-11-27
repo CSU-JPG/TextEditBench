@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_010",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Change the font of the text in the image to ROMAN type.",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "7(2,2,0,0,1,1,0,0,1,0)",
+        "input_image": "10.jpg",
+        "source_tag": "human_annotation"
+    }
+]

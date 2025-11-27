@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_044",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Translate the text in the image into Chinese",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,0,2,0,0,0,0,2,0)",
+        "input_image": "44.jpg",
+        "source_tag": "human_annotation"
+    }
+]

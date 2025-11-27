@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_035",
+        "topic": "Art & Creative Expression",
+        "prompt": "Remove the content from the simplest sticky.",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,0,2,0,1,0,2,1,0,2)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The simplest sticky notes should have minimal text, the simplest graphics, and standardized fonts."
+    }
+]

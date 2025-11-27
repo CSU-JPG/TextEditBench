@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_017",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the text on the aluminum can from 'TEK' to 'SODA', preserving capitalization, font size, color, curvature, and reflective lighting consistency on the can surface.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

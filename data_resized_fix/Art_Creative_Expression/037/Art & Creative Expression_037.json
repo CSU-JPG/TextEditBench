@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_037",
+        "topic": "Art & Creative Expression",
+        "prompt": "change the font of 'Double Ninth Festival'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,2,0,0,0,0,1,0)",
+        "input_image": "37.jpg",
+        "output_image": "text_attribute_37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

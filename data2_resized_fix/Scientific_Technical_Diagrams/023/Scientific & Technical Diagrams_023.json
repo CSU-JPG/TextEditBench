@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_023",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Translate all subtitles in the image into Chinese",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "13(2,2,2,0,0,1,2,2,2,0)",
+        "input_image": "23.jpg",
+        "source_tag": "human_annotation"
+    }
+]

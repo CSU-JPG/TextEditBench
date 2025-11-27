@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Crafts & Personal Creations_006",
+    "topic": "Crafts & Personal Creations",
+    "prompt": "Change 'PANDA' to food that pandas love to eat",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,0,0,0,0,0,0,1,0,2)",
+    "input_image": "6.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "The food that pandas love to eat is bamboo, so replace 'PANDA' with 'BAMBOO'."
+  }
+]

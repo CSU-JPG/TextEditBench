@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_011",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Turn on the computer on the left side of the picture and display the word 'Asia'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,0,2,0,0,0,2,0,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_028",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the street sign text from 'yulla' to 'villa', keeping the same bold black sans-serif font style, size, and centered alignment on the white rectangular background.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

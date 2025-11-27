@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_027",
+        "topic": "Art & Creative Expression",
+        "prompt": "Translate the board text 'I SEE A LIGHT IN THE DARKNESS' into Chinese while preserving the plastic letter-board style: keep all-caps letter shapes, three-line layout, centered alignment, spacing along the board grooves, and the wooden frame/background unchanged.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+        "input_image": "27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

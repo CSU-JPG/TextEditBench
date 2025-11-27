@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_043",
+        "topic": "Business & Advertising",
+        "prompt": "Replace the word 'COOLING' on the vending machine sign with 'REFRESH' while maintaining the same blue gradient color, font style, and lighting effect. Ensure the new text is centered and proportionate to the original.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,0,2,0,0,0,0,1,0,0)",
+        "input_image": "43.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_068",
+        "topic": "Business & Advertising",
+        "prompt": "Modify this sign to make it more meaningful.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,2,0,0,0,0,1,0,2)",
+        "input_image": "68.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Although the image contains an actual horseshoe and its English brand logo, these elements do not explicitly point to a specific location or function, which can lead to ambiguous information. Therefore, modifying the text to 'horseshoe bar' can directly utilize the key visual symbol in the image (the horseshoe) and associate it with a clear commercial setting (a bar), thereby establishing a clear and intuitive image-text correspondence and effectively conveying the nature and theme of the place."
+    }
+]

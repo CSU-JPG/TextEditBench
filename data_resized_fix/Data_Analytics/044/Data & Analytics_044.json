@@ -1,0 +1,11 @@
+{
+   "id": "TextEditing_Data & Analytics_044",
+    "topic": "Data & Analytics",
+    "prompt": "Remove the years 2018-2022 below the title.",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,0,0,0,0,0,0,2,0,0)",
+    "input_image": "44.jpg",
+    "output_image": "text_delete_44.jpg",
+    "source_tag": "human_annotation"
+}

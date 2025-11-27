@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_0011",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Add 'Police Reminder' at the bottom right corner of the picture",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "21.jpg",
+        "source_tag": "model_generated"
+    }
+]

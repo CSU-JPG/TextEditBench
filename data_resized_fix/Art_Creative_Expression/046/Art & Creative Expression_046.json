@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_046",
+        "topic": "Art & Creative Expression",
+        "prompt": "Replace the picture's theme from 'Qingming Festival'  with 'Dragon Boat Festival'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(1,2,0,0,0,0,2,1,0,2)",
+        "input_image": "46.jpg",
+        "output_image": "text_change_46.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"When replacing 'Qingming Festival' with 'Dragon Boat Festival', to ensure the overall harmony of the picture, according to the information in the picture, the time is 2025, and the Dragon Boat Festival holiday in 2025 is from May 31 to June 2. As indicated by the semantic expectation, the holiday time should also be changed accordingly."
+    }
+]

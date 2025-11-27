@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_017",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Rotate the logo in the image 90 degrees clockwise",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "(0,0,2,0,0,0,0,2,2,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

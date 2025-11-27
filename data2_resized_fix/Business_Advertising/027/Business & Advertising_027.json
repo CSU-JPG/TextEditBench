@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_027",
+        "topic": "Business & Advertising",
+        "prompt": "Change the storefront sign text from 'DAKS' to 'CAMP', keeping the same capitalization, font weight, alignment, and red-white color contrast under daylight conditions.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,1,1,0,0,0,0,1,0,0)",
+        "input_image": "27.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Storefront signage typically uses bold sans-serif fonts for visibility. When editing such text, maintain the geometric proportions and lighting reflections of the original sign materials to ensure a realistic result."
+    }
+]

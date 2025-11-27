@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_035",
+        "topic": "Business &Advertising",
+        "prompt": "Use a more formal expression to express 'Marketing activity plan'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+        "input_image": "35.jpg",
+        "output_image": "text_change_35.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "It is required to modify the tone to be more formal, so the overall language should be more formal and enhance the formal expression."
+    }
+]

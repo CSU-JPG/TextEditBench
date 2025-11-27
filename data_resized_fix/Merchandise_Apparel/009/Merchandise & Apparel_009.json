@@ -1,0 +1,12 @@
+{
+        "id": "TextEditing_Merchandise & Apparel_009",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Reduce the font size of 'Retro style' directly above the image to be more obvious",
+        "editing_method":"scaling",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,2,1,0,0,0,0,1,1,0)",
+        "input_image": "9.jpg",
+        "output_image": "scaling_9.jpg",
+        "source_tag": "human_innoration"
+        
+    }

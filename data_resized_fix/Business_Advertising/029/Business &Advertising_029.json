@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_029",
+        "topic": "Business &Advertising",
+        "prompt": "Change the sentence 'BUY NOW' into black.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "29.jpg",
+        "output_image": "text_attribute_29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_026",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the lipstick writing on the mirror from 'BYE xx' to 'HI xx', keeping the same bright red lipstick color, brush-like stroke thickness, glossy reflections, and perspective on the glass. Preserve the two 'x' marks, hand and lipstick, and all lighting and smudges.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

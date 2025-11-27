@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_005",
+    "topic": "Data & Analytics",
+    "prompt": "Make the name 'XIAOHUA ZHANG' at the top smaller",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+    "input_image": "5.jpg",
+    "output_image": "scaling_5.jpg",
+    "source_tag": "human_annotation"
+  }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_042",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Scale 'Dreams Light Up the Future' to 125%.",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,2,0,0,0,0,1,1,0)",
+        "input_image": "42.jpg",
+        "output_image": "scaling_42.jpg",
+        "source_tag": "human_annotation"
+    }
+]

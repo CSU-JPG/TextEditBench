@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_008",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Replace 'love' in the picture with their synonyms",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "8.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace 'love' in the picture with their synonyms. According to the information in the picture, it is also easy to know that 'like' and 'love' are synonyms. As can be seen from the semantic expectations, replace 'love' with 'like' to meet the requirement."
+    }
+]

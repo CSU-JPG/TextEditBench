@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_035",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Rotate the center title 30 degrees clockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,1,0,0,0,0,0,0,2,0)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation"
+    }
+]

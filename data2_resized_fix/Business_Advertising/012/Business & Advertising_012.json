@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_012",
+    "topic": "Business & Advertising",
+    "prompt": "Rotate 'Chaptters' 15 degrees to the left",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+    "input_image": "12.jpg",
+    "source_tag": "human_annotation"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_001",
+    "topic": "Business & Advertising",
+    "prompt": "Change 'PiG' to 'DOG'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,0,0,1,0,0,2,0,2)",
+    "input_image": "1.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Also need to change the picture of the pig above 'Pig' to a dog."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_002",
+    "topic": "Data & Analytics",
+    "prompt":  "Translate the text 'SELECTYEAR&MONTH' into Chinese, which means '选择年份与月份'.",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+    "input_image": "2.jpg",
+    "source_tag": "human_annotation"
+  }
+]

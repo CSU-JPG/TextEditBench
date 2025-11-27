@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_001",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the text 'POLICE' to 'FIRE' in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+        "input_image": "1.jpg",
+        "source_tag": "human_annotation"
+    }
+]

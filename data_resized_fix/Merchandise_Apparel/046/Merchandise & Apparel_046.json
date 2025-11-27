@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Merchandise & Apparel_046",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Put 'Meet the most Beautiful' should be made smaller in font size.",
+        "editing_method":"scaling",
+        "difficulty":"medium",
+        "difficulty_score":"7(0,2,1,2,0,0,0,1,1,0)",
+        "input_image": "46.jpg",
+        "output_image": "scaling_46.jpg",
+        "source_tag": "human_innoration"
+    }

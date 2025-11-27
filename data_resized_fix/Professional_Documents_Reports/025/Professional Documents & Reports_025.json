@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_020",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Change 71 in grade C to 76",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"2(0,0,0,0,0,0,2,0,0,0)",
+        "input_image": "25.jpg",
+        "output_image": "text_change_25.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When adjusting the score range for grade C from 71 to 76, it is necessary to ensure the logical consistency of the overall grading system. Since the intervals for each grade are usually continuous and non-overlapping, modifying the score range for C implies that the adjacent D grade boundary should also be adjusted accordingly."
+    }
+]

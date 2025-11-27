@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_032",
+"topic": "Packaging & Logistics",
+"prompt": "Change the text 'BORCELLE' in the image to 'PACKAGE'. Keep it in ALL CAPS and maintain the original font style, weight, color, and center alignment above 'Dessert'.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "2(1,1,0,0,0,0,0,0,0,0)",
+"input_image": "32.jpg",
+"output_image": "text_change_32.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "The task is a direct lexical substitution of the brand word while preserving typography and layout: same bold rounded font, uppercase, color, baseline and center alignment; the secondary line 'Dessert' must remain unchanged. Kerning should adapt naturally to the new word so visual balance with the dessert illustration is retained."
+}
+]

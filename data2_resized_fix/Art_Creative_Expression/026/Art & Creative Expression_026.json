@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_026",
+        "topic": "Art & Creative Expression",
+        "prompt": "Translate the phrase 'FIGHT TODAY FOR A BETTER TOMORROW!' into Chinese and keep the handwritten style, line breaks, bold emphasis on 'TODAY', the underline under 'TODAY' and 'TOMORROW!', and the overall layout on the paper.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,2,0,0,0,0,0,0,0)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

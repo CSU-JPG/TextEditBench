@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_078",
+        "topic": "Business & Advertising",
+        "prompt": "Move this sign to a small hanging rack above the picture, first create a text box, then move the text onto it.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,1,0,0,1,0,1,1,0)",
+        "input_image": "78.jpg",
+        "source_tag": "human_annotation"
+    }
+]

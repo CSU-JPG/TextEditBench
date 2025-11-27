@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_023",
+    "topic": "Media & Publishing",
+    "prompt": "Change the date in the picture to the time of Martyrs' Day.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,1,0,2,1,0,0,1,0,2)",
+    "input_image": "23.jpg",
+    "output_image": "text_change_23.jpg",
+    "source_tag": "human_annotation",
+    "knoeledge_prompt":"Change the date in the picture to the time of the Martyrs' Day. The time of the Martyrs' Day is September 30, so the time will be changed to September 30."
+  }
+]

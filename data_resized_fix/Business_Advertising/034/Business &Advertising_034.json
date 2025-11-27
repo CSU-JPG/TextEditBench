@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_034",
+        "topic": "Business &Advertising",
+        "prompt": "Adjust the size of the bottom contact information so that it is similar to the length of the main title.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,0,2,0,0,0,0,1,0)",
+        "input_image": "34.jpg",
+        "output_image": "scaling_34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

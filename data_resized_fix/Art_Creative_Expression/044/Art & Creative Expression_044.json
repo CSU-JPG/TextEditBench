@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_044",
+        "topic": "Art & Creative Expression",
+        "prompt": "Add 'Beneath the sky on the grass no thoughts needed' at the very top of the picture so that they are separated by the original horizontal line at the top of the picture.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,2,0,0)",
+        "input_image": "44.jpg",
+        "output_image": "text_insert_44.jpg",
+        "source_tag": "human_annotation"
+    }
+]

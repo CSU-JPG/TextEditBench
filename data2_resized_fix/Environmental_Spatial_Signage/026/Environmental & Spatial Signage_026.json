@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_026",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Correct the misspelling on the clock face by changing the text 'THIKTRE' to 'THEATRE', preserving the same font, size, and alignment within the circular design of the clock.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,1,0,1,0,0,2,0,0)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

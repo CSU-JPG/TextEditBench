@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_0010",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "translation '熊本' into english",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,2,0,0,0,0,0,0)",
+        "input_image": "50.jpg",
+        "source_tag": "human_annotation"
+    }
+]

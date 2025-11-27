@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_017",
+    "topic": "Media & Publishing",
+    "prompt": "Set the calendar back by one day",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "5(0,1,1,2,0,1,0,0,0,0)",
+    "input_image": "17.jpg",
+    "output_image": "text_change_17.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"The calendar and the day of the week point to the same time. When the calendar is postponed by one day, in order to maintain the consistency of time semantics, the day of the week also needs to be changed accordingly, that is, postponed by one day."
+  }
+]

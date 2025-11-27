@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_006",
+    "topic": "Business & Advertising",
+    "prompt": "change '99' to '77'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,0,0,2,0,0,2,0,0)",
+    "input_image": "6.jpg",
+    "source_tag": "human_annotation"
+  }
+]

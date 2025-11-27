@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_020",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Scale 'KEEP GOING' to 70%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "20.jpg",
+        "output_image": "scaling_20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

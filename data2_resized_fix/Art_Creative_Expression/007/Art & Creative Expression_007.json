@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_007",
+    "topic": "Art & Creative Expression",
+    "prompt": "Change 'eee' to 'aaa'",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "6(1,2,0,0,0,2,0,1,0,0)",
+    "input_image": "7.jpg",
+    "source_tag": "human_annotation"
+  }
+]

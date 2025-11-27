@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_027",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Move 'KeHua Technology' below the logo",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "27.jpg",
+        "output_image": "text_relocation_27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

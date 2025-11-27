@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_050",
+  "topic": "Data & Analytics",
+  "prompt": "Add a subtitle 'Performance of Key Projects Across Different Phases' below the main title 'Market Data Analysis'.",
+  "editing_method": "text_insert",
+  "difficulty": "easy",
+  "difficulty_score": "4(1,1,0,0,0,0,0,1,1,0)",
+  "input_image": "50.jpg",
+  "output_image": "text_insert_50.jpg",
+  "source_tag": "human_annotation"
+}

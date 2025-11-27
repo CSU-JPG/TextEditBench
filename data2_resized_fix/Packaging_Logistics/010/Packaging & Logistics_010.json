@@ -1,0 +1,12 @@
+[
+    {
+        "id": " TextEditing_Packaging & Logistics_010",
+        "topic": "Packaging & Logistics",
+        "prompt": "rotate 'AND' 30 degrees clockwise in the design software",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,0,0,0,0,0,0,2,0)",
+        "input_image": "10.jpg",
+        "source_tag": "human_annotation"
+    }
+]

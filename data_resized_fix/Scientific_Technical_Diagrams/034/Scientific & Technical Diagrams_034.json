@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_034",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "fix the spelling error of the title",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,2,0,0,0,0,2,0,2,2)",
+        "input_image": "34.jpg",
+        "output_image": "text_change_34.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The title 'Vurtual reallity and viedo gams' should be corrected to 'Virtual reality and video games' because each original word contains a specific spelling error: 'Vurtual' uses the wrong vowel letter sequence and should be 'Virtual'; 'reallity' has an extra 'l' and should be 'reality'; 'viedo' has a transposed letter pair and should be 'video'; 'gams' is missing the vowel 'e' and should be 'games'. These corrections restore standard English spelling, preserve the intended meaning, and improve readability and professionalism."
+    }
+]

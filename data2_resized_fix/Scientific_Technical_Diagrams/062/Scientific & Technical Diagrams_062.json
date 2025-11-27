@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Scientific & Technical Diagrams_062",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change the name on the plane to China Southern Airlines",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "11(0,0,1,2,2,0,2,2,0,2)",
+        "input_image": "62.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "After changing the company name on the aircraft fuselage to 'China Southern Airlines' (CS Airlines), its visual identity system must be updated synchronously as a whole to establish a unified brand image. The iconic 'ghost face' logo of CS Airlines, with the kapok flower and blue tones as the core visual elements, is the core carrier of its brand identity and has an inseparable strong association with the name 'CS Airlines' in public perception. Therefore, the emblem on the tail must be correspondingly replaced with the standard CS Airlines logo to ensure that the brand name and visual symbols remain consistent across all key touchpoints. This synchronized modification can prevent information confusion, establish a complete and professional airline image, and comply with the actual aircraft livery specifications."
+    }
+]

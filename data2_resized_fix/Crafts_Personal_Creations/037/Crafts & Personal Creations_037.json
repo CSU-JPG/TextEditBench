@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_037",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Translate the text in the very center of the image into Chinese",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,0,2,0,0,0,1,2,0)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_036",
+        "topic": "Packaging & Logistics",
+        "prompt": "Move the words on the box to the center of each side.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "10(2,2,0,0,1,0,2,0,1,2)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Adjust the text rotation according to the box's orientation."
+    }
+]

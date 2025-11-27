@@ -1,0 +1,13 @@
+[
+{
+    "id": "TextEditing_Packaging & Logistics_050",
+    "topic": "Packaging & Logistics",
+    "prompt": "Change the text 'COMPANY' in the image to 'GROUP' while keeping the same font style, color, and centered alignment.",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+    "input_image": "50.jpg",
+    "output_image": "text_change_50.jpg",
+    "source_tag": "human_annotation"
+}
+]

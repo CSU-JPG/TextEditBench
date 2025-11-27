@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_062",
+  "topic": "Data & Analytics",
+  "prompt": "Add the slogan 'Track investment returns to maximize profits' below the main title.",
+  "editing_method": "text_insert",
+  "difficulty": "easy",
+  "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "62.jpg",
+  "output_image": "text_insert_62.jpg",
+  "source_tag": "human_annotation"
+}

@@ -1,0 +1,14 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_028",
+            "topic": "Packaging & Logistics",
+            "prompt": "Change the text ‘transform’ to ‘package’ while keeping the same font style, color, and layout.",
+            "editing_method": "text_change",
+            "difficulty": "easy",
+            "difficulty_score": "4(1,1,2,0,0,0,0,0,0,0)",
+            "input_image":"28.jpg",
+            "output_image":"text_change_28.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Changing “transform” to “package” requires the model to recognize that the original word does not match the visual content — the icon shows a hand holding a parcel, which represents delivery or packaging, not transformation.\nThe semantic expectation is that the new word “package” should align with the meaning implied by the icon (courier and parcel service) while maintaining the same visual design style, font weight, and spacing to preserve logo integrity and readability."
+        }
+    ]

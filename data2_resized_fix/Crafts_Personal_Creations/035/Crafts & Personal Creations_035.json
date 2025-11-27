@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_035",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Rephrase the text in the image in one word",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,1,2,0,0,0,0,1,0,2)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The text in the image is 'take it easy', its synonym can be 'relax', it can be replaced with 'relax'."
+    }
+]

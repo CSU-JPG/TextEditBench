@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_069",
+        "topic": "Business & Advertising",
+        "prompt": "Swap the Aiyu on the largest sign with the Aiyu on the door to the right in the picture.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(2,0,0,0,0,0,0,2,1,0)",
+        "input_image": "69.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": " &TextEditing_Environmental & Spatial Signage_0011",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "delete 'baking'and 'restaurant'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,0,0,0,0,0,0,0,2)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "After deleting 'baking'and 'restaurant', to ensure overall harmony, according to the information on the picture, it can be known from the semantic expectations that when deleting these two words, the cake patterns related to them on the picture should also be deleted to achieve the unity of the picture."
+    }
+]

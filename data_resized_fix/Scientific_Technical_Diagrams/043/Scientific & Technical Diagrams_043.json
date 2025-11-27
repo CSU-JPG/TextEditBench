@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_043",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "enlarge all the titles in the image",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "9(2,2,0,0,0,0,2,0,1,2)",
+        "input_image": "43.jpg",
+        "output_image": "scaling_43.jpg",
+        "source_tag": "human_annotation"
+    }
+]

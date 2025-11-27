@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_001",
+    "topic": "Media & Publishing",
+    "prompt": "Translate the Chinese in the picture into English.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "6(0,0,1,0,1,0,2,1,1,0)",
+    "input_image": "1.jpg",
+    "output_image": "text_change_1.jpg",
+    "source_tag": "human_annotation"
+  }
+]

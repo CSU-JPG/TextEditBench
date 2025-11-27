@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_011",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "delete the URL of the website in the image",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,0,0,0,0,2,1,0,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

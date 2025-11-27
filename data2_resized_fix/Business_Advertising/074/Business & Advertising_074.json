@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_074",
+        "topic": "Business & Advertising",
+        "prompt": "Change the store name to make it more attractive.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,0,0,0,0,0,2,2,0,2)",
+        "input_image": "74.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The store interior displayed in the image features typical baked goods, with both the appearance and arrangement clearly indicating a place specialized in making and selling bread products. Using the term 'store' is too broad and fails to highlight its professional nature; changing it to 'bakery' can accurately capture the essence of its business, enhance its appeal, and provide viewers with the most direct and precise scene information, thereby effectively eliminating ambiguity and reinforcing the consistency between the image and text."
+    }
+]

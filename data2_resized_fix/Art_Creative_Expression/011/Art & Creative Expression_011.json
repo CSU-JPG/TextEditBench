@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_011",
+    "topic": "Art & Creative Expression",
+    "prompt": "delete 'RUSPIDGE'",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+    "input_image": "11.jpg",
+    "source_tag": "human_annotation"
+  }
+]

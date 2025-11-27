@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_043",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Move 'what', 'we', and 'want' to the left to align the four 'w's to the left",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,1,0,0,0,0,0,0,2,0)",
+        "input_image": "43.jpg",
+        "source_tag": "human_annotation"
+    }
+]

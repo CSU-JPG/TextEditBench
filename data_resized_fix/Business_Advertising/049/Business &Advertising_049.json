@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_049",
+        "topic": "Business &Advertising",
+        "prompt": "Move 'Design director'above 'XXX'",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "49.jpg",
+        "output_image": "text_relocation_49.jpg",
+        "source_tag": "human_annotation"
+    }
+]

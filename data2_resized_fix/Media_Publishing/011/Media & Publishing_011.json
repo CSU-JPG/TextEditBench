@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Media & Publishing_011",
+        "topic": "Media & Publishing",
+        "prompt": "make 'entance' smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

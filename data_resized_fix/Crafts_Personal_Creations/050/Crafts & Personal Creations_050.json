@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_050",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Under the title and above the time, add the sentence 'We sincerely invite you to join our art sharing salon'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,2,0,0,0,0,0,0)",
+        "input_image": "50.jpg",
+        "output_image": "text_insert_50.jpg",
+        "source_tag": "human_annotation"
+    }
+]

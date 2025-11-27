@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_015",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Fix the mistake of the time in the image",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,2,0,0,0,0,2,0,2,2)",
+        "input_image": "15.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The time was mistakenly written as 11 - 10 AM, which is impossible because the start time is later than the end time. The correct time may be 11:00 AM - 10:00 PM."
+    }
+]

@@ -1,0 +1,13 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_015",
+            "topic": "Packaging & Logistics",
+            "prompt": "Relocate the text of 'Key Features'from the upper left corner of the image to the lower left corner of the image",
+            "editing_method": "text_relocation",
+            "difficulty": "easy",
+            "difficulty_score": "3(1,1,0,0,0,0,0,0,1,0)",
+            "input_image":"15.jpg",
+            "output_image":"text_relocation_15.jpg",
+            "source_tag":"human_annotation"
+        }
+    ]

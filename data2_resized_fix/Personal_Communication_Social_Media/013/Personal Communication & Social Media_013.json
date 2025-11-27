@@ -1,0 +1,13 @@
+[
+    {
+        "id": " TextEditing_Professional Documents & Reports_013",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Replace 'Portland' with a semantically similar term",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace 'Portland' with a semantically similar term. As it is easy to infer that 'PDX' is semantically equivalent to 'Portland', and in line with semantic expectations, replacing 'Portland' with 'PDX' meets the requirements."
+    }
+]

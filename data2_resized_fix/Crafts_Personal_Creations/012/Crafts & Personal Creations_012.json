@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Crafts & Personal Creations_012",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Add 'Happy Birthday' on the cake",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "12.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Add 'Happy Birthday' on the cake. According to the picture information and based on the consideration of semantic expectations, to ensure the harmony of the picture, relevant elements such as candles should also be added on the cake to achieve the overall unity."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_033",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Analyze the entire image and summarize the text of the products being sold in the middle of the image.",
+        "editing_method":"text_insert",
+        "difficulty":"medium",
+        "difficulty_score":"8(2,0,0,0,0,0,2,2,0,2)",
+        "input_image": "33.jpg",
+        "output_image": "text_insert_33.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt":"Obviously, there is no textual information about the product in the picture anything, but for the sake of textual coherence, something must be filled in; naturally, it should be 'Nothing'."
+    }
+]

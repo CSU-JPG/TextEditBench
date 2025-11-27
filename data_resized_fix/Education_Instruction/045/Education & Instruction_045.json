@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_045",
+        "topic": "Education & Instruction",
+        "prompt": "Translate the advantages of learning Go into English.",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"8(2,2,1,2,0,0,1,0,0)",
+        "input_image": "45.jpg",
+        "output_image": "text_change_45.jpg",
+        "source_tag": "human_innoration"
+   }

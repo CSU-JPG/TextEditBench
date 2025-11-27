@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Media & Publishing_016",
+        "topic": "Media & Publishing",
+        "prompt": "change the font of 'custom'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

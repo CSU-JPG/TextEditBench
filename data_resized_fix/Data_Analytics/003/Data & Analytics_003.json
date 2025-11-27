@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_003",
+    "topic": "Data & Analytics",
+    "prompt": "Insert 'Data Analytics Specialist | Financial Modeling & Business Intelligence' at the top of the resume",
+    "editing_method": "text_insert",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,1,0,0,1,0,0,1,0,0)",
+    "input_image": "3.jpg",
+    "output_image": "text_insert_3.jpg",
+    "source_tag": "human_annotation"
+  }
+]

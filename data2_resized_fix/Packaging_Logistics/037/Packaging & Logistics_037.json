@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_037",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the price tag to 23.00.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,2,0,0,0)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

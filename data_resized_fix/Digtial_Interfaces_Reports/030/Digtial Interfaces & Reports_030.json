@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_030",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Invert the top 'Our values'.",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"4(2,0,0,0,0,0,0,0,2,0)",
+        "input_image": "30.jpg",
+        "output_image": "text_relocation_30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

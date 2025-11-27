@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_034",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change 'FRIDAY' to 'SATURDAY'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "34.jpg",
+        "output_image": "text_change_34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

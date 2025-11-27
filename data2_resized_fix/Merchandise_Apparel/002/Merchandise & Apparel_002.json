@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_002",
+        "topic": "Merchandise & Apparel",
+        "prompt": "delete 'wieters'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "2.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Merchandise & Apparel_031",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Change the police badge number to that of a SWAT officer",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "11(1,2,1,0,1,0,2,2,0,2)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When the text information changes from 'police' to 'SWAT,' the semantic core of the image shifts from a general law enforcement identity to an elite unit representing special tactics and professional capability. Visually, regular police uniforms and SWAT combat gear (such as tactical vests, helmets, specific armbands, etc.) differ significantly in equipment, functionality, and public perception. Therefore, it is necessary to simultaneously adjust the character's uniform to professional SWAT gear, ensuring that the visual image is highly consistent with the specific identity defined by the text, thereby guaranteeing an unambiguous expression of the image. Any mismatch between text and clothing elements would undermine the character's professionalism and the authenticity of the scene."
+    }
+]

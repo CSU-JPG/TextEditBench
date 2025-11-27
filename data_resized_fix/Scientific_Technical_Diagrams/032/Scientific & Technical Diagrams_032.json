@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_032",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "remove the 'learn more' button under the title",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,2,0,0,2)",
+        "input_image": "32.jpg",
+        "output_image": "text_delete_32.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The “learn more” button, including its rounded rectangular border, forms a single interactive element beneath the title. Removing it entails deleting both the text and the border while leaving other interface elements, such as the “Start Slide” button, intact to maintain visual clarity and functional distinction."
+        }
+]

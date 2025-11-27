@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_038",
+        "topic": "Packaging & Logistics",
+        "prompt": "Add a line of small text reading 'Unauthorized Use Prohibited' below 'FIRE'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,1,0,0,0,0,0)",
+        "input_image": "38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

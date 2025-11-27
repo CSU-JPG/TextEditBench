@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_024",
+    "topic": "Data & Analytics",
+    "prompt": "Make the title 'Work Completion Status' larger.",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
+    "input_image": "24.jpg",
+    "output_image": "scaling_24.jpg",
+    "source_tag": "human_annotation"
+  }
+]

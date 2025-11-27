@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_036",
+        "topic": "Art & Creative Expression",
+        "prompt": "Change the font color of 'Do' to red.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

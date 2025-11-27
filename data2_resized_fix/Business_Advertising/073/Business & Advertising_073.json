@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_073",
+        "topic": "Business & Advertising",
+        "prompt": "Add a sign on this picture that says 'Vegetables'.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,2,0,0)",
+        "input_image": "73.jpg",
+        "source_tag": "human_annotation"
+    }
+]

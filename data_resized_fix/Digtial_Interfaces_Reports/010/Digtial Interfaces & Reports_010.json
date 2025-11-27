@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_010",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Replace the text '<当下热门产品>' with 'Upholstered sofa'",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"9(2,0,0,2,0,0,2,1,0,2)",
+        "input_image": "10.jpg",
+        "output_image": "text_change_10.jpg",
+        "source_tag": "human_generated"
+    }
+]

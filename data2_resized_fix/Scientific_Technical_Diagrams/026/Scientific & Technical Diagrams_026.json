@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_026",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Delete the subtitle under the main title.",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,0,0,0,0,2,1,0,2)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "As part of the subtitle, the subtitle's background should also be deleted."
+    }
+]

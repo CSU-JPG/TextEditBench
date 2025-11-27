@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_040",
+"topic": "Packaging & Logistics",
+"prompt": "Change the word 'TRANSPORT' to 'TRUCKING' in the main headline. Keep the text uppercase with the same font, size, white color, and centered alignment inside the blue band under 'LOGISTIC AND'.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+"input_image": "40.jpg",
+"output_image": "text_change_40.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "This edit replaces a single headline word while preserving the typographic system and layout. The model should maintain uppercase styling, weight, tracking, and placement within the blue banner so the visual hierarchy of the poster remains unchanged."
+}
+]

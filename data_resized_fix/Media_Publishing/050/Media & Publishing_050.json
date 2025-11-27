@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_050",
+    "topic": "Media & Publishing",
+    "prompt": "Insert the  the city represented by '渝' in the diagram by Chinese.",
+    "editing_method": "text_insert",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "50.jpg",
+    "output_image": "text_insert_50.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"'渝' is the abbreviation of Chongqing, so the inserted city name is Chongqing."
+  }
+]

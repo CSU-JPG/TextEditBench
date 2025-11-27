@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_013",
+    "topic": "Media & Publishing",
+    "prompt": "Enlarge the words '生日快乐'appropriately.",
+    "editing_method": "scaling",
+    "difficulty": "medium",
+    "difficulty_score": "5(0,1,0,2,0,0,0,0,2,0)",
+    "input_image": "13.jpg",
+    "output_image": "scaling_13.jpg",
+    "source_tag": "human_annotation"
+  }
+]

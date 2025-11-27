@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_006",
+    "topic": "Art & Creative Expression",
+    "prompt": "delete 'SOMMIERS'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+    "input_image": "6.jpg",
+    "source_tag": "human_annotation"
+  }
+]

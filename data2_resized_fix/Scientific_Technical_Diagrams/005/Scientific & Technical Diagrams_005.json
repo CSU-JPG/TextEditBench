@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_005",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Rotate the title 'Magnetism'45 degrees counterclockwise",
+        "editing_method": "text_relocation",
+        "difficulty": "hard",
+        "difficulty_score": "12(2,0,2,0,1,0,2,1,2,2)",
+        "input_image": "5.jpg",
+        "source_tag": "human_annotation"
+    }
+]

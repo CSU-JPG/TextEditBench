@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents &50",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Move the '2022 AUTUMN' written vertically on the right to above the title and change it to horizontal.",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "50.jpg",
+        "output_image": "text_relocation_50.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Merchandise & Apparel_039",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "The packaging of the top-tier products is meaningless, please make some changes.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(2,0,1,0,0,0,2,2,0,2)",
+        "input_image": "39.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the current text on the packaging does not provide any effective information about the product's attributes or contents, it can cause confusion for consumers and hinder their ability to quickly identify the product. Considering that the product's shape is a widely recognized typical form of chocolate, this strong visual cue alone is sufficient for viewers to make a preliminary judgment about the product type. Therefore, clearly changing the packaging text to 'chocolate' can align the textual information with the product type conveyed by the visual shape, effectively eliminating information ambiguity, ensuring that the product can be immediately and accurately identified by consumers, and enhancing the packaging's directness and functionality in communication."
+    }
+]

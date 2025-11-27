@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_033",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change 'Summer' to 'World'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,1,0,0,0,0,0,0,0)",
+        "input_image": "33.jpg",
+        "output_image": "text_change_33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_033",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Add a subheading 'About Technology' before the second paragraph",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,2,0,0,2)",
+        "input_image": "33.jpg",
+        "output_image": "text_insert_33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

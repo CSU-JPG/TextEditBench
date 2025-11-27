@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_080",
+        "topic": "Business & Advertising",
+        "prompt": "The storefront's sign is very messy; please revise it.",
+        "editing_method": "text_delete",
+        "difficulty": "hard",
+        "difficulty_score": "11(2,1,2,0,0,0,2,2,0,2)",
+        "input_image": "80.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The image contains a large amount of repetitive text, which causes visual interference and blurs the focus of the subject. Retaining the largest and most prominent texts, 'CAFE' and 'HARD,' is sufficient to effectively convey the core attributes of the place as a café and its brand name. On this basis, adding 'ENTRANCE' at the store entrance can provide a clear spatial guide for the image, eliminating confusion caused by the original cluttered information, thereby enhancing the functional directive and visual clarity of the composition."
+    }
+]

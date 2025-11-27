@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Media & Publishing_015",
+        "topic": "Media & Publishing",
+        "prompt": "delete 'bus'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "input_image": "15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

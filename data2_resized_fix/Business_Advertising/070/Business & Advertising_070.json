@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_070",
+        "topic": "Business & Advertising",
+        "prompt": "Modify this sign to make it more meaningful.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,0,2,0,0,0,2,2,0,2)",
+        "input_image": "70.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The image contains oranges and a piece of text, but the text does not specify a concrete meaning, resulting in ambiguous information. Therefore, modifying the text to 'Orange can more effectively utilize the core symbols in the image' establishes a more specific relationship and effectively conveys the image's intent."
+    }
+]

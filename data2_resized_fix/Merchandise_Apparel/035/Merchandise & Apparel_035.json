@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_035",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Flip the text on the clothes",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,1,0,0,1,2,0)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation"
+    }
+]

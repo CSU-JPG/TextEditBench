@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_015",
+    "topic": "Business & Advertising",
+    "prompt": "Replace the text in the picture with words that makes it sound more casual",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,2,0,0,0,0,0,0,0,2)",
+    "input_image": "15.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "To keep things casual, you should use more everyday, informal words, and you can swap in 'Learning new skills'."
+  }
+]

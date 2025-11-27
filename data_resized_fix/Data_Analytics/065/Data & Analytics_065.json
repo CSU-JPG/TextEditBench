@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_065",
+  "topic": "Data & Analytics",
+  "prompt":"Change the font of the text 'Three fifths of the total ten figures are girls.' to a cute handwritten style.",
+  "editing_method": "text_attribute",
+  "difficulty": "easy",
+  "difficulty_score": "2 (0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "65.jpg",
+  "output_image":"text_attribute_65.jpg",
+  "source_tag": "human_annotation"
+}

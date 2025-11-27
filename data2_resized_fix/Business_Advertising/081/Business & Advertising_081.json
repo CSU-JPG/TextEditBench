@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_081",
+        "topic": "Business & Advertising",
+        "prompt": "Invert the toy sign above",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,2,2,0)",
+        "input_image": "81.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_057",
+        "topic": "Business & Advertising",
+        "prompt": "Edit the sign text from 'ARMERS MARKET' to 'FARMERS MARKET' and correct the bottom line to read 'Get fresh, 24 daily local food'. Maintain the green and red color scheme, consistent alignment, and outdoor lighting conditions.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(2,1,2,0,1,0,0,1,0,0)",
+        "input_image": "57.jpg",
+        "source_tag": "human_annotation"
+    }
+]

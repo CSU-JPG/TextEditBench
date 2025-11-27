@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_031",
+        "topic": "Business & Advertising",
+        "prompt": "Change the shop sign text above the motorcycle from 'Sutip Satoki' to 'Rider House', keeping font style, color, spacing, and placement consistent with the original design and lighting.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,1,2,0,1,0,1,1,0,0)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

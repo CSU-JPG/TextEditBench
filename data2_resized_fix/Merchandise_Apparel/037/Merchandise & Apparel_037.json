@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_037",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Make the side of the picture with words face the front left.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,0,0,2,2,1,0)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

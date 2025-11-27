@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_058",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Add seven days to all dates",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,1,2,0,0,0,0,1,0,2)",
+        "input_image": "58.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "'30 days', '14 days', and '7 days' are dates. Adding seven days results in 37, 21, 14, so replace '30', '14', '7' with '37', '21', '14'."
+    }
+]

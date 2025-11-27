@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_057",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add the text 'Welcome to follow' below the sentence.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "57.jpg",
+        "output_image": "text_insert_57.jpg",
+        "source_tag": "human_annotation"
+    }
+]

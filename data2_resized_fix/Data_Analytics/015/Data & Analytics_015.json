@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_015",
+        "topic": "Merchandise & Apparel",
+        "prompt": "chaange the font of 'MIND'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "3(2,0,0,0,0,0,0,0,1,0)",
+        "input_image": "15.jpg",
+        "source_tag": "model_generated"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_028",
+        "topic": "Business &Advertising",
+        "prompt": "Adjust the size of 'San Heiman' to the width and length of the logo.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "28.jpg",
+        "output_image": "scaling_28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

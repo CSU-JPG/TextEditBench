@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_029",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Uniformly scale down all letters on the black letterboard that read 'TRAVEL IS / GOOD FOR / THE SOUL' so there is slightly more padding around each line while keeping the same white plastic letter style, four-line layout, spacing rhythm, perspective, and lighting. Do not alter the mug, passport, print, camera, sunglasses, or tablecloth.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,0,0,0,0,0,1,0,0)",
+        "input_image": "29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

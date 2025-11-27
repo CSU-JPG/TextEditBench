@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_028",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Change the vertical 'CHemistry teacher Li Xiaohua' to horizontal and place it in the center of the image.",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,1,0,0,0,0,0,0,2,0)",
+        "input_image": "28.jpg",
+        "output_image": "text_relocation_28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

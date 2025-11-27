@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_026",
+        "topic": "Media & Publishing",
+        "prompt": "Make this sentence more straightforward.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,0,0,1,0,0,0,0,2)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Declarative sentences should be used, simple words should be used more, rhetorical devices should be avoided, and comparisons in the original text can be removed."
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_053",
+  "topic": "Data & Analytics",
+  "prompt": "Correct the spelling error in the title - change 'Resalt' to 'Result'.",
+  "editing_method": "text_change",
+  "difficulty": "easy",
+  "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "53.jpg",
+  "output_image": "text_change_53.jpg",
+  "source_tag": "human_annotation"
+}

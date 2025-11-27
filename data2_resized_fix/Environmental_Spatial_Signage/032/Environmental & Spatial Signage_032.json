@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_032",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the text 'CITY TIME' on the clock face to 'SUBWAY CLOCK', keeping the same black font style, curved placement below the clock hands, and ensuring consistent perspective and lighting within the subway environment.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,2,0,1,0,0,1,0,0)",
+        "input_image": "32.jpg",
+        "source_tag": "human_annotation"
+    }
+]

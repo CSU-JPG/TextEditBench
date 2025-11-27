@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_010",
+    "topic": "Business & Advertising",
+    "prompt": "Move 'a' down a little",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,0,0,0,1,0,0,0,1,0)",
+    "input_image": "10.jpg",
+    "source_tag": "human_annotation"
+  }
+]

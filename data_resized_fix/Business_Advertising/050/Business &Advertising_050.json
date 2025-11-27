@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_050",
+        "topic": "Business &Advertising",
+        "prompt": "Adjust all the values of plan B to 9.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "50.jpg",
+        "output_image": "text_change_50.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Because all the data are changed to 9, the average and the data on the radar map should be changed to 9."
+    }
+]

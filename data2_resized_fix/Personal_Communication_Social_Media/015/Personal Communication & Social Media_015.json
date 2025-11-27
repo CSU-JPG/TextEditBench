@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_015",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Swap the 'YES' and 'NO' on the left and right hands",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,0,2,0,0,0,0,0,1,0)",
+        "input_image": "15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

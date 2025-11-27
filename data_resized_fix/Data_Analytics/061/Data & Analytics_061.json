@@ -1,0 +1,12 @@
+{
+  "id": "TextEditing_Data & Analytics_061",
+  "topic": "Data & Analytics",
+  "prompt": "Change the progress of Task1 to 100% completed and 0% remaining.",
+  "editing_method": "text_change",
+  "difficulty": "medium",
+  "difficulty_score": "4 (0,0,0,0,0,0,0,2,2,0)",
+  "input_image": "61.jpg",
+  "output_image": "text_change_61.jpg",
+  "source_tag": "human_annotation",
+  "knowledge_prompt": "The progress bar chart should also be updated to reflect that Task1 is fully completed."
+}

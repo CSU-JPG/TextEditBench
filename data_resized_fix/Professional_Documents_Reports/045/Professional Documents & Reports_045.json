@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_045",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Move the 'Keva Company Annual Report' below",
+        "editing_method":"text_relocation",
+        "difficulty": "easy",
+        "difficulty_score":"3(0,1,0,1,0,0,0,0,1,0)",
+        "input_image": "45.jpg",
+        "output_image": "text_relocation_45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_025",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Insert the name of the capital of the United States below 'NEW COOL'",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,0,2,0,2,0,0,1,0,2)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The capital of the United States is Washington; 'Washington' should be inserted below 'NEW COOL'."
+    }
+]

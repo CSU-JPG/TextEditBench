@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_037",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate the text 'Worries are Being Cleared...' 20 degrees clockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "8(1,2,2,0,0,0,0,1,2,0)",
+        "input_image": "37.jpg",
+        "output_image": "text_relocation_37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

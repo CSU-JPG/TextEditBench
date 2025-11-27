@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_019",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Change the data of the bottom table from top to bottom to 25%, 30%, 20%, 25%.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(2,1,0,0,1,0,2,0,0,2)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the pie chart next to the data has a corresponding relationship with the data, when the data changes, the areas and values on the pie chart must also change accordingly."
+    }
+]

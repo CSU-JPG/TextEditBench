@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_016",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Move the text 'no risk no story' to the center of the picture",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "16.jpg",
+        "source_tag": "model_generated"
+    }
+]

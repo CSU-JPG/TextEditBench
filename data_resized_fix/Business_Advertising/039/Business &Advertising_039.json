@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_039",
+        "topic": "Business &Advertising",
+        "prompt": "Change the sentence from black to blue.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "39.jpg",
+        "output_image": "text_attribute_39.jpg",
+        "source_tag": "human_annotation"
+    }
+]

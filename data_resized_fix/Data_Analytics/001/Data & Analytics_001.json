@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_001",
+    "topic": "Data & Analytics",
+    "prompt": "Change 'BUILDING ROBUST DATA DEFENSES THROUGH TECHNOLOGY' to 'ADVANCED CYBERSECURITY SOLUTIONS FOR ENTERPRISES'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,1,0,0,1,0,0,0,0,0)",
+    "input_image": "1.jpg",
+    "output_image": "text_change_1.jpg",
+    "source_tag": "human_annotation"
+  }
+]

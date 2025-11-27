@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_022",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Fix the text erorrs in the picture",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"9(1,2,0,2,0,0,0,0,2,2)",
+        "input_image": "22.jpg",
+        "output_image": "text_change_22.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The popular attractions listed under Shanghai actually belong to Hangzhou, and the popular attractions listed under Hangzhou actually belong to Shanghai. The popular attractions sections of the two should be swapped."
+    }
+]

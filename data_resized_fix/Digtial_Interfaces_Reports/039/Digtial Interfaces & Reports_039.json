@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_039",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Rotate the white text on the upper left of the image 90 degrees clockwise.",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"5(1,0,0,0,0,0,0,2,2,0)",
+        "input_image": "39.jpg",
+        "output_image": "text_relocation_39.jpg",
+        "source_tag": "human_annotation"
+    }
+]

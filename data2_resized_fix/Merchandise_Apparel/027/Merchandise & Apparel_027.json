@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_027",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "The main color of the clothes on this child should be changed to red.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,2,0,0,1,1,0)",
+        "input_image": "27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

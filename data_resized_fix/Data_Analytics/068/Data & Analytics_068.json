@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_068",
+  "topic": "Data & Analytics",
+  "prompt": "Add a subtitle 'Unleash Data's Power' below the main title 'World Statistics Day'.",
+  "editing_method": "text_insert",
+  "difficulty": "easy",
+  "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "68.jpg",
+  "output_image": "text_insert_68.jpg",
+  "source_tag": "human_annotation"
+}

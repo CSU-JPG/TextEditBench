@@ -1,0 +1,15 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_001",
+            "topic": "Packaging & Logistics",
+            "prompt": "Change the text from 'SHODWE' to 'LIHUA' in the picture",
+            "editing_method": "text_change",
+            "difficulty": "easy",
+            "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+            "input_image":"1.jpg",
+            "output_image":"text_change_1.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":""
+
+        }
+    ]

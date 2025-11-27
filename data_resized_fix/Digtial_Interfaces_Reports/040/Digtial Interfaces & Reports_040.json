@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_040",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Swap the 'excellence' and 'Enterprising' on the left and right sides of the image",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"3(2,0,0,0,0,0,0,1,0,0)",
+        "input_image": "40.jpg",
+        "output_image": "text_relocation_40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_030",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the large ground text 'excel' in front of the airplane to 'ascend', keeping the same font, lowercase style, alignment with the runway markings, and surface reflection consistency.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(2,1,0,1,0,0,1,1,0,0)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

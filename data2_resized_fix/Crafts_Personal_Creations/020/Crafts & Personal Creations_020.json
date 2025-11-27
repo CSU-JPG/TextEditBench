@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_020",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the background sign text from 'ALL' to 'FUN', keeping the same white illuminated letters, lighting effect, and centered position behind the children eating pizza.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
+        "input_image": "20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

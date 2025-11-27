@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_010",
+    "topic": "Data & Analytics",
+    "prompt": "Swap the position of the 'Subscribers +5.9K About the same as usual' section to below the 'Breakdown:Organic/ads' section.",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "2(1,0,0,0,0,0,0,0,1,0)",
+    "input_image": "10.jpg",
+    "source_tag": "human_annotation"
+  }
+]

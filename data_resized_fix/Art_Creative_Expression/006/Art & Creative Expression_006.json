@@ -1,0 +1,11 @@
+{
+    "id": "TextEditing_Art & Creative Expression_006",
+    "topic": "Art & Creative Expression",
+    "prompt": "make the 'TIME:' smaller",
+    "editing_method": "scaling",
+    "difficulty": "medium",
+    "difficulty_score": " 7(2,2,0,0,0,0,0,2,1,0)",
+    "input_image": "6.jpg",
+    "output_image": "scaling_6.jpg",
+    "source_tag": "human_annotation"
+}

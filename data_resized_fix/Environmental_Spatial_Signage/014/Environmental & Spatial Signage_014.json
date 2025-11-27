@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_014",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Apply a 20% discount to the prices in the picture",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"3(1,0,1,0,0,0,0,0,1,0,0)",
+        "input_image": "14.jpg",
+        "output_image": "text_change_14.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Find the price in the picture and multiply the number by 0.8,Recalculate the prices as 1948 and 2304"
+    }
+]

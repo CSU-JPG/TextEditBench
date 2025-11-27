@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Crafts & Personal Creations_040",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "The meaning of this passage is unclear.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,0,1,0,0,0,2,2,2,2)",
+        "input_image": "40.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The text in the image may refer to the 'Tabasco' brand hot sauce. Its standalone appearance lacks a clear indication of the product category, which could easily cause consumers to be confused about its specific use. When showing the hot sauce being used on pizza, modifying the text to 'Tabasco Hot Sauce' can directly establish the connection between the brand name and the product attribute (sauce), effectively conveying its role as a pizza topping, thereby enhancing the clarity of the advertisement and its relevance to the scenario."
+    }
+]

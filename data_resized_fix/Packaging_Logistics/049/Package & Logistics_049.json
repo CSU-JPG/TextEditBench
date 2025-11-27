@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_049",
+"topic": "Packaging & Logistics",
+"prompt": "Move the text 'SECURE' upward to the center of the image, aligning it vertically above 'LOGISTIC SERVICES' while keeping the same font, size, and color.",
+"editing_method": "text_relocation",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,0,1,0,0,0)",
+"input_image": "49.jpg",
+"output_image": "text_relocation_49.jpg",
+"source_tag": "human_annotation"
+}
+]

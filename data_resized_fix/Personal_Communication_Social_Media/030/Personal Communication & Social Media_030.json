@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_030",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add '2025.10.30.' below 'Notice'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "30.jpg",
+        "output_image": "text_insert_30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

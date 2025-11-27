@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_059",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the tone of 'No Need to Chase After Others' Footsteps.' and 'Every Step You Take is Writing Your Own Unique Brilliance.' to a more impassioned one.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,1,0,0,0,0,1,0,0)",
+        "input_image": "59.jpg",
+        "output_image": "text_change_59.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The request to modify the tone to impassioned implies that the overall wording should be more emotionally intense, with increased use of vocabulary and expressions that convey an impassioned tone."
+    }
+]

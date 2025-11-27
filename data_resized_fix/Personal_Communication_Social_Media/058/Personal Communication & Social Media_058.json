@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_058",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add the text 'Come and join now' below the QR code.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "58.jpg",
+        "output_image": "text_insert_58.jpg",
+        "source_tag": "human_annotation"
+    }
+]

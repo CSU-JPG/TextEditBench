@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Packaging & Logistics_005",
+    "topic": "Packaging & Logistics",
+    "prompt": "Replace the text in the image with synonyms",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,0,0,1,0,0,1,0,2)",
+    "input_image": "5.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "A synonym for 'SAFETY' can be 'security', so 'SAFETY' can be replaced with 'SECURITY'."
+  }
+]

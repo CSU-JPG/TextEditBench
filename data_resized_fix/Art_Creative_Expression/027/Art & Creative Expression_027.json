@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_027",
+        "topic": "Art & Creative Expression",
+        "prompt": "Fix the text errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,0,0,0,0,0,1,0,2)",
+        "input_image": "27.jpg",
+        "output_image": "text_change_27.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"Identify the error in the picture. Based on the information in the picture and knowing that the predicate verb after the first person should be in the plural form, the intended correction is to change 'roams' to 'roam'."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_037",
+        "topic": "Business & Advertising",
+        "prompt": "Change the text on both the upper and lower store signs from 'nis' to 'nix', keeping the same lowercase font style, alignment, and spacing. Maintain consistent color, lighting, and signboard proportions.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

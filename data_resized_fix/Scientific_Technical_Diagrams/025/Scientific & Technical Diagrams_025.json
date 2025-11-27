@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_025",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "add a subtitle 'Power Source'under the big title 'Power Supply'",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,2,0,0,2)",
+        "input_image": "25.jpg",
+        "output_image": "text_insert_25.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "the subtitle should be in a smaller font size than the main title and centered directly below it to maintain visual hierarchy and clarity."
+    }
+]

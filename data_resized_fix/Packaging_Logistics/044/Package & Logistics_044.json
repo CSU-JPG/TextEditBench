@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_044",
+"topic": "Packaging & Logistics",
+"prompt": "Change the title text 'LOGISTIC' to the Chinese text '物流', keeping the position, color, approximate weight, and centered alignment the same.",
+"editing_method": "text_change",
+"difficulty": "medium",
+"difficulty_score": "4(1,1,0,0,1,1,0,0,0,0)",
+"input_image": "44.jpg",
+"output_image": "text_change_44.jpg",
+"source_tag": "human_annotation"
+}
+]

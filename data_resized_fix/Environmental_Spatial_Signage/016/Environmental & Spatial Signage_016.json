@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_016",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Make the text 'Travel guide' a little smaller.",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"4(0,0,2,0,0,0,0,1,1,0)",
+        "input_image": "16.jpg",
+        "output_image": "scaling_16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

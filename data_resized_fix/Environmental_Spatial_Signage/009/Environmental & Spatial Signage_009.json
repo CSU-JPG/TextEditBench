@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_009",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Change 3/24 to 3/26.",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"6(1,1,0,0,0,0,2,2,0)",
+        "input_image": "9.jpg",
+        "output_image": "text_change_9.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The end time has been changed, and the duration has been recalculated as eleven days, so at the same time, 'nine days' has been changed to 'eleven days'."
+    }
+]

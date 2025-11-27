@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_014",
+    "topic": "Business & Advertising",
+    "prompt": "Change 'LOJO' to 'ABCD'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,0,0,2,0,0,2,0,0)",
+    "input_image": "14.jpg",
+    "source_tag": "human_annotation"
+  }
+]

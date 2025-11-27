@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_032",
+        "topic": "Art & Creative Expression",
+        "prompt": "delete 'The world is your domain'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,2,0,0)",
+        "input_image": "32.jpg",
+        "output_image": "text_delete_32.jpg",
+        "source_tag": "human_annotation"
+    }
+]

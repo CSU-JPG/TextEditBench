@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_028",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the brand name text from 'They Merries' to 'Happy Babies' on the diaper package, keeping font size, color harmony, curvature, and placement consistent with the original packaging design.",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "7(2,1,1,1,0,0,1,1,0,0)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

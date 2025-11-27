@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_076",
+        "topic": "Business & Advertising",
+        "prompt": "Bold the sign on the picture.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,2,1,0)",
+        "input_image": "76.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": ""
+    }
+]

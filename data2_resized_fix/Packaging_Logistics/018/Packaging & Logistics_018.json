@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_018",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the word 'TRANSPORTS' on the circular sign to 'DELIVERIES', maintaining capitalization, font style, alignment, and color tone consistent with the original sign and its background map texture.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "18.jpg",
+        "source_tag": "human_annotation"
+    }
+]

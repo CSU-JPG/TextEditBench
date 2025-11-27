@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_029",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the text on the tram sign from 'ROAD' to 'TRACK', maintaining the same bold black uppercase lettering, font style, and centered placement on the rectangular beige background.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,1,1,0,0,0,0,1,0,0)",
+        "input_image": "29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

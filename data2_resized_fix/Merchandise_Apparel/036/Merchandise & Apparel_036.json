@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_036",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Remove the text on the clothes",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,1,0,0,1,0,0)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_006",
+        "topic": "Professional Documents & Reports",
+        "prompt": "make the text below '01' and '02' smaller so that they don't exceeding the grid",
+        "editing_method":"scaling",
+        "difficulty":"medium",
+        "difficulty_score":"6(1,2,0,1,0,0,0,1,1,0)",
+        "input_image": "6.jpg",
+        "output_image": "scaling_6.jpg",
+        "source_tag": "human_annotation"
+    }
+]

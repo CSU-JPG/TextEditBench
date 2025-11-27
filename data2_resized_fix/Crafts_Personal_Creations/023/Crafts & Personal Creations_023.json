@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_023",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Uniformly scale the balloon letters forming the word 'LOVE' (keep metallic texture, highlights, and letter shapes unchanged). Ensure the scaled letters remain separated and do not overlap the hand holding the red roses on the right or extend beyond the canvas edges.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(2,2,0,0,0,0,0,0,0,0)",
+        "input_image": "23.jpg",
+        "source_tag": "human_annotation"
+    }
+]

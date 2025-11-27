@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_043",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Add the price for two nights below the one-night price, keeping the format unchanged",
+        "editing_method":"text_insert",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,0,1,0,0,0,0,0,0,2)",
+        "input_image": "43.jpg",
+        "output_image": "text_insert_43.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Two nights are eligible for a 40% discount, so the price is 800*2*0.6=960. The 960 two nights should be added below the original price."
+    }
+]

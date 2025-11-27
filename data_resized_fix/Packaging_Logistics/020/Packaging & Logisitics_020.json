@@ -1,0 +1,13 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_20",
+            "topic": "Packaging & Logistics",
+            "prompt": "Change the text of '顺风物流' to '逆风物流' in the picture",
+            "editing_method": "text_change",
+            "difficulty": "easy",
+            "difficulty_score": "4(1,1,0,2,0,0,0,0,0,0)",
+            "input_image":"20.jpg",
+            "output_image":"text_change_20.jpg",
+            "source_tag":"human_annotation"
+        }
+    ]

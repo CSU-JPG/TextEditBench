@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_026",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Rotate 'just do you' 90 degrees to the left",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,1,0,0,2,0,0,1,2,0)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

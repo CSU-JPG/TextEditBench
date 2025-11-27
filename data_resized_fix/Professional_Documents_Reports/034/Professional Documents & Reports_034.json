@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_034",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Change the 2019 on the right to 2025",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"4(0,0,2,1,0,1,0,0,0,0)",
+        "input_image": "34.jpg",
+        "output_image": "text_change_34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

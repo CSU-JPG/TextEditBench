@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_079",
+        "topic": "Business & Advertising",
+        "prompt": "Change the huge characters in the middle to blue.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "7(2,0,2,0,0,0,0,2,1,0)",
+        "input_image": "79.jpg",
+        "source_tag": "human_annotation"
+    }
+]

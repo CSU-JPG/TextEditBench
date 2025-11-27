@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_046",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Fix the errors in the picture",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"6(0,0,2,0,0,0,0,0,2,2)",
+        "input_image": "46.jpg",
+        "output_image": "text_change_46.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Mountain Tai is not in Hangzhou, and since West Lake appears later in the text, Mountain Tai should be replaced with West Lake."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_034",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Swap the text of the email address and website address below the image.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,0,0,0,0,0,1,1,0)",
+        "input_image": "34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

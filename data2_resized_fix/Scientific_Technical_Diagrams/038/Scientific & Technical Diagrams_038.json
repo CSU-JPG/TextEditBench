@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_038",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Reduce the size of the title 'SCIENCE & TECHNOLOGY FOR KIDS' by 30%",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,2,0,0,0,0,1,1,0)",
+        "input_image": "38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

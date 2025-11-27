@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_046",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Insert '5k~7.5k 28' in the first row of the second section of data",
+        "editing_method":"text_insert",
+        "difficulty":"medium",
+        "difficulty_score":"6(0,0,1,1,0,0,2,0,0,2)",
+        "input_image": "46.jpg",
+        "output_image": "text_insert_46.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Inserting '5k~7.5k 28' means that a new segment has been added, so this portion should also be included in the pie chart on the right, and the proportions of the other data should be adjusted accordingly."
+    }
+]

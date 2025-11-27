@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_064",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change the resistance value of R2 to 200 ohms.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,0,2,0,0,1,2,2,0,2)",
+        "input_image": "64.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When the resistance value changes, the values of the corresponding other components must also be changed in accordance with the rules of physical electricity."
+    }
+]

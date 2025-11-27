@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_024",
+    "topic": "Media & Publishing",
+    "prompt": "Reduce the Chinese characters in the picture.",
+    "editing_method": "scaling",
+    "difficulty": "medium",
+    "difficulty_score": "9(0,2,1,2,0,1,0,2,1,0)",
+    "input_image": "24.jpg",
+    "output_image": "scaling_24.jpg",
+    "source_tag": "human_annotation"
+  }
+]

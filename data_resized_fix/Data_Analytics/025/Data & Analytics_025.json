@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_025",
+    "topic": "Data & Analytics",
+    "prompt": "Move the '90%' text to the right of the title 'Industry Application and Case'.",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "4(1,1,1,0,1,0,0,0,0,0)",
+    "input_image": "25.jpg",
+    "output_image": "text_relocation_25.jpg",
+    "source_tag": "human_annotation"
+  }
+]

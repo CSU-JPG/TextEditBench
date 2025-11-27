@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_0013",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Add 'Not Just the Appearance' on the paper",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation"
+    }
+]

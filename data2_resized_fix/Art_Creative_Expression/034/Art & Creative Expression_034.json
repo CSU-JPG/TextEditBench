@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_034",
+        "topic": "Art & Creative Expression",
+        "prompt": "Change the glow color of the text from pink to blue",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "9(0,1,2,0,0,0,0,2,2,2)",
+        "input_image": "34.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "After changing the text color, the ambient brightness should also be adjusted accordingly to ensure visual harmony."
+    }
+]

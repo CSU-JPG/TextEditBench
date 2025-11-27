@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_010",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Fix singular and plural errors in images",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "13(2,2,2,0,0,0,2,1,2,2)",
+        "input_image": "10.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Clouds, fish, birds, and rocks all appear more than once in the picture and should be plural."
+    }
+]

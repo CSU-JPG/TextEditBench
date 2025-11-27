@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_027",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the street sign text from 'BELMONT' to 'ELMDALE', preserving the blue background, white border, font size, capitalization, and alignment of the text, ensuring realistic lighting and shadow consistency.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

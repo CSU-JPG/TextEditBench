@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_039",
+        "topic": "Art & Creative Expression",
+        "prompt": "Restate the first point in a friendly tone",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,2,1,0,0,0,0,0,0,2)",
+        "input_image": "39.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When using a friendly tone, you should use relaxed and everyday vocabulary, and avoid commanding words."
+    }
+]

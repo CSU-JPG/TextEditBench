@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_037",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "shrink the word 'THE' in the title of the diagrams",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,0,0,2,0,1,2)",
+        "input_image": "37.jpg",
+        "output_image": "scaling_37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

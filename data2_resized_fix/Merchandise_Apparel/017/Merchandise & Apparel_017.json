@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_017",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the text on the boy's green sports shirt from 'EASTON' to 'ADIDAS', keeping the same white color, bold uppercase font style, and curved alignment across the chest area. Ensure the new text naturally follows the fabric folds and lighting.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,1,0,0,0,1,0,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_045",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Rotate 'Travel to Xinjiang' 20 degrees to the right",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,1,0,0,0,0,0,2,2,0)",
+        "input_image": "45.jpg",
+        "output_image": "text_relocation_45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

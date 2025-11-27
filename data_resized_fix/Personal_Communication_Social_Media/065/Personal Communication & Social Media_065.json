@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_065",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate the sentence in the image 30 degrees counterclockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,2,0,0,0,0,1,2,0)",
+        "input_image": "65.jpg",
+        "output_image": "text_relocation_65.jpg",
+        "source_tag": "human_annotation"
+    }
+]

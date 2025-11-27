@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Packaging & Logistics_001",
+    "topic": "Packaging & Logistics",
+    "prompt": "Change 'hill' to 'like'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,0,0,0,2,0,0,0,0,0)",
+    "input_image": "1.jpg",
+    "source_tag": "human_annotation"
+  }
+]

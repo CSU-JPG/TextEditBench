@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_066",
+  "topic": "Data & Analytics",
+  "prompt": "Enlarge the font size of the main title 'Market data analysis'.",
+  "editing_method": "scaling",
+  "difficulty": "easy",
+  "difficulty_score": "1 (0,0,0,0,0,0,0,0,1,0)",
+  "input_image": "66.jpg",
+  "output_image":"scaling_66.jpg",
+  "source_tag": "human_annotation"
+}

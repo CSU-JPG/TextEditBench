@@ -1,0 +1,13 @@
+[
+    {
+        "id":"TextEditing_Business&Advertising_007",
+        "topic":"Business&Advertising",
+        "prompt":"Translate the text '{20% off per item for the entire venue}' into Chinese.",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"8(2,2,0,0,0,0,0,2,2,0)",
+        "input_image":"7.jpg",
+        "output_image":"text_change_7.jpg",
+        "source_tag":"human_annotation"
+    }
+]

@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Merchandise & Apparel_037",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the font of 'Global carnival more than 50% off'.",
+        "editing_method":"text_attribute",
+        "difficulty":"medium",
+        "difficulty_score":"7(0,2,1,2,0,0,0,1,1,0)",
+        "input_image": "37.jpg",
+        "output_image": "text_attribute_37.jpg",
+        "source_tag": "human_innoration"
+    }

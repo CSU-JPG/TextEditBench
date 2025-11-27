@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_029",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change both occurrences of the text 'Measurement' to 'Transport' in the image, preserving capitalization, font style, size, alignment, and consistent color contrast with the background scene.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

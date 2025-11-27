@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_019",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Exchange the first and second points in the content",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"4(1,2,0,0,0,0,0,0,1,0)",
+        "input_image": "19.jpg",
+        "output_image": "text_relocation_19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

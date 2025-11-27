@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_025",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Delete 'Alina Renata' in the image",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,0,0,0,0,2,1,0,2)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When deleting 'Alina Renata', make sure to also remove any associated elements that are visually linked to her, including her title 'Sales staff', the frame around her, and the dotted line leading out of the frame. This ensures that no remnants of her presence remain in the image, keeping the layout clean and visually consistent."
+    }
+]

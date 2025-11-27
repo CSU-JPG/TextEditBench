@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_051",
+  "topic": "Data & Analytics",
+  "prompt": "Translate the Chinese text '项目二' to English as 'project2'",
+  "editing_method": "text_change",
+  "difficulty": "easy",
+  "difficulty_score": "3(0,0,0,0,0,0,0,2,1,0)",
+  "input_image": "51.jpg",
+  "output_image": "text_change_51.jpg",
+  "source_tag": "human_annotation"
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_015",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Make 'Signatures' a little bigger",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,2,0,0,0,1,0)",
+        "input_image": "15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": " TextEditing_Packaging & Logistics_011",
+        "topic": "Packaging & Logistics",
+        "prompt": "add 'Swift Delivery · Stable Transport' to the vehicle body",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

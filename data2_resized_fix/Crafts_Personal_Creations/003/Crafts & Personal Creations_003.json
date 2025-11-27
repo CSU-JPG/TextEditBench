@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Crafts & Personal Creations_003",
+    "topic": "Crafts & Personal Creations",
+    "prompt": "Make 'DEWRANCE' a little bigger",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,0,0,0,0,0,0,2,1,0)",
+    "input_image": "3.jpg",
+    "source_tag": "human_annotation"
+  }
+]

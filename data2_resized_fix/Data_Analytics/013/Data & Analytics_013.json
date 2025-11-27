@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_013",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Rotate the text in the picture 30 degrees clockwise",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,0,2,0)",
+        "input_image": "13.jpg",
+        "source_tag": "model_generated"
+    }
+]

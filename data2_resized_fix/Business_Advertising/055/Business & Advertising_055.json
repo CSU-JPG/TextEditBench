@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_055",
+        "topic": "Business & Advertising",
+        "prompt": "Replace the word 'CORNER' on the curved storefront sign with 'CAFÉ' in a similar bold serif font. Ensure curvature alignment, lighting reflection, and contrast remain natural with the existing design.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,2,0,0,0,0,0)",
+        "input_image": "55.jpg",
+        "source_tag": "human_annotation"
+    }
+]

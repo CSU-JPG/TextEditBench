@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_017",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Shift the text on the clothing down slightly.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,0,0,0,2,0,0,1,1,2)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Due to the irregular folds in the clothing, the text should also be slightly adjusted for curvature."
+    }
+]

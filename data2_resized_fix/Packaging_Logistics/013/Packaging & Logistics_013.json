@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_013",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change every occurrence of the bus signage text 'CHALLENGERS' to 'VOYAGERS' on the side panel, preserving capitalization, font weight, spacing, alignment, and perspective for both lines.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation"
+    }
+]

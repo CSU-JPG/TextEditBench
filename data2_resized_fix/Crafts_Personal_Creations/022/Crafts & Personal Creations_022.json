@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_022",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the number on the diaper from '29.' to '12.', keeping the same blue font, size, and centered alignment below the teddy bear illustration.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+        "input_image": "22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

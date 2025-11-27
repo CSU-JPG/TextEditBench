@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_020",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "The time currently displayed by the cursor shows the humidity at a location on the western coast of North Korea. Adjust the position appropriately so that it shows the current humidity in Taiyuan.",
+        "editing_method":"text_relocation",
+        "difficulty":"difficult",
+        "difficulty_score":"11(2,1,1,0,0,0,2,1,2,2)",
+        "input_image": "20.jpg",
+        "output_image": "text_relocation_20.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt":"The position of the cursor determines which location's humidity and time are displayed. When it is moved from the west coast of the Korean Peninsula to Taiyuan to show Taiyuan's humidity, the time information must be updated accordingly. Taiyuan's humidity is about 94%, and due to the time zone difference, the local time is one hour behind Korea."
+    }
+]

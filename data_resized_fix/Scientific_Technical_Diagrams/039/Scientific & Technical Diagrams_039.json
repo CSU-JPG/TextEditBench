@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_039",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "change the font of the title to normal",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,2,0,0,0,0,0,1,2)",
+        "input_image": "39.jpg",
+        "output_image": "text_attribute_39.jpg",
+        "source_tag": "human_annotation"
+    }
+]

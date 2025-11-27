@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_020",
+        "topic": "Art & Creative Expression",
+        "prompt": "Move 'crossing' to the exact center of the picture",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,1,0,2)",
+        "input_image": "20.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Move 'crossing' to the exact center of the picture. Based on the image information, the crossroads icon is associated with 'crossing'. To ensure the picture's harmony, as implied by the semantic expectation, it is necessary to move the icon to the center as well to maintain overall harmony."
+    }
+]

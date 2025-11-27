@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Data & Analytics_018",
+        "topic": "Data & Analytics",
+        "prompt": "Change the printed label text from '1251' to '3210', ensuring both labels show the new number clearly and maintain the same black font, size, and alignment on the white background.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,1,0,0,0,0,0,1,0,0)",
+        "input_image": "18.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_013",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Add a line of text for the button below the image and under the mainly text: '下载赛事指南'.",
+        "editing_method":"text_insert",
+        "difficulty":"easy",
+        "difficulty_score":"5(2,0,0,2,0,0,0,1,0,0)",
+        "input_image": "13.jpg",
+        "output_image": "text_insert_13.jpg",
+        "source_tag": "human_annotation "
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_063",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Transfer the 'PARAMECIUM' to the bottom of the diagram",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,2,1,1,0)",
+        "input_image": "63.jpg",
+        "source_tag": "human_annotation"
+    }
+]

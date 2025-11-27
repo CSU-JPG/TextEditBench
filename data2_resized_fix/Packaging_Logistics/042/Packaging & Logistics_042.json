@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Packaging & Logistics_042",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the text on the front of the train to '复兴号'.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "10(1,0,1,2,1,0,2,1,0,2)",
+        "input_image": "42.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When the head text of a train is modified to indicate a specific CR200J EMU model, its visual identification must fully correspond to the unique features of the actual train. The CR200J EMU is easily recognizable due to its non-streamlined head design, and its iconic green livery serves as the core visual symbol of this model both in public perception and railway system standards. Therefore, adjusting the train body livery to the corresponding green simultaneously with the text modification is key to ensuring the completeness and accuracy of the model's identification. This simultaneous adjustment eliminates potential contradictions between textual information and visual features, maintaining the rigor and authenticity of the image in a professional context."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Environmental & Spatial Signage_017",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Swap the font and background color of this brand.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

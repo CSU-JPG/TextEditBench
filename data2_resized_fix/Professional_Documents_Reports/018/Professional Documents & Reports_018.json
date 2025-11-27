@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_018",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Swap the curves of Britain and Germany on the document in that person's hand.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "10(1,0,0,0,1,0,2,2,2,2)",
+        "input_image": "18.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since different curves are represented by different colors, you should pay attention to the corresponding relationship between font colors and curve colors when making revisions."
+    }
+]

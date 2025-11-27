@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_013",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the text 'GIV' on the back of the rider's jacket to 'FOX', keeping the same bold white uppercase lettering, font size, and alignment. Ensure lighting, texture, and fabric shading remain consistent with the original material.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,1,0,0,0,0,0,1,0,0)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation"
+    }
+]

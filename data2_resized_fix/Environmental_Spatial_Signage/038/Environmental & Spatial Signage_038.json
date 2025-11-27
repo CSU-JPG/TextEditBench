@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_038",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the hanging café sign text from 'Breakfast' to 'Brunch', keeping the same serif font style, wood frame, cream background, and realistic shadow and lighting consistency.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

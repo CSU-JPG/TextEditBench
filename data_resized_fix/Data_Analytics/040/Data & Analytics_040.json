@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_040",
+  "topic": "Data & Analytics",
+  "prompt": "Move the 'Project Features' section with its content to the position above the '83%' percentage.",
+  "editing_method": "text_relocation",
+  "difficulty": "medium",
+  "difficulty_score": "7(2,2,0,0,0,0,0,2,1,0)",
+  "input_image": "40.jpg",
+  "output_image": "text_relocation_40.jpg",
+  "source_tag": "human_annotation"
+}

@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_030",
+        "topic": "Education & Instruction",
+        "prompt": "Make the font size of 'Winter vacation improvement class' larger.",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,1,0,2,0,0,0,1,1,0)",
+        "input_image": "30.jpg",
+        "output_image": "scaling_30.jpg",
+        "source_tag": "human_innoration"
+    }

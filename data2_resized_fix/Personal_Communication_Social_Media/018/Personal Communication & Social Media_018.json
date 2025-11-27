@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_018",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change '71' to '51'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,1,0,0,1,0,2)",
+        "input_image": "18.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Due to the distorted angle of the image, the text should be tilted downward."
+    }
+]

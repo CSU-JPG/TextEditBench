@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Art & Creative Expression_045",
+        "topic": "Art & Creative Expression",
+        "prompt": "Move the 'thank' under the eaves of the house in the picture to in front of the door.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,2,0,0,0,2,1,1,0)",
+        "input_image": "45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

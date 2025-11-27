@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_030",
+        "topic": "Media & Publishing",
+        "prompt": "Rotate all text 90 degrees to the right",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "6(2,2,0,0,0,0,0,0,2,0)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation"
+    }
+]

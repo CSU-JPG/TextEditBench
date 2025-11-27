@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_004",
+        "topic": "Scientific & Technical Diagrams",
+        "editing_method": "scaling",
+        "prompt": "Make the title 'SENSORY INFORMATION TRANSMISSSION'smaller",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,0,0,0,0,0,1,2)",
+        "input_image": "4.jpg",
+        "output_image": "scaling_4.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Because the red border visually encloses the title “SENSORY INFORMATION TRANSMISSION,” its size is compositionally tied to the title’s scale. When the title becomes smaller, the border should shrink proportionally to preserve visual balance and hierarchical consistency."
+    }
+]

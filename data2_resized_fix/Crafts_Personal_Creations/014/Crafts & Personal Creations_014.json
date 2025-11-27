@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Crafts & Personal Creations_014",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "make 'DIY'bigger",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "14.jpg",
+        "source_tag": "human_annotation"
+    }
+]

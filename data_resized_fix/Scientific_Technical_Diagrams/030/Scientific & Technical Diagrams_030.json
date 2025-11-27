@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_030",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Remove the planet farthest from the sun from the image",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,0,0,0,0,1,2,1,0,2)",
+        "input_image": "30.jpg",
+        "output_image": "text_delete_30.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The planet farthest from the sun is Uranus, so delete 'Uranus' from the image and also delete the Uranus illustration and the dotted line connecting the illustration and the text."
+    }
+]

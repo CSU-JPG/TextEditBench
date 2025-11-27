@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_040",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Insert the number 23 at the appropriate position in the picture",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,0,0,0,0,0,2,1,0,2)",
+        "input_image": "40.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since 23 is both an odd number and a number greater than 10, according to the definition of the Venn diagram, 23 should be inserted at the intersection of the two circles, so 23 is inserted below 19."
+    }
+]

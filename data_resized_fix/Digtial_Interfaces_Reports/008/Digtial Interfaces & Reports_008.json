@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_008",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "'欢迎来到可瓦旅游攻略网站'translate it into English",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"10(2,2,0,2,0,0,0,2,2,0)",
+        "input_image": "8.jpg",
+        "output_image": "text_change_8.jpg",
+        "source_tag": "human_generated"
+    }
+]

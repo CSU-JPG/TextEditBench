@@ -1,0 +1,13 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_017",
+            "topic": "Packaging & Logistics",
+            "prompt": "Change of text of 'Delievery' to 'Package'in the picture",
+            "editing_method": "text_change",
+            "difficulty": "easy",
+            "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+            "input_image":"17.jpg",
+            "output_image":"text_change_17.jpg",
+            "source_tag":"human_annotation"
+        }
+    ]

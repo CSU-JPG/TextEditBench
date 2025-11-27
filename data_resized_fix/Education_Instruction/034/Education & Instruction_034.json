@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_034",
+        "topic": "Education & Instruction",
+        "prompt": "Move 'Sign up now!' directly below the image.",
+        "editing_method":"text_relocation",
+        "difficulty":"medium",
+        "difficulty_score":"7(0,1,2,2,0,0,0,1,1,0)",
+        "input_image": "34.jpg",
+        "output_image": "text_relocation_34.jpg",
+        "source_tag": "human_innoration"
+    }

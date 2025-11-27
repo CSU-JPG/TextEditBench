@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_048",
+        "topic": "Business & Advertising",
+        "prompt": "Change the text 'PLACE' on the black rectangular storefront sign to 'SPACE', keeping the same 3D metallic font, size, and alignment. Preserve the lighting, perspective, and realistic shadows.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,2,0,1,0,0,1,0,0)",
+        "input_image": "48.jpg",
+        "source_tag": "human_annotation"
+    }
+]

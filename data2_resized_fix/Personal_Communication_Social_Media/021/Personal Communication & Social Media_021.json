@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_021",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Delete 'Facebook' and 'LinkedIn'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,0,0,1,0,0,1,0,2)",
+        "input_image": "21.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Delete these two texts and also remove the related icons above."
+    }
+]

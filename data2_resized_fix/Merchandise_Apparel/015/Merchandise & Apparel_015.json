@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_015",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the store name on the sign from 'innistrèe' to 'innisfree', maintaining the same lowercase style, white color, and soft glow effect. Ensure alignment, spacing, and lighting consistency with the original branding across the store sign.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,1,2,0,0,0,0,1,0,0)",
+        "input_image": "15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

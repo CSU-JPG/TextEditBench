@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_004",
+        "topic": "Merchandise & Apparel",
+        "prompt": "make all words smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "4.jpg",
+        "source_tag": "human_annotation"
+    }
+]

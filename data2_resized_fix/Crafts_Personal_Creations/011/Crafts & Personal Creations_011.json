@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Crafts & Personal Creations_011",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "add 'Rich and Soothing, Lifesaver Elixir' below the coffee cup",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

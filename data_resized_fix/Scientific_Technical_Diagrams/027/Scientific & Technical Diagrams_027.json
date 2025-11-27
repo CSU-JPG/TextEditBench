@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_027",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Rotate the title clockwise to a suitable small angle so that it does not affect readability or block the content of the article.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+        "input_image": "27.jpg",
+        "output_image": "text_relocation_27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_039",
+"topic": "Packaging & Logistics",
+"prompt": "Change the text 'Bringing It to You' to 'Packaging It to You' while keeping the same font style, size, color, and center alignment beneath 'WARDIERE INC.'.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+"input_image": "39.jpg",
+"output_image": "text_change_39.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "The change replaces the action-oriented phrase 'Bringing It to You' with 'Packaging It to You', maintaining the brand’s logistics context while shifting focus from delivery to preparation. The model must ensure consistent typography, purple tone, and precise vertical alignment with the company name to preserve the logo’s professional balance."
+}
+]

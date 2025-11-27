@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_058",
+        "topic": "Business & Advertising",
+        "prompt": "Scale up the letters on the lightbox message 'HAVE A BREAK' slightly so the text fills more of each row while preserving each letter’s color (yellow, magenta, green), centered alignment within the lightbox slots, and the panel’s perspective. Do not let letters touch the slot dividers or overlap the drink and straw.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,1,0,0,0,0,0,1,0,0)",
+        "input_image": "58.jpg",
+        "source_tag": "human_annotation"
+    }
+]

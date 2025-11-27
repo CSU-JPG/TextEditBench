@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Data & Analytics_031",
+        "topic": "Data & Analytics",
+        "prompt": "There are some unclear parts in this receipt. Please make some corrections.",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "13(2,2,0,2,0,0,2,1,2,2)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Due to the receipt containing a mix of Chinese and English and lacking clear regional identifiers, the currency unit is uncertain (it could be Hong Kong dollars, Australian dollars, or Singapore dollars, etc.). This ambiguity can affect the accurate understanding of the amount. To eliminate confusion, adding a widely recognized currency symbol (such as the US dollar sign '$') before the amounts can provide a consistent and clear unit indicator for all monetary entries, thereby enhancing the standardization and readability of the receipt, making it clearly understood by audiences in different regions."
+    }
+]

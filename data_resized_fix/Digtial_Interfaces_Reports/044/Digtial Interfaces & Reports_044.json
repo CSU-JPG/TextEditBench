@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_044",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Delete 'Douyin Mall' on the left side of the image",
+        "editing_method":"text_delete",
+        "difficulty":"easy",
+        "difficulty_score":"3(1,0,0,0,0,0,0,2,0,0)",
+        "input_image": "44.jpg",
+        "output_image": "text_delete_44.jpg",
+        "source_tag": "human_annotation"
+    }
+]

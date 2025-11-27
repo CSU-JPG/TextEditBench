@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_019",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Replace the topper text 'BIRTHDAY' with 'CELEBRATION' in the same white 3D style and position under the red-striped circus tent design. Keep the frosting and decorations unchanged.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

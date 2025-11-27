@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_048",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Postpone the date on the poster by four days",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,1,0,0,0,0,2,1,0,2)",
+        "input_image": "48.jpg",
+        "output_image": "text_change_48.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The date is located on the right side of the poster next to the title. When postponing the date by four days, remember that October has 31 days—so instead of showing “October 32”, update it to “November 1st.” Also, ensure the ordinal suffix “st” is used correctly for the number 1."
+    }
+]

@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_038",
+"topic": "Packaging & Logistics",
+"prompt": "Change the text 'NETWORK' in the image to 'LOGISTICS', keeping the font style, size, color, and alignment unchanged.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+"input_image": "38.jpg",
+"output_image": "text_change_38.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "The modification replaces the word 'NETWORK' with 'LOGISTICS'. The model must preserve typographic properties such as bold weight, black color, and center alignment relative to the logo above and the 'ARROW DIGITAL' text below. Although the semantic context shifts from digital networking to logistics, visual hierarchy and spatial proportions remain identical."
+}
+]

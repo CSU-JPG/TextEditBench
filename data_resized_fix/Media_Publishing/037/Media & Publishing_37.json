@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_037",
+    "topic": "Media & Publishing",
+    "prompt": "Postpone the 16th to 17th in the picture.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "37.jpg",
+    "output_image": "text_change_37.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"Postpone the 16th to 17th in the picture. The original activity lasted for two days, but now the activity time is three days, so the activity time is revised to three days."
+  }
+]

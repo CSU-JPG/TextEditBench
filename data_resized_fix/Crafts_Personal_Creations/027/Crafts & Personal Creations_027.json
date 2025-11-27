@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_027",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Add the words 'Looking forward to your joining' to the top of the main title.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,2,0,0,0,0,0,0)",
+        "input_image": "27.jpg",
+        "output_image": "text_insert_27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

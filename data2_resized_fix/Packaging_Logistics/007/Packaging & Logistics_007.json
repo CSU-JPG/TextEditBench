@@ -1,0 +1,12 @@
+[
+    {
+        "id": " TextEditing_Packaging & Logistics_007",
+        "topic": "Packaging & Logistics",
+        "prompt": "delete the word in the picture",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation"
+    }
+]

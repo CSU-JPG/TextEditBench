@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_043",
+"topic": "Packaging & Logistics",
+"prompt": "Change the word 'POWER' in the title to 'STRENGTH', keeping the same font, size, color, and alignment.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+"input_image": "43.jpg",
+"output_image": "text_change_43.jpg",
+"source_tag": "human_annotation"
+}
+]

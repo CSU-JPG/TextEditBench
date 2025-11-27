@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_040",
+        "topic": "Packaging & Logistics",
+        "prompt": "Delete 'THANK YOU'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,1,0,0,0,0,0,0,0)",
+        "input_image": "40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

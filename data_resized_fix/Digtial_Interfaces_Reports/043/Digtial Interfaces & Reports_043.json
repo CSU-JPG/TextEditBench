@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_043",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "There is a large empty area in the original image. Summarize the entire image, add some content (Chinese characters), and add some text above the original text area.",
+        "editing_method":"text_insert",
+        "difficulty":"medium",
+        "difficulty_score":"9(2,1,0,2,0,0,2,0,0,2)",
+        "input_image": "43.jpg",
+        "output_image": "text_insert_43.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt":"Summarizing the whole text, it can be seen that it means the website is currently under maintenance, so we can derive the needed text 'Website under maintenance' from 'The website is being maintained' And place it at the location indicated by the prompt."
+    }
+]

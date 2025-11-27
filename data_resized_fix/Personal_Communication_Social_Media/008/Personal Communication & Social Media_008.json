@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_008",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the font of 'bloom' in the image to a sans-serif font.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,0,1,0)",
+        "input_image": "8.jpg",
+        "output_image": "text_attribute_8.jpg",
+        "source_tag": "human_annotation"
+    }
+]

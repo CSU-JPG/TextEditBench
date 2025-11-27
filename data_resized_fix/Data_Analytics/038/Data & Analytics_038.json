@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_038",
+  "topic": "Data & Analytics",
+  "prompt": "Change the title 'SCHEDULE' to 'ITINERARY'.",
+  "editing_method": "text_change",
+  "difficulty": "medium",
+  "difficulty_score": "9(2,2,1,0,0,0,0,2,2,0)",
+  "input_image": "38.jpg",
+  "output_image":  "text_change_38.jpg",
+  "source_tag": "human_annotation"
+}

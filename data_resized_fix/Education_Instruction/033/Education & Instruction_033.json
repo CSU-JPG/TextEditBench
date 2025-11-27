@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_033",
+        "topic": "Education & Instruction",
+        "prompt": "Modify the font of 'Teachers' Day' in the upper right corner of the picture.",
+        "editing_method":"text_attribute",
+        "difficulty":"medium",
+        "difficulty_score":"6(0,0,2,2,0,0,0,1,1,0)",
+        "input_image": "33.jpg",
+        "output_image": "text_attribute_33.jpg",
+        "source_tag": "human_innoration"
+    }

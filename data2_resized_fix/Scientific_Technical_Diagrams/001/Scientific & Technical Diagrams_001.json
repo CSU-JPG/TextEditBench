@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_001",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Make the title 'Vocanol Eruption' smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,0,0,0,2,0,1,0)",
+        "input_image": "1.jpg",
+        "source_tag": "human_annotation"
+    }
+]

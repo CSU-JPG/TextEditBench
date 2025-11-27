@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_008",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Convert title 'Technology Changes Life' from handwriting to normal font",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,1,0,0,1,1,2,2,1,0)",
+        "input_image": "8.jpg",
+        "source_tag": "human_annotation"
+    }
+]

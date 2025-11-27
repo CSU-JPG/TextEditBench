@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_027",
+        "topic": "Media & Publishing",
+        "prompt": "Rotate 'SOON' 30 degrees to the left",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+        "input_image": "27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

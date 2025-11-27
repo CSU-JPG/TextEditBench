@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_040",
+    "topic": "Media & Publishing",
+    "prompt": "Enlarge the Chinese in the picture.",
+    "editing_method": "scaling",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "43.jpg",
+    "output_image": "scaling_43.jpg",
+    "source_tag": "human_annotation"
+  }
+]

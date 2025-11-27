@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_038",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Move 'I LOVE YOU' up a little",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,0,0,1,0,0,2,1,0)",
+        "input_image": "38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

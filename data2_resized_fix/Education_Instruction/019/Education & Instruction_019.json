@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Education & Instruction_019",
+        "topic": "Education & Instruction",
+        "prompt": "Replace 'fresh' with 'new'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,2,0,0,0,0,1,0,0)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

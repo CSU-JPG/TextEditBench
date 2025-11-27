@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_019",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the text on the cup to 'SMILE'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,2,0,0,0,0,0)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

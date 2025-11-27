@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_027",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "delete 'Jingdezhen'",
+        "editing_method":"text_delete",
+        "difficulty":"medium",
+        "difficulty_score":"6(1,2,1,0,0,0,0,0,0,2)",
+        "input_image": "27.jpg",
+        "output_image": "text_delete_27.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Delete the relevant descriptions below together with the relevant images on the right."
+    }
+]

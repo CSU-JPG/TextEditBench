@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_005",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Properly enlarge the central text",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,1,2,0,0,0,0,1,1,0)",
+        "input_image": "5.jpg",
+        "output_image": "scaling_5.jpg",
+        "source_tag": "human_generated"
+    }
+]

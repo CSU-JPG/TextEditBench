@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Merchandise & Apparel_040",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Translate the following text into Chinese.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,1,0,0,0,0,1,2,2)",
+        "input_image": "40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

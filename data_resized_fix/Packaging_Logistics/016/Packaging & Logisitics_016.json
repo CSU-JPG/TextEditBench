@@ -1,0 +1,13 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_016",
+            "topic": "Packaging & Logistics",
+            "prompt": "Rotate the text of'Our Services' 20° counterclockwise around the center of the text",
+            "editing_method": "text_relocation",
+            "difficulty": "easy",
+            "difficulty_score": "5(1,1,0,0,0,0,1,0,2,0)",
+            "input_image":"16.jpg",
+            "output_image":"text_relocation_16.jpg",
+            "source_tag":"human_annotation"
+        }
+    ]

@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_014_scale",
+  "topic": "Data & Analytics",
+  "prompt": "Make the title 'Loneliness from Fewer Children and Non - Marriage Drives Pet Anthropomorphism' smaller",
+  "editing_method": "scaling",
+  "difficulty": "easy",
+  "difficulty_score": "5(2,1,0,0,0,0,0,1,1,0)",
+  "input_image": "14.jpg",
+  "output_image": "scaling_14.jpg",
+  "source_tag": "human_annotation"
+}

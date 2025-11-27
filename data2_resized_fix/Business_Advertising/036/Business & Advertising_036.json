@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_036",
+        "topic": "Business & Advertising",
+        "prompt": "Modify the large white text on the red restaurant building from 'BURGER' to 'DINER' while preserving the font style, 3D shading, alignment, and proportions relative to the facade design.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,1,0,1,0,0,0)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

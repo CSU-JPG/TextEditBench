@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_031",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Change the color of this text 'XIBAO零售商品网站' to '#f1c8bf'",
+        "editing_method":"text_attribute",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,2,0,2,0,0,0,0,1,0)",
+        "input_image": "31.jpg",
+        "output_image": "text_attribute_31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

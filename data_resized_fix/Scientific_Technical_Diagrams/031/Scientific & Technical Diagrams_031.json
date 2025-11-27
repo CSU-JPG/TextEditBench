@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_031",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Remove the small text part at the bottom of the image ",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,0,0,0,0,2,0,0,2)",
+        "input_image": "31.jpg",
+        "output_image": "text_delete_31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

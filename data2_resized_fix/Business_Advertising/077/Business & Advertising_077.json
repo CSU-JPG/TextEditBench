@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_077",
+        "topic": "Business & Advertising",
+        "prompt": "Add a frame in front of this shop, with 'closed' written inside.",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,0,0,0,0,2,2,0,2)",
+        "input_image": "77.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "If the image displays a 'Closed' sign, it clearly conveys that the store has ceased operations. In real-life situations, a closed store is usually characterized by the interior lights being turned off (creating a dim atmosphere) and the entrance being locked. These visual cues together reinforce the sense of the store being non-operational. If the current scene lacks these accompanying elements, it would create a logical disconnect with the 'Closed' sign, weakening the scene's credibility. Therefore, by simultaneously adjusting the lighting and adding a door lock, the visual representation can align with the textual information, thereby establishing an internally coherent and cognitively consistent 'closed' scenario."
+    }
+]

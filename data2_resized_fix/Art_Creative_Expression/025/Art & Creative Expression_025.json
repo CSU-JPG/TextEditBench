@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_025",
+        "topic": "Art & Creative Expression",
+        "prompt": "Relocate the phrase 'Let YOUR Light Shine' to the lower-right area of the notebook page while preserving the original handwriting style, teal/blue color, size, line breaks, and current tilt; avoid overlapping the drawn light bulbs.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,2,0,0,0,0,0,0,0)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation"
+    }
+]

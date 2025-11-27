@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_064",
+  "topic": "Data & Analytics",
+  "prompt": "Remove the text 'Used to monitor the company's financial status and performance' below the main title.",
+  "editing_method": "text_delete",
+  "difficulty": "easy",
+  "difficulty_score": "1 (0,0,0,0,0,0,0,0,1,0)",
+  "input_image": "64.jpg",
+  "output_image": "text_delete_64.jpg",
+  "source_tag": "human_annotation"
+}

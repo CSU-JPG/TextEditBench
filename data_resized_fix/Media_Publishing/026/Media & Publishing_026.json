@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_026",
+    "topic": "Media & Publishing",
+    "prompt": "Change the coupon price to 60.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "7 (1,0,1,2,0,0,0,1,0,2)",
+    "input_image": "26.jpg",
+    "output_image": "text_change_26.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"Because there's a linked calculation logic between prices. Changing the coupon amount (e.g., from 70 to 60) will cause related prices like the final activity price to change, as they follow the formula ’Activity price - Direct discount - Coupon = Final price',the price reduction changed from 30 plus 70 plus 20 to 30 plus 60 plus 20, a decrease of 10."
+  }
+]

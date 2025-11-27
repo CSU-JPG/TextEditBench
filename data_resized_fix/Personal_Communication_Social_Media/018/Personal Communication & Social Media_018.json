@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_018",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate 'Psych Facts' clockwise by 20 degrees.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,0,0,0,0,2,0)",
+        "input_image": "18.jpg",
+        "output_image": "text_relocation_18.jpg",
+        "source_tag": "human_annotation"
+    }
+]

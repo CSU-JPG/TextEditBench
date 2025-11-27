@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_040",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Adjust the tone to be more euphemistic without altering the core meaning.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,2,0,0,0,0,2,0,0,2)",
+        "input_image": "40.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "You can use phrases like 'Friendly Reminder' and 'Could You Please' while keeping the original intention unchanged."
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_033",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Reduce the size of the two titles in the upper left and upper right corners by 50%",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,2,0,0,0,0,0,0,1,2)",
+        "input_image": "33.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The titles in the upper left and upper right corners are accompanied by decorative lines above and below them. To maintain visual balance and proportionality, when the titles are scaled down by 50%, the decorative lines should also be scaled down accordingly. This ensures the layout remains harmonious and the design elements stay consistent."
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_019",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Scale 'Love Life, Embrace Now' to 150%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "19.jpg",
+        "output_image": "scaling_19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

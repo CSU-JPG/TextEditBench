@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Crafts & Personal Creations_041",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "To ensure the safe use of the product, add some text in a prominent position on this bottle of glue.",
+        "editing_method": "text_insert",
+        "difficulty": "hard",
+        "difficulty_score": "11(2,2,0,0,1,0,2,2,0,2)",
+        "input_image": "41.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "As a bottle of strong adhesive, its high stickiness may cause users to accidentally glue their skin or other objects while handling it. Therefore, adding a safety warning on the packaging, such as 'If it accidentally sticks to your hand, immediately soak and wash with water,' can effectively prevent common risks during use and provide clear emergency guidance. At the same time, adjusting the warning text to a prominent red color can leverage its commonly recognized visual cue for caution and importance, immediately attracting the user's attention and ensuring that safety information is effectively read, thereby enhancing the safety of product use."
+    }
+]

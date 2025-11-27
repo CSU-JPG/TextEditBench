@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_055",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Insert '2025' in the center of the image.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,1,0,0)",
+        "input_image": "55.jpg",
+        "output_image": "text_insert_55.jpg",
+        "source_tag": "human_annotation"
+    }
+]

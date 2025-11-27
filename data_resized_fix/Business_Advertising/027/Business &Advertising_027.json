@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_027",
+        "topic": "Business &Advertising",
+        "prompt": "Add 'The National Day' above the time.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,1,0,2,0,0,0,0,0,0)",
+        "input_image": "27.jpg",
+        "output_image": "text_insert_27.jpg",
+        "source_tag": "human_annotation"
+    }
+]

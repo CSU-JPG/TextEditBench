@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_005",
+    "topic": "Data & Analytics",
+    "prompt": "Swap the positions of the 'SALES SPLIT' section and the 'TOP PRODUCTS' section in the image.",
+    "editing_method": "text_relocation",
+    "difficulty": "medium",
+    "difficulty_score": "6(2,0,0,0,0,2,0,0,,2,0)",
+    "input_image": "5.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Both “SALES SPLIT” and “TOP PRODUCTS” are section headers that organize related data, so each title is conceptually tied to its corresponding content. Swapping their positions requires transferring the entire section units, not just the headers, to maintain logical coherence and preserve the integrity of the informational hierarchy."
+  }
+]

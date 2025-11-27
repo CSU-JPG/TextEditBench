@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_0011",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Make the tone of the text in the picture more intense",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,0,0,2)",
+        "input_image": "51.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Make the tone of the text in the picture more intense. According to the information in the picture, as can be seen from the semantic expectations, it is necessary to replace 'if not now,there where' with 'If not now, then when—no excuses, no delays!' to meet the requirement"
+    }
+]

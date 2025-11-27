@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_006",
+        "topic": "Professional Documents & Reports",
+        "prompt": "change the font of all words in the picture",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "5(2,2,0,0,0,0,0,0,1,0)",
+        "input_image": "6.jpg",
+        "source_tag": "human_annotation"
+    }
+]

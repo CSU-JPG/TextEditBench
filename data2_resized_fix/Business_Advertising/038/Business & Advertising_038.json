@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_038",
+        "topic": "Business & Advertising",
+        "prompt": "Replace the word 'Supporting' with 'Championing' on the red background, keeping the same white color, bold sans-serif font, size, and alignment. Maintain the overall composition and the football club badge unchanged.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "input_image": "38.jpg",
+        "source_tag": "human_annotation"
+    }
+]

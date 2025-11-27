@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_033",
+        "topic": "Media & Publishing",
+        "prompt": "Delete 'Shared'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,0,0,0,2,0,0)",
+        "input_image": "33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_014",
+        "topic": "Business &Advertising",
+        "prompt": "Fix the text errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,0,2,0,0,0,0,2,2)",
+        "input_image": "14.jpg",
+        "output_image": "text_change_14.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "According to '11.8-11.13', it can be inferred that 'time' should be filled in, and it is written as 'Tame' here, which is a spelling mistake and should be changed to 'time' to meet semantic expectations. "
+    }
+]

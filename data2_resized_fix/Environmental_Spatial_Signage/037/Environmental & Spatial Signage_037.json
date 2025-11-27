@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_037",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the building number from '639' to '845', maintaining the same white 3D sans-serif font, centered layout, and realistic lighting with consistent shadow depth on the black oval plaque.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,1,0,0,0,1,0,0)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

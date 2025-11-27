@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_021",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Move the 'Table of Contents' and the content below it to the left side of the image",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "21.jpg",
+        "output_image": "text_relocation_21.jpg",
+        "source_tag": "human_annotation"
+    }
+]

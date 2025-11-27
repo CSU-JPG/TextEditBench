@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_061",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rephrase 'Persist, Find Yourself, and Be Your Own Light' to be more polite.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,1,0,0,0,0,0,0,0)",
+        "input_image": "61.jpg",
+        "output_image": "text_change_61.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The request to rephrase to be more polite implies that the overall wording should be more gentle and supportive, with increased use of vocabulary and expressions that convey wishes and guiding tone."
+    }
+]

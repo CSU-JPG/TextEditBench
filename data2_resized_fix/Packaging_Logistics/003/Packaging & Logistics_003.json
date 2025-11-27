@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Packaging & Logistics_003",
+    "topic": "Packaging & Logistics",
+    "prompt": "Delete '0.17'",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,0,0,0,2,0,0,0,0,0)",
+    "input_image": "3.jpg",
+    "source_tag": "human_annotation"
+  }
+]

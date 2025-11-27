@@ -1,0 +1,14 @@
+[
+    {
+        "id":"TextEditing_Business&Advertising_009",
+        "topic":"Business&Advertising",
+        "prompt":"Delete the text 'Premium Fragrance'and the matching picture.",
+        "editing_method":"text_delete",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,2,1,0,0,0,0,0,0,2)",
+        "input_image":"9.jpg",
+        "output_image":"text_delete_9.jpg",
+        "source_tag":"human_annotation",
+        "knowledge_prompt":"The phrase “Premium Fragrance” represents one of the four listed advantages. When this element and its matching image are removed, the overall content should remain logically consistent. Therefore, the text describing the product’s advantages needs to be updated from “4 major advantages, included in one bottle” to “3 major advantages, included in one bottle” to accurately reflect the remaining number of features."
+    }
+]

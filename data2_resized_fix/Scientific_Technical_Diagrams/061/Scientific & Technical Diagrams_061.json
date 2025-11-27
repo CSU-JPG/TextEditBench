@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Scientific & Technical Diagrams_061",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "This machine is an unbranded product, along with some additional information.",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "8(2,0,1,0,0,0,0,1,2,2)",
+        "input_image": "61.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "As a medical device, its product panel only displays internal codes and lacks manufacturer information, which seriously fails to meet the basic requirements for market regulation, safety traceability, and user trust for this type of product. Without a clear manufacturer name, it not only violates medical device labeling regulations but also makes it impossible to trace responsibility and provide technical support effectively when issues arise. Therefore, adding a clearly identifiable manufacturer name on the front panel is a key step in ensuring complete product information, compliance with industry standards, and building initial user trust. This addition can fundamentally enhance the professionalism and credibility of the device as a medical device."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_060",
+        "topic": "Business & Advertising",
+        "prompt": "Change the sign text from 'SORRY WE'RE CLOSED' to 'YES WE'RE OPEN', preserving the white uppercase condensed sans-serif style with distressed texture, the two-line layout and centering, and the sign’s beveling, wear, and window reflections.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "4(2,2,0,0,0,0,0,0,0,0)",
+        "input_image": "60.jpg",
+        "source_tag": "human_annotation"
+    }
+]

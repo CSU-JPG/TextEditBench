@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_037",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Fix the erorrs in the pictures",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"7(1,0,0,2,0,0,0,0,2,2)",
+        "input_image": "37.jpg",
+        "output_image": "text_change_37.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The top-down order should be Day1, Day2, Day3. The positions of Day1 and Day2 should be swapped."
+    }
+]

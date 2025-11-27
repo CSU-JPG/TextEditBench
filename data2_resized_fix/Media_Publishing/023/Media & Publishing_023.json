@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_023",
+        "topic": "Media & Publishing",
+        "prompt": "Enlarge 'DE' a little bit",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "23.jpg",
+        "source_tag": "human_annotation"
+    }
+]

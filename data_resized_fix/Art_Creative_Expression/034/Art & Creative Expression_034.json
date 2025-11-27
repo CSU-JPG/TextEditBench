@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_034",
+        "topic": "Art & Creative Expression",
+        "prompt": "make 'PHOTO' smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,2,1,0)",
+        "input_image": "34.jpg",
+        "output_image": "scaling_34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

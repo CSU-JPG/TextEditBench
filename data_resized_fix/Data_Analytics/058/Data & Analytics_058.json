@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_058",
+  "topic": "Data & Analytics",
+  "prompt": "Insert 'Data Analysis' above the 'Short - Term Goals' section.",
+  "editing_method": "text_insert",
+  "difficulty": "easy",
+  "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "58.jpg",
+  "output_image": "text_insert_58.jpg",
+  "source_tag": "human_annotation"
+}

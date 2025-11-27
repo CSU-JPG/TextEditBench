@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_029",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Fixed grammatical errors in titles, including small text under titles",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "10(0,2,0,0,0,2,0,2,2,2)",
+        "input_image": "29.jpg",
+        "output_image": "text_change_29.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The text 'SOSIAL MEIDA STRATEGY' and 'Effecteve Ways to Increese Brand Awaraness' contain multiple spelling errors. First, 'SOSIAL' should be corrected to 'Social'—it has a redundant initial 'S' and misuses 's' instead of 'c' (the correct word derives from 'social' with the root 'soc-' related to society, requiring the letter 'c'). Second, 'MEIDA' should be 'MEDIA' as the letter order of 'e' and 'i' is reversed (the correct term 'Media' is the plural of 'medium', following the standard spelling 'M-e-d-i-a'). Third, 'Effecteve' is a misspelling of 'Effective' with a redundant 'e' in the suffix (the correct suffix is '-ive', forming an adjective meaning 'producing a desired result'). Fourth, 'Increese' should be 'Increase' with an unnecessary extra 'e' (the word stems from 'in-' + 'crease', and the correct spelling has no redundant letters). Fifth, 'Awaraness' is incorrect; the correct spelling is 'Awareness' due to a wrong letter combination (it comes from 'aware' + '-ness', so the middle part should be 'ware' instead of 'aran'). These corrections ensure linguistic accuracy, which is crucial for conveying professionalism and clarity in a topic like social media strategy."
+    }
+]

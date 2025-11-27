@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Education & Instruction_003",
+        "topic": "Education & Instruction",
+        "prompt": "Change the color of 'am' to the same red as 'I'.",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,0,2,0,1,0,2,1,1,2)",
+        "input_image": "3.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "There are two instances of 'am' in the picture. From 'My', 'ame' and 'is' in the lower sentence, it can be inferred that the 'n' is covered. The lower word is 'name' rather than 'am', so there's no need to modify it."
+    }
+]

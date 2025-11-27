@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Documents & CredentialBusiness & Advertising_065",
+        "topic": "Business & Advertising",
+        "prompt": "Change the color of 'WVTF 100' to warm yellow.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,0,0,0,0,0,1,1,2)",
+        "input_image": "65.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Changing the font color may disrupt color harmony; it is recommended to adjust the background hue to fit the new color scheme."
+    }
+]

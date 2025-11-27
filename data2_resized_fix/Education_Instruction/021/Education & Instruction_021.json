@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Education & Instruction_021",
+        "topic": "Education & Instruction",
+        "prompt": "Make 'nucleus' a little bigger",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,2,0,0,0,0,0,1,0)",
+        "input_image": "21.jpg",
+        "source_tag": "human_annotation"
+    }
+]

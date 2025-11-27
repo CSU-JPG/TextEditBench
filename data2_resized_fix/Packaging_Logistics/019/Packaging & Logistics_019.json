@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_019",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the sign on top of the tram from 'ROAD' to 'TRACK', keeping capitalization, font thickness, perspective, and material texture consistent with the original signboard.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

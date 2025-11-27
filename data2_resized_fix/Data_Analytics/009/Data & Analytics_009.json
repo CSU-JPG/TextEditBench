@@ -1,0 +1,12 @@
+  [
+  {
+    "id": "TextEditing_Data & Analytics_009",
+    "topic": "Data & Analytics",
+    "prompt": "Remove the text 'Scotland' and its associated region or element from the image.",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+    "input_image": "9.jpg",
+    "source_tag": "human_annotation"
+  }
+]

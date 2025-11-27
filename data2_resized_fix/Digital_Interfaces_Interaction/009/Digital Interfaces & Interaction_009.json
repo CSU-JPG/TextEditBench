@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_009",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Change all 'var' to 'int'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(2,2,2,0,1,0,0,2,0,0)",
+        "input_image": "9.jpg",
+        "source_tag": "human_annotation"
+    }
+]

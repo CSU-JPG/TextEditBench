@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_034",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "The 'Product Display' text at the top is too large; reduce it to size 10.",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"4(2,0,0,0,0,0,0,1,1,0)",
+        "input_image": "34.jpg",
+        "output_image": "scaling_34.jpg",
+        "source_tag": "human_annotation"
+    }
+]

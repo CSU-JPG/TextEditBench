@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_044",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Delete 'G 7.9%'",
+        "editing_method":"text_delete",
+        "difficulty":"medium",
+        "difficulty_score":"6(0,0,1,1,0,0,2,0,0,2)",
+        "input_image": "44.jpg",
+        "output_image": "text_delete_44.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Deleting G 7.9% means removing the part related to G, so it is expected that the section of G in the pie chart will also be deleted, and the proportions of the remaining parts should change accordingly.Because G originally accounted for 7.9%, after removing G, the remaining 92.1% needs to be recalculated for A, B, C, D, E, and F. For example, A's new proportion is 21.2% ÷ 92.1% = 23%, and the new proportions of the others B, C, D, E, and F are calculated in the same way."
+    }
+]

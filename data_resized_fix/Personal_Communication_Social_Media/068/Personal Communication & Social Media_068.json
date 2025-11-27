@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_068",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "scale 'In-Depth Interpretation of Postgraduate Exam Strategies' to 110%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,1,1,0)",
+        "input_image": "68.jpg",
+        "output_image": "scaling_68.jpg",
+        "source_tag": "human_annotation"
+    }
+]

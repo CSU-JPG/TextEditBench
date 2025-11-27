@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_031",
+        "topic": "Media & Publishing",
+        "prompt": "Change the font of the book's title to Roman type.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,2,0,0,2,1,0,0,0,0)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

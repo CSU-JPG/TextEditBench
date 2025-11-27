@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Art & Creative Expression_047",
+        "topic": "Art & Creative Expression",
+        "prompt": "Reduce the text in the image so that it fits perfectly on the white area of the cake.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,2,0,0,0,0,2,1,0)",
+        "input_image": "47.jpg",
+        "source_tag": "human_annotation"
+    }
+]

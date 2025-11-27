@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_012",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the jersey number from '3' to '7' on the boy's back, keeping the same bold font, size, color, and stitching style. Ensure lighting, shadows, and fabric texture remain consistent with the original uniform.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "12.jpg",
+        "source_tag": "human_annotation"
+    }
+]

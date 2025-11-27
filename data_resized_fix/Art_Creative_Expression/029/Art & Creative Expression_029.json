@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_029",
+        "topic": "Art & Creative Expression",
+        "prompt": "make 'Go Outside for a walk' smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,2,1,0)",
+        "input_image": "29.jpg",
+        "output_image": "scaling_29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

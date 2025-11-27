@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_014",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Fix the text errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,2,1,0,0,0,0,0,0,0)",
+        "input_image": "14.jpg",
+        "output_image": "text_change_14.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "According to the theme of the picture, it should be related to walking, so' sroll' is misspelled and should be changed to' stroll'. In addition, according to the picture information, it should be autumn, and' autumn' should be changed to' autumn', which is a spelling mistake, so as to maintain the semantic correctness."
+    }
+]

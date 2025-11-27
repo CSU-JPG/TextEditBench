@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_036",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Delete the title 'Chemistry Infographics'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,2,0,0,0,0,0,0,0)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

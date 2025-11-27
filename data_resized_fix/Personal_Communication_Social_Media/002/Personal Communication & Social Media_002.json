@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_002",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Translate the sentence in the center of the image into Chinese.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,2,0,0,0,0,0,0,0)",
+        "input_image": "2.jpg",
+        "output_image": "text_change_2.jpg",
+        "source_tag": "human_annotation"
+    }
+]

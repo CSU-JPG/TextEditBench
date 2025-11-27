@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_010",
+    "topic": "Data & Analytics",
+    "prompt": "Insert 'Action Gap Critical: Bridging the divide between knowing and doing.' below the subheading 'What concepts do you uphold in the process of health management?'",
+    "editing_method": "text_insert",
+    "difficulty": "easy",
+    "difficulty_score": "3(1,1,0,0,1,0,0,0,0,0)",
+    "input_image": "10.jpg",
+    "output_image": "text_insert_10.jpg",
+    "source_tag": "human_annotation"
+  }
+]

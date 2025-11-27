@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_002",
+    "topic": "Business & Advertising",
+    "prompt": "Make 'MOTEL' a little smaller",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,2,0,0,0,0,2,1,0)",
+    "input_image": "2.jpg",
+    "source_tag": "human_annotation"
+  }
+]

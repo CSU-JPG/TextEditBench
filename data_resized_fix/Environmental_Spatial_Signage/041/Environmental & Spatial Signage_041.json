@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_041",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Move the text at the bottom of the image to the center",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "41.jpg",
+        "output_image": "text_relocation_41.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_070",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change 'GOOD MORNING' to 'GOOD EVENING'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,1,0,1,0,0,0,0,2)",
+        "input_image": "70.jpg",
+        "output_image": "text_change_70.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The semantic expectation is to change the background to a night scene."
+    }
+]

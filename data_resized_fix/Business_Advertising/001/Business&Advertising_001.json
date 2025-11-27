@@ -1,0 +1,14 @@
+[
+    {
+        "id":"TextEditing_Business&Advertising_001",
+        "topic":"Business&Advertising",
+        "prompt":"Change the 'New Arrival' time from 12.20 to 12.21.",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"10(2,2,0,2,0,0,0,2,0,2)",
+        "input_image":"1.jpg",
+        "output_image":"text_change_1.jpg",
+        "source_tag":"human_annotation",
+        "knowledge_prompt":"The 'New Arrival' time has been changed from '12.20' to '12.21',the'Limited time'starts at the 'New Arrival' day,so the 'Limited time'should be changed from '12.20—12.23'to'12.21-12.23' accordingly."
+    }
+]

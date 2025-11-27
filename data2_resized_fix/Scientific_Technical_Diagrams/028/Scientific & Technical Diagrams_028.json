@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_028",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Translate the five subheadings in the treemap into Chinese",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "7(2,2,0,0,0,0,2,1,0,0)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

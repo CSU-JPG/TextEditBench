@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Education & Instruction_031",
+        "topic": "Education & Instruction",
+        "prompt": "Make the font size of 'Kewa postgraduate entrance examination class' smaller.",
+        "editing_method":"scaling",
+        "difficulty":"medium",
+        "difficulty_score":"7(0,2,1,2,0,0,0,1,1,0)",
+        "input_image": "31.jpg",
+        "output_image": "scaling_31.jpg",
+        "source_tag": "human_innoration"
+    }

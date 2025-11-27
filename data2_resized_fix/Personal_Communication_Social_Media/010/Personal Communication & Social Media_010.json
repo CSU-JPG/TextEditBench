@@ -1,0 +1,12 @@
+[
+    {
+        "id": " TextEditing_Professional Documents & Reports_010",
+        "topic": "TProfessional Documents & Reports",
+        "prompt": "change the font of 'lunch seafood'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "10.jpg",
+        "source_tag": "human_annotation"
+    }
+]

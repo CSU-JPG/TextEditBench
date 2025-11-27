@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_024",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Transpose the text on the chest area of the jacket to the opposite side.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,1,0,2,0,1,0)",
+        "input_image": "24.jpg",
+        "source_tag": "human_annotation"
+    }
+]

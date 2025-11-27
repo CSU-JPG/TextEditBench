@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_033",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Change the color of 'Hello, April' to make it stand out more in the image.",
+        "editing_method":"text_attribute",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,0,0,0,0,0,2,2,1,0)",
+        "input_image": "33.jpg",
+        "output_image": "text_attribute_33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

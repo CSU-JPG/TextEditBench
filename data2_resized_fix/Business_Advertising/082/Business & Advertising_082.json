@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Business & Advertising_082",
+        "topic": "Business & Advertising",
+        "prompt": "The meaning of this road sign is very strange, it has been altered.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,0,0,0,0,0,2,2,2,2)",
+        "input_image": "82.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "A billboard in a road scene that only displays the word 'Republic' would appear abrupt and ambiguous, because the term itself is an abstract political concept, lacking a specific context, which can easily confuse viewers. Modifying it to a slogan with a call to action, such as 'Build Our Republic,' can transform the image into a scene of political propaganda or a collective appeal. This not only gives the word 'Republic' a clear context and intention for action, but also makes the billboard's presence in the public space of the road more reasonable and narratively coherent."
+    }
+]

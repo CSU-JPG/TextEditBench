@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_038",
+    "topic": "Media & Publishing",
+    "prompt": "Insert the time corresponding to the autumnal equinox in the picture.",
+    "editing_method": "text_insert",
+    "difficulty": "medium",
+    "difficulty_score": "9(0,2,1,2,0,0,0,1,1,2)",
+    "input_image": "38.jpg",
+    "output_image": "text_insert_38.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"The corresponding year in the figure is 2025, and the Autumn Equinox in 2025 falls on September 23rd, so the inserted date is September 23rd."
+  }
+]

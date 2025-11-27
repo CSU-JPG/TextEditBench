@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_009",
+        "topic": "Professional Documents & Reports",
+        "prompt": "make the title text twice its original size to fit the frame",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"2(0,1,0,1,0,0,0,0,1,0)",
+        "input_image": "9.jpg",
+        "output_image": "scaling_9.jpg",
+        "source_tag": "human_annotation"
+    }
+]

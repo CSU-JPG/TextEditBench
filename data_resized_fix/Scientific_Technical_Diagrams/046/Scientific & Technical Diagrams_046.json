@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_046",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Remove company information from the image",
+        "editing_method":"text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,2,0,0,0,0,2,0,0,2)",
+        "input_image": "46.jpg",
+        "output_image": "text_delete_46.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the prompt requests the removal of company information, the edit should focus on eliminating any visual identifiers that reveal brand affiliation or promotional content. The logo “thynk unlimited” and the URL “www.reallygreatsite.com” function as explicit company markers; removing them semantically fulfills the goal of depersonalizing the image and neutralizing brand association."
+    }
+]

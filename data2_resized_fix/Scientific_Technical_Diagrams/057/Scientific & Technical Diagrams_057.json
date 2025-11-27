@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_057",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Make 'E=mc2' a little smaller",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,2,0,0,0,0,1,1,0)",
+        "input_image": "57.jpg",
+        "source_tag": "human_annotation"
+    }
+]

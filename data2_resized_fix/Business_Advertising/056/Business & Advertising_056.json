@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_056",
+        "topic": "Business & Advertising",
+        "prompt": "Change the text on the hanging sign from 'OLDTOWN CO CCT.3913' to 'NEWLEAF CAFÉ EST.2025'. Keep the coffee cup logo, matching the existing vintage font style, color tone, and weathered texture.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "56.jpg",
+        "source_tag": "human_annotation"
+    }
+]

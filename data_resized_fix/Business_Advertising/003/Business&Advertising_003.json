@@ -1,0 +1,14 @@
+[
+    {
+        "id":"TextEditing_Business&Advertising_012",
+        "topic":"Business&Advertising",
+        "prompt":"Change the time from '11.18-11.21'to'6.18-6.21'",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"6(2,2,0,0,0,0,0,0,0,2)",
+        "input_image":"3.jpg",
+        "output_image":"text_change_3.jpg",
+        "source_tag":"human_annotation",
+        "knowledge_prompt":"The time of the discount has been changed from '11.18-11.21'to'6.18-6.21',and '6.18-6.21'belongs to the Summer,so the'Autumn fashion trend'should be changed into'Summer fashion trend'accordingly."
+    }
+]

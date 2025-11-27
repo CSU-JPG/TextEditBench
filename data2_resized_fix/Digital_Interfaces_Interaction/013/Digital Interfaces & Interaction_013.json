@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_013",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Change the duration of the last voice message sent by Jessica to 15 seconds.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,0,0,2,1,0,2)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "It can be seen from the note at the top of the mobile chat interface that Jessica is the person on the other end. Since the displayed length of a voice message is positively correlated with its duration, after changing the duration, the length of the voice bar should also be adjusted. As the previous message is 15 seconds long, it should be modified to have the same length as the previous message."
+    }
+]

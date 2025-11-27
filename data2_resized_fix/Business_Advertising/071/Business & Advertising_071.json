@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_071",
+        "topic": "Business & Advertising",
+        "prompt": "Reverse the largest piece of text in the image",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,1,0,0,0,0,1,2,0)",
+        "input_image": "71.jpg",
+        "source_tag": "human_annotation"
+    }
+]

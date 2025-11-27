@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_005",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Change 'East' to 'West'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "5.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_034",
+"topic": "Packaging & Logistics",
+"prompt": "Change the text 'JUST LOGISTICS' in the image to 'FREIGHT FORWARDING'. Maintain the same font, size, color, and alignment at the top of the design.",
+"editing_method": "text_change",
+"difficulty": "medium",
+"difficulty_score": "4(1,1,0,0,1,0,0,0,1,0)",
+"input_image": "34.jpg",
+"output_image": "text_change_34.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "This task requires the model to substitute a short, simple phrase ('JUST LOGISTICS') with a longer, multi-word phrase ('FREIGHT FORWARDING') while preserving typographic balance and spatial layout. The new text must retain the same typeface, uppercase style, and centered alignment without overlapping adjacent graphic elements like the truck and 'ESTD 98' badge. The model should adjust kerning and scaling slightly to maintain visual harmony and readability."
+}
+]

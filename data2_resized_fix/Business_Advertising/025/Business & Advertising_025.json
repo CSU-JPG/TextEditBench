@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_025",
+        "topic": "Business & Advertising",
+        "prompt": "change the color of 'hair'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0,)",
+        "input_image": "25.jpg",
+        "source_tag": "human_annotation"
+    }
+]

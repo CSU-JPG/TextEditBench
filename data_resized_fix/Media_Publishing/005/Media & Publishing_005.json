@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_005",
+    "topic": "Media & Publishing",
+    "prompt": "Replace 'wonderful' in the picture with its synonym.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "6(0,0,2,2,1,1,0,0,0,0)",
+    "input_image": "5.jpg",
+    "output_image": "text_change_5.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"To ask to replace wonderful with a synonym, according to the content of the picture and the meaning of wonderful, it is explained that the semantic expectation model cannot change the original meaning, and the replaced word also needs to express positive meanings such as excellent and wonderful."
+  }
+]

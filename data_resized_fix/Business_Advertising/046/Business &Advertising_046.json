@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_046",
+        "topic": "Business &Advertising",
+        "prompt": "Turn the white of the main title into black.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "46.jpg",
+        "output_image": "text_attribute_46.jpg",
+        "source_tag": "human_annotation"
+    }
+]

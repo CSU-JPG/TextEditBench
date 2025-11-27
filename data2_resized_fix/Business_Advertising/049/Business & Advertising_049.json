@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_049",
+        "topic": "Business & Advertising",
+        "prompt": "Fix the spelling errors on the sign text. Change 'Repairs anel Rasth Only' to 'Repairs and Wash Only' while preserving the same bold white font, alignment, and proportional layout on the black rectangular background.",
+        "editing_method": "text_correction",
+        "difficulty": "medium",
+        "difficulty_score": "4(2,2,0,0,0,0,0,0,0,0)",
+        "input_image": "49.jpg",
+        "source_tag": "human_annotation"
+    }
+]

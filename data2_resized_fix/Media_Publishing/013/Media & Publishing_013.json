@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_013",
+        "topic": "Media & Publishing",
+        "prompt": "Add 'The charm of greyhound racing is all here' at the bottom of the picture",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation"
+    }
+]

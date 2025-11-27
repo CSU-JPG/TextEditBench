@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Digital Interfaces & Interaction_001",
+    "topic": "Digital Interfaces & Interaction",
+    "prompt": "Make 'BRAVE' a little bigger",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,2,0,2,0,0,0,1,0)",
+    "input_image": "1.jpg",
+    "source_tag": "human_annotation"
+  }
+]

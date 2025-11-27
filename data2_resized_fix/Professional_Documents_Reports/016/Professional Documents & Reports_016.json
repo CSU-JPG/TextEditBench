@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_016",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Insert 'Alice' below 'First name'",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

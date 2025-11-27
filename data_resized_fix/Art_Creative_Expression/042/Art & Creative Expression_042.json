@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_042",
+        "topic": "Art & Creative Expression",
+        "prompt": "delete the time of the activit",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,2,0,0,0,0,0,0)",
+        "input_image": "42.jpg",
+        "output_image": "text_delete_42.jpg",
+        "source_tag": "human_annotation"
+    }
+]

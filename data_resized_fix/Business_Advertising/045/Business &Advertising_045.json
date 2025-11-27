@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_045",
+        "topic": "Business &Advertising",
+        "prompt": "Replace 'Business'  with 'agriculture'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,0,0,2,1,0,2)",
+        "input_image": "45.jpg",
+        "output_image": "text_change_45.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Because business has been replaced by agriculture, in order to meet the semantic expectation, the city in the background picture should be replaced by a picture related to agriculture."
+    }
+]

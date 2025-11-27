@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_001",
+        "topic": "Merchandise & Apparel",
+        "prompt": "find the errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+        "input_image": "1.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Find the error in the picture. According to the information in the picture, 'bees' has nothing to do with the content of the picture. As can be seen from the semantic expectations, replace 'bees' with 'scores' to ensure overall harmony."
+    }
+]

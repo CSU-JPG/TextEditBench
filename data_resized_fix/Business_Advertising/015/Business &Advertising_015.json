@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_015",
+        "topic": "Business &Advertising",
+        "prompt": "Turn white text into black.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "5(2,2,0,0,0,0,0,0,1,0)",
+        "input_image": "15.jpg",
+        "output_image": "text_attribute_15.jpg",
+        "source_tag": "human_annotation"
+    }
+]

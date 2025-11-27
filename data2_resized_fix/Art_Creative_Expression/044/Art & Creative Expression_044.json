@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Art & Creative Expression_044",
+        "topic": "Art & Creative Expression",
+        "prompt": "Change the 'EMO' in this text to 'happy'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,0,2,0,0,0,2,1,0,2)",
+        "input_image": "44.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "After changing the text to 'happy', it does not match the original gloomy tone of the image dominated by emo-style text, affecting the overall harmony of the picture. Therefore, the overall color scheme, including the child's clothing, should be changed to fresh and bright green or yellow, while also making the child's facial expression happy, which helps maintain the consistency of the emotion conveyed by the image."
+    }
+]

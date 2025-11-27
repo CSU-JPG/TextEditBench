@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_008",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Enlarge the text in the image a little",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,2,0,1,1,0,1,1,0)",
+        "input_image": "8.jpg",
+        "source_tag": "human_annotation"
+    }
+]

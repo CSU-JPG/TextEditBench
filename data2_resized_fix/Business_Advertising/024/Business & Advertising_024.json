@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_024",
+        "topic": "Business & Advertising",
+        "prompt": "fix the errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+        "input_image": "24.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Fix the error in the picture. Based on the information in the picture, 'miian' has a spelling mistake. As implied by the semantic expectation, correct 'miian' to 'main'"
+    }
+]

@@ -1,0 +1,14 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_023",
+            "topic": "Packaging & Logistics",
+            "prompt": "Change the text ‘Dear Lonalv’ in the image to ‘Dear Micheal’.",
+            "editing_method": "text_change",
+            "difficulty": "easy",
+            "difficulty_score": "3(1,0,2,0,0,0,0,0,0,0)",
+            "input_image":"23.jpg",
+            "output_image":"text_change_23.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Changing the name “Lenalu” to “Micheal” requires the model to understand that both are proper names used in the same greeting phrase “Dear …”.\nThe semantic expectation is that the new name should fit naturally within the same context, preserving the same meaning of a personal greeting.\nAdditionally, the replacement text should maintain consistent visual style — including font type, size, alignment, and color — to ensure the overall card design and emotional tone (“warm and friendly”) remain unchanged."
+        }
+    ]

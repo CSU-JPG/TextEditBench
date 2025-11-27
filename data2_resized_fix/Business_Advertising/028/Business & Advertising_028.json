@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_028",
+        "topic": "Business & Advertising",
+        "prompt": "Change the brand text on the tennis ball from 'Valspar' to 'Wilson', keeping the same font style, curvature, size, and black color alignment consistent with the original print on the ball surface.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,1,1,0,2,0,0,2,0,0)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation"
+    }
+]

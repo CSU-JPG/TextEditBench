@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_041",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "change the font of words",
+        "editing_method": "text_arrtibute",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "41.jpg",
+        "source_tag": "human_annotation"
+    }
+]

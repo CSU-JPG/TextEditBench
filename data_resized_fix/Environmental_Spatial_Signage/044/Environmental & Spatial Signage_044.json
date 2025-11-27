@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_044",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Enlarge 'Soul Departure' a little",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,0,0,0,0,0,0,2,1,0)",
+        "input_image": "44.jpg",
+        "output_image": "scaling_44.jpg",
+        "source_tag": "human_annotation"
+    }
+]

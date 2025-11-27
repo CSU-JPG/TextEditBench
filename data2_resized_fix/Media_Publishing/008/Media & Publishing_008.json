@@ -1,0 +1,10 @@
+{
+    "id":"TextEditing_Media & Publishing_008",
+    "topic": "Media & Publishing",
+    "prompt": "The '。' at the end of the English sentence Change to '.'",
+    "editing_method":"text_change",
+    "difficulty":"medium",
+    "difficulty_score":"5(0,2,0,0,0,0,0,1,2,0)",
+    "input_image": "8.jpg",
+    "source_tag": "human_annotation"
+}

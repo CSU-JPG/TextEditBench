@@ -1,0 +1,14 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_027",
+            "topic": "Packaging & Logistics",
+            "prompt": "Translate the English text 'ORDER NOW' into Chinese as ‘马上订购’ while keeping the same font style, color, and layout",
+            "editing_method": "text_change",
+            "difficulty": "medium",
+            "difficulty_score": "7(1,1,1,2,0,0,0,0,2,0)",
+            "input_image":"27.jpg",
+            "output_image":"text_change_27.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Translating “ORDER NOW” into “马上订购” requires the model to understand that both phrases convey the same meaning — a call to immediate action for purchase.\nThe semantic expectation is that the translation preserves the urgency and promotional tone of the original English text.\nVisually, the new Chinese text should maintain the same font size, alignment, and color harmony within the yellow button area, ensuring the overall composition and emphasis remain consistent with the original design."
+        }
+    ]

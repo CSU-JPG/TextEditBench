@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_052",
+        "topic": "Business & Advertising",
+        "prompt": "Replace the storefront text 'ya' with 'TacoHub' in the same bold font style, color scheme, and centered position. Adjust the shadow and perspective to maintain realistic integration with the yellow-orange building facade.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "4(1,1,1,0,1,0,0,0,0,0)",
+        "input_image": "52.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "This task involves visual branding redesign for a restaurant storefront, emphasizing realistic text blending, font consistency, and environmental lighting adaptation."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_015",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "delete the title of the diagram",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,2,0,0,0,0,0,0,0,2)",
+        "input_image": "15.jpg",
+        "output_image": "text_delete_15.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The diagram’s title consists of both the main heading and the smaller subtitle “Major company milestones,” which together form a unified title block. Therefore, deleting the title logically includes removing the smaller text as well to maintain semantic completeness and visual consistency."
+    }
+]

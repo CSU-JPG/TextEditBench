@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_011",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Change the '2.2 million' into '2.4 million'",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"5(1,0,0,0,0,0,2,0,0,2)",
+        "input_image": "11.jpg",
+        "output_image": "text_change_11.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The '2.2 million' is the data of 'Current number of user', since the Growth amount is obtained by subtracting the Number of users last quarter from the Current number of users, when the Current number of users changes, in order to ensure the correctness of the data logic, it is expected that the Growth amount will also change accordingly."
+    }
+]

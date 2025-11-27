@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_009",
+    "topic": "Art & Creative Expression",
+    "prompt": "Make 'Kid Zania' a little smaller",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,2,0,0,1,0,0,1,0)",
+    "input_image": "9.jpg",
+    "source_tag": "human_annotation"
+  }
+]

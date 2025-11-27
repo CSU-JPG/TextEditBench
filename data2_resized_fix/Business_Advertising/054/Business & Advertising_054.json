@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_054",
+        "topic": "Business & Advertising",
+        "prompt": "Change the text on the wooden sign above the van from 'BAR' to 'MARKET', keeping the same bold serif font style and dark blue lettering. Adjust the perspective and lighting to match the original environment.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "54.jpg",
+        "source_tag": "human_annotation"
+    }
+]

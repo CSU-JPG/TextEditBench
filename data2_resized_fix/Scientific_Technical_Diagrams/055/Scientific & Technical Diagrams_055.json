@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical_055",
+        "topic": "Scientific & Technical",
+        "prompt": "Change the text '77' to '88' in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+        "input_image": "55.jpg",
+        "source_tag": "human_annotation"
+    }
+]

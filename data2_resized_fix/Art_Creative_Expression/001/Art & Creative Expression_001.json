@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Art & Creative Expression_001",
+    "topic": "Art & Creative Expression",
+    "prompt": "Rotate 'Magic' 30 degrees to the right",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,0,0,2,0,0,1,2,0)",
+    "input_image": "1.jpg",
+    "source_tag": "human_annotation"
+  }
+]

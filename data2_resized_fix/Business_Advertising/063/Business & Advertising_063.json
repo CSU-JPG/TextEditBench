@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Documents & CredentialBusiness & Advertising_063",
+        "topic": "Business & Advertising",
+        "prompt": "Set all text to white.",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": "7(2,2,0,0,1,0,0,1,1,0)",
+        "input_image": "63.jpg",
+        "source_tag": "human_annotation"
+    }
+]

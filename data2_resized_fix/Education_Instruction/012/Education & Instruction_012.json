@@ -1,0 +1,12 @@
+[
+    {
+        "id": " &TextEditing_Education & Instruction_012",
+        "topic": "Education & Instruction",
+        "prompt": "change the font of 'DEAD'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "12.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Data & Analytics_022",
+    "topic": "Data & Analytics",
+    "prompt": "Change the percentage value of 67% to 11%.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "4(0,1,1,0,0,0,0,1,1,0)",
+    "input_image": "22.jpg",
+    "output_image": "text_change_22.jpg",
+    "knowledge_prompt": "When changing the percentage value from 67% to 11%, ensure the visual consistency of the circular percentage graphic element to match the new value.",
+    "source_tag": "human_annotation"
+  }
+]

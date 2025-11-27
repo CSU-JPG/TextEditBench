@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_035",
+        "topic": "Business & Advertising",
+        "prompt": "Correct the spelling error on the red awning by changing 'INDIAIAN' to 'INDIAN' while maintaining the same font, color, and alignment. Keep the restaurant sign's design and lighting consistent.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
+        "input_image": "35.jpg",
+        "source_tag": "human_annotation"
+    }
+]

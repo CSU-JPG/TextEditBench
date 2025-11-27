@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_029",
+        "topic": "Media & Publishing",
+        "prompt": "Rewrite the last paragraph of the article while keeping the original meaning.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,0,0,2)",
+        "input_image": "29.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The original meaning of the article should not be changed, and synonyms should be used more to replace the original words, maintaining a similar tone."
+    }
+]

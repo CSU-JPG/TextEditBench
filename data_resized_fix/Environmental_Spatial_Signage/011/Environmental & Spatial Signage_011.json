@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_011",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Postpone the entire event by two months",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"5(1,0,0,2,0,0,2,0,0,0)",
+        "input_image": "11.jpg",
+        "output_image": "text_change_11.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Postponing by two months means that both the start and end dates need to be extended by two months, so they are changed to 5/29 and 7/10 respectively."
+    }
+]

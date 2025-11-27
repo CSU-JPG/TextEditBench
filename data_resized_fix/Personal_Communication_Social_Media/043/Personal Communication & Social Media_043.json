@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_043",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Scale 'Dare to Start, and You Will Succeed' to 110%.",
+        "editing_method": "scaling",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,2,0,0,0,0,1,1,0)",
+        "input_image": "43.jpg",
+        "output_image": "scaling_43.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_032",
+        "topic": "Art & Creative Expression",
+        "prompt": "Delete the small date markers on the left page (the circled numbers '28', '29', '30' and the labels 'MON', 'WED'), keeping the large calligraphy quote on the right page unchanged. Restore the squared grid background where elements are removed so the grid lines remain continuous and aligned.",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "4(2,1,0,0,0,0,0,1,0,0)",
+        "input_image": "32.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_060",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change all three instances of 'morning' in the image to 'evening'.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,1,2,0,0,0,0,1,0,2)",
+        "input_image": "60.jpg",
+        "output_image": "text_change_60.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Change 'morning' to 'evening', which implies the semantic expectation that the background should also be changed to night."
+    }
+]

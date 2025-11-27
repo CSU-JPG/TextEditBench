@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Environment & Spatital Signage_036",
+        "topic": "Environment & Spatital Signage",
+        "prompt": "Change the word 'FOR' on the metal wall sign to 'SALE', ensuring the same bold serif font, 3D embossing effect, and consistent weathered metal texture with rust details on the brick background.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

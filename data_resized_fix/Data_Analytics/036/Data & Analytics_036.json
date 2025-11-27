@@ -1,0 +1,12 @@
+{
+  "id": "TextEditing_Data & Analytics_036",
+  "topic": "Data & Analytics",
+  "prompt": "Add a 'Total Score' column after the 'Liberal Arts' column",
+  "editing_method": "text_insert",
+  "difficulty": "hard",
+  "difficulty_score": "12(2,2,2,0,0,0,0,2,2,2)",
+  "input_image": "36.jpg",
+  "output_image": "text_insert_36.jpg",
+  "source_tag": "human_annotation",
+  "knowledge_prompt":"In the table, locate the 'Comprehensive Liberal Arts' column and insert a new column titled 'Total score' immediately to its right. For each student, calculate their total score: Total Score = Chinese score + Math score + English score + Comprehensive Liberal Arts score. The specific calculation process: each student's total score is the sum of their scores in the four subjects: Chinese, Math, English, and Comprehensive Liberal Arts. For example: name1's total score = 137 + 103 + 139 + 230 = 609; name2's total score = 140 + 130 + 130 + 265 = 665. Fill in the calculated total score for each student in the corresponding row of the 'Total score' column, ensuring all calculations are accurate and the data format in the Total Score column matches the other score columns."
+}

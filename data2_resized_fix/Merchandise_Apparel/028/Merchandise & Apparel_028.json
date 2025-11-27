@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Merchandise & Apparel_028",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Change the 'aaze' on the display box to 'lays' (lays chip)",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "10(2,0,2,0,0,0,2,2,0,2)",
+        "input_image": "28.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Considering the consistency of the image text, the position below the display box corresponds to the respective product. If modified to Lays chips, the image in the display box should also be changed to Lays products, such as various flavors of Lays chip packaging."
+    }
+]

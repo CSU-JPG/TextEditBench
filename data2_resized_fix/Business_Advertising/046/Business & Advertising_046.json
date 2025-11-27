@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_046",
+        "topic": "Business & Advertising",
+        "prompt": "Correct the misspelled word 'SNECKS' on the packaging to 'SNACKS' while maintaining the same bold white font, size, and alignment within the red circle label. Preserve the brand name 'bhula' and overall design layout.",
+        "editing_method": "text_correction",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,0,2,0,1,0,0,2,0,0)",
+        "input_image": "46.jpg",
+        "source_tag": "human_annotation"
+    }
+]

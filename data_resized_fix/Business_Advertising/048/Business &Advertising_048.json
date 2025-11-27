@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_048",
+        "topic": "Business &Advertising",
+        "prompt": "Add the sentence 'HANDYMAN SERVICES YOUR HOME'below the main title.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "48.jpg",
+        "output_image": "text_insert_48.jpg",
+        "source_tag": "human_annotation"
+    }
+]

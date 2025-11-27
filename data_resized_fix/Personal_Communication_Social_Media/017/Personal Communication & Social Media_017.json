@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_017",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add '2025' above '9/22'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "17.jpg",
+        "output_image": "text_insert_17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

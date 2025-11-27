@@ -1,0 +1,15 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_026",
+            "topic": "Packaging & Logistics",
+            "prompt": "Delete the word ‘MOVE’ from the text ‘MOVE AMPAT’ in the image",
+            "editing_method": "text_delete",
+            "difficulty": "easy",
+            "difficulty_score": "3(1,1,1,0,0,0,0,0,0,0)",
+            "input_image":"26.jpg",
+            "output_image":"text_delete_26.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Deleting the word “MOVE” from the title requires the model to understand that “MOVE AMPAT” is an incorrect or awkward phrase in the context of a travel advertisement.\nThe semantic expectation is that after deletion, “AMPAT” alone should remain as the destination name (referring to “Raja Ampat”), maintaining coherence with the rest of the flyer text such as “WHY RAJA AMPAT.”\nThe layout, alignment, and design balance must remain consistent, ensuring the removal does not leave unnatural spacing or disrupt the visual hierarchy of the title section."
+
+        }
+    ]

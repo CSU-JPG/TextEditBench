@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Merchandise & Apparel_032",
+        "topic": "DiMerchandise & Apparel",
+        "prompt": "Add packaging to the left side",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "12(2,1,0,0,0,0,2,1,2,2)",
+        "input_image": "32.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The white liquid in the bottle on the left side of the image closely resembles the typical appearance of milk, but its container lacks clear labeling, resulting in ambiguous product attributes and cognitive inconsistency with the liquid product on the right, which has distinct packaging. To establish visual consistency and eliminate informational ambiguity, adding a packaging label named 'Milk' on the left bottle would directly leverage the general association between color and substance to clearly convey the actual contents. This would enhance the overall coordination and information clarity of the displayed products, allowing viewers to quickly and accurately understand the product information conveyed by the image."
+    }
+]

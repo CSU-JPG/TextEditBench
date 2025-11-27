@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Data & Analytics_030",
+        "topic": "Data & Analytics",
+        "prompt": "Change '75' to '50'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
+        "input_image": "30.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "At the same time, the progress bar needs to be modified, changing from three-quarters to one-half."
+    }
+]

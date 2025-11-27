@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_046",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Replace the words in the picture with their synonyms.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,0,0,0,0,0,0,2)",
+        "input_image": "46.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace the words in the picture with their synonyms. According to the information in the picture, it is also easy to know that 'BRAND PERSONALITY & VISUAL BRANDING' and 'BRAND PERSONA & VISUAL IDENTITY' are synonyms. As can be seen from the semantic expectations, replace 'BRAND PERSONA & VISUAL IDENTITY' with 'BRAND PERSONALITY & VISUAL BRANDING' to meet the requirement."
+    }
+]

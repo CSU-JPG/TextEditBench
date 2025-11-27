@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_041",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Delete the point (4,6) in the  example ordered pairs",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "8(2,1,0,0,0,1,2,0,0,2)",
+        "input_image": "41.jpg",
+        "output_image": "text_delete_41.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When deleting the point (4,6) from the list of ordered pairs, also remove the same point wherever it appears elsewhere — including the corresponding entry in the value table and the plotted point in the rectangular coordinate system. This ensures all representations of the data remain consistent and synchronized after deletion."
+    }
+]

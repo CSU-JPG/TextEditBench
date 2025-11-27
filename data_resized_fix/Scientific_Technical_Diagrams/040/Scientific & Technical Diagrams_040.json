@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_040",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "rotate all the titles by 45 degrees counter-clockwise",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "9(1,2,0,0,0,0,2,0,2,2)",
+        "input_image": "40.jpg",
+        "output_image": "text_relocation_40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

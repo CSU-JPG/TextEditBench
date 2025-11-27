@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_014",
+        "topic": "Art & Creative Expression",
+        "prompt": "make 'Java' smaller",
+        "editing_method": "scaling",
+        "difficulty": "esay",
+        "difficulty_score": "2(0,0,0,0,0,1,0,0,0,1,0)",
+        "input_image": "14.jpg",
+        "source_tag": "human_annotation"
+    }
+]

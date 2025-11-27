@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_036",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Change the font of the text in the picture to ROMAN type.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,0,0,0,1,0,0,1,1,0)",
+        "input_image": "36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

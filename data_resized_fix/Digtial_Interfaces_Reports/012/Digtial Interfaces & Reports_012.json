@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_012",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "The phrase 'Genie Mountain' is somewhat too narrow. Change this to 'Saruri Mountains'.",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"10(1,1,0,2,0,0,2,2,0,2)",
+        "input_image": "12.jpg",
+        "output_image": "text_change_12.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt":"Since the English name will be changed from 'Genie Mountain' to 'Saruri Mountains', in order to maintain bilingual consistency and semantic alignment, the corresponding Chinese text '格聂雪山' should also be updated to '沙鲁里山脉'."
+    }
+]

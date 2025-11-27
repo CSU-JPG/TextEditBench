@@ -1,0 +1,13 @@
+[
+    {
+        "id": " &TextEditing_Education & Instruction_016",
+        "topic": "Education & Instruction",
+        "prompt": "find the errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,1,0,0,0,0,2)",
+        "input_image": "16.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": " Identify the error in the picture. Based on the information on the picture, it can be known that there is a spelling mistake in the word; as indicated by the semantic intention, the correction is to revise 'tru' to 'true'"
+    }
+]

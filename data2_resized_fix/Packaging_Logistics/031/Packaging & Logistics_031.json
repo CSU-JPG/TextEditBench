@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_031",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the brand name text on the blue tube from 'Ctaobao' to 'Taobao', preserving font weight, spacing, alignment, and the reflective lighting effect on the tube surface.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "31.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "id":"TextEditing_Media & Publishing_003",
+    "topic": "Media & Publishing",
+    "prompt": "Delete the barcode in the picture",
+    "editing_method":"text_delete",
+    "difficulty":"easy",
+    "difficulty_score":"3(0,0,1,0,1,0,0,1,0,0)",
+    "input_image": "3.jpg",
+    "source_tag": "human_annotation"
+}

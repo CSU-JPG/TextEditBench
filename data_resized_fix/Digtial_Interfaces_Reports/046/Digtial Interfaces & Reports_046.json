@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_046",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Translate the '热门推荐' in the top right corner of the image into English,but not only to stretch the translated result into a single line but also to  lengthen the background button so that the English text fits properly within the button.",
+        "editing_method":"text_change",
+        "difficulty":"medium",
+        "difficulty_score":"9(2,1,0,2,0,0,0,2,0,2)",
+        "input_image": "46.jpg",
+        "output_image": "text_change_46.jpg",
+        "source_tag": "human_annotation"
+    }
+]

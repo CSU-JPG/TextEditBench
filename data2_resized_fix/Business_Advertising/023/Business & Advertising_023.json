@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_023",
+        "topic": "Business & Advertising",
+        "prompt": "change the font of 'cheers'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "23.jpg",
+        "source_tag": "human_annotation"
+    }
+]

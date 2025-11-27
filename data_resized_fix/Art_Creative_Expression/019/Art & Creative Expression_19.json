@@ -1,0 +1,12 @@
+ {
+        "id": "TextEditing_Art & Creative Expression_016",
+        "topic": "Art & Creative Expression",
+        "prompt": "replace 'honey bread' with 'strawberry cake'",
+        "editing_method":"text_change",
+        "difficulty":"hard",
+        "difficulty_score":"11(2, 2, 0, 0, 2, 1, 2, 0, 0, 2)",
+        "input_image": "19.jpg ",
+        "output_image": "text_change_19.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"When the main subject is replaced from 'honey bread' to 'strawberry cake', to ensure overall harmony and unity, it can be known from the semantic expectation that the phrases and words describing the characteristics of the main subject in the picture, as well as the corresponding images, need to be adjusted accordingly to achieve the matching of content and vision."
+ }

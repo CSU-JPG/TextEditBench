@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Environmental & Spatial Signage_050",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Move 'Journey to Japan ' to the top-left corner of the image",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,1,1,0,0,0,0,2,1,0)",
+        "input_image": "50.jpg",
+        "output_image": "text_relocation_50.jpg",
+        "source_tag": "human_annotation"
+    }
+]

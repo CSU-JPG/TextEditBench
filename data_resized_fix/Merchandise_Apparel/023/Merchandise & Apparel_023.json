@@ -1,0 +1,13 @@
+{
+        "id": "TextEditing_Merchandise & Apparel_023",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Change the 5% discount to a 20% discount.",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,1,0,0,0,0,0,1,0,2)",
+        "input_image": "23.jpg",
+        "output_image": "text_change_23.jpg",
+        "source_tag": "human_innoration",
+        "knowledge_prompt":"After updating the discount, locate the price section in the image and revise the prices to reflect the discounted rates based on the original prices. Specifically, 50 * 0.8 = 40, so change 47.5 to 40."
+
+    }

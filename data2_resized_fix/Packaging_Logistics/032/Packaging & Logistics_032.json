@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_032",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the text 'SF' to 'JD' in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+        "input_image": "32.jpg",
+        "source_tag": "human_annotation"
+    }
+]

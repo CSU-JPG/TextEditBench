@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_017",
+        "topic": "Media & Publishing",
+        "prompt": "Change the camera brand text from 'TAPES' to 'CANON', maintaining the same white uppercase font, alignment, and lighting reflection consistency on the camera body.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+        "input_image": "17.jpg",
+        "source_tag": "human_annotation"
+    }
+]

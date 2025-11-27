@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_012",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "correct the spelling of the title 'Thought on Data Sience'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,1,0,0,0,0,0,0,0,2)",
+        "input_image": "12.jpg",
+        "output_image": "text_change_12.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The text 'Thought on Data Sience' should be corrected to 'Thought on Data Science' because 'Sience' is a misspelling of 'Science', which is the correct term for the study of data and its analysis."
+    }
+]

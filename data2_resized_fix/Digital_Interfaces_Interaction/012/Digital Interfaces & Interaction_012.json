@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_012",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "The text on this chip is meaningless, please modify it.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(1,2,1,0,0,0,2,1,0,2)",
+        "input_image": "12.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Although the object in the image has the typical appearance characteristics of a chip, the product identification is marked as 'HF', which makes its model, performance, and brand information unclear, affecting the viewer's understanding of its functional positioning. Changing the text to 'Intel i9 4698k' can provide clear brand affiliation, product series, and performance level for this hardware component, enhancing information accuracy and recognizability."
+    }
+]

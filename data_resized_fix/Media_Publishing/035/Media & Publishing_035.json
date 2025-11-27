@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_035",
+    "topic": "Media & Publishing",
+    "prompt": "Change the date in the picture to the date of Mid-Autumn Festival.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "35.jpg",
+    "output_image": "text_change_35.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"The date of Mid-Autumn Festival in 2025 is October 6, so the time is changed to October 6."
+  }
+]

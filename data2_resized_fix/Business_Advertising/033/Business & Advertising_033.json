@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_033",
+        "topic": "Business & Advertising",
+        "prompt": "Change the cup label text from 'RED' to 'JUICE', preserving capitalization, font weight, alignment, and color tone harmony with the cup’s red surface and lighting reflections.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,1,0,2,0,0,1,0,0)",
+        "input_image": "33.jpg",
+        "source_tag": "human_annotation"
+    }
+]

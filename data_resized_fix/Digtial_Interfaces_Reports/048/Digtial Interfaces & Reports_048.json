@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_048",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "The two characters for 'retail' are crooked. These two characters should be combined into one text segment and straightened (keeping standard vertical and horizontal alignment).",
+        "editing_method":"text_relocation",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,0,1,2,0,0,0,0,2,0)",
+        "input_image": "48.jpg",
+        "output_image": "text_relocation_48.jpg",
+        "source_tag": "human_annotation"
+    }
+]

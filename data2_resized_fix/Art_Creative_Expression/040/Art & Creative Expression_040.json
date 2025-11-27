@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_040",
+        "topic": "Art & Creative Expression",
+        "prompt": "Move 'HEALTH' up a little",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,0,0,0,2,0,0,2,1,2)",
+        "input_image": "40.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "When moving the word, the wooden blocks under the letters should also be moved."
+    }
+]

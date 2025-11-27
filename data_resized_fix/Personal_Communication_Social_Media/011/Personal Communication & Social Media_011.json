@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_011",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the sentence below 'Join & Win Prizes' to a handwritten font.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
+        "input_image": "11.jpg",
+        "output_image": "text_attribute_11.jpg",
+        "source_tag": "human_annotation"
+    }
+]

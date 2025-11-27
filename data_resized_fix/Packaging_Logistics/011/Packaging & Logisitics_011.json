@@ -1,0 +1,13 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_011",
+            "topic": "Packaging & Logistics",
+            "prompt": "Relocate the text of 'Rimberio Logisitic' in the picture from above the car to below the car",
+            "editing_method": "text_relocation",
+            "difficulty": "easy",
+            "difficulty_score": "3(0,0,2,0,0,0,0,0,1,0)",
+            "input_image":"11.jpg",
+            "output_image":"text_relocation_11.jpg",
+            "source_tag":"human_annotation"
+        }
+    ]

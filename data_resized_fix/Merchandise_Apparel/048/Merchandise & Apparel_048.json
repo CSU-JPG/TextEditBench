@@ -1,0 +1,11 @@
+{
+        "id": "TextEditing_Merchandise & Apparel_048",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Reduce the font size of 'Winter Solstice Exclusive'.",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,1,2,0,0,0,0,1,1,0)",
+        "input_image": "48.jpg",
+        "output_image": "scaling_48.jpg",
+        "source_tag": "human_innoration"
+    }

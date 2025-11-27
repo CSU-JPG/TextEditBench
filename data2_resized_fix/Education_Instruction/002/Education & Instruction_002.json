@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Education & Instruction_002",
+        "topic": "Education & Instruction",
+        "prompt": "Change the word 'STATE' on the tennis racket strings to 'POWER', keeping the same yellow color, bold sans-serif font, and curvature consistent with the racket surface tension and lighting reflections.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,1,0,2,0,0,1,0,0)",
+        "input_image": "2.jpg",
+        "source_tag": "human_annotation"
+    }
+]

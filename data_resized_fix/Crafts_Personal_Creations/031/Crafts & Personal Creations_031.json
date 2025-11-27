@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Crafts & Personal Creations_031",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Change 'oil painting' into 'landscape painting'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,0,0,0,0,2,0,0,2)",
+        "input_image": "31.jpg",
+        "output_image": "text_change_31.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Because 'oil painting' is changed to 'landscape painting' here, in order to meet semantic expectations, the corresponding pattern background should also be changed to landscape painting."
+    }
+]

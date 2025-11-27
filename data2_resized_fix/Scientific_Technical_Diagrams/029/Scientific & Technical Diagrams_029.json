@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_029",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Insert a letter 'Chemistry' above the letter 'SCIENCE'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,1,0,0)",
+        "input_image": "29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

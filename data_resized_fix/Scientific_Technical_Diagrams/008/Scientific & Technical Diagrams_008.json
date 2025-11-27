@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_008",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "insert a title 'SIMPLE MACHINES' at the top center of the diagram",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "8.jpg",
+        "output_image": "text_insert_8.jpg",
+        "source_tag": "human_annotation"
+    }
+]

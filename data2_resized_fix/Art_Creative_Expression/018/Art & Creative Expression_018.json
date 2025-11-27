@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_018",
+        "topic": "Art & Creative Expression",
+        "prompt": "intensify the slogan's tone",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,0,2)",
+        "input_image": "18.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "To warn people to watch out for ducks, make the warning sign's tone stronger. As implied by the semantic expectation, it is necessary to replace the slogan from 'caution ducks' to 'Caution: Ducks Ahead, Yield!' to achieve the purpose of warning others."
+    }
+]

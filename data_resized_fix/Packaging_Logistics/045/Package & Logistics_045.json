@@ -1,0 +1,13 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_045",
+"topic": "Packaging & Logistics",
+"prompt": "Change the headline word 'LOGISTIC' to 'PACKAGE' while keeping the same font, size, yellow color, and centered alignment.",
+"editing_method": "text_change",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,1,0,0,0,0)",
+"input_image": "45.jpg",
+"output_image": "text_change_45.jpg",
+"source_tag": "human_annotation"
+}
+]

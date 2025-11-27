@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents &49",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Move the '2023 Financial Statement' to the right.",
+        "editing_method":"text_relocation",
+        "difficulty":"easy",
+        "difficulty_score":"2(1,0,0,0,0,0,0,0,0,1)",
+        "input_image": "49.jpg",
+        "output_image": "text_relocation_49.jpg",
+        "source_tag": "human_annotation"
+    }
+]

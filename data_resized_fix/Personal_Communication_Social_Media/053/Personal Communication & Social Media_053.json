@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_053",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Remove the sentence at the bottom of the image.",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,2,0,0,0,0,0,1,0,0)",
+        "input_image": "53.jpg",
+        "output_image": "text_delete_53.jpg",
+        "source_tag": "human_annotation"
+    }
+]

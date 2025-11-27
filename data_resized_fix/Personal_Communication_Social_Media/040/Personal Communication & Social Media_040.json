@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_040",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Rotate 'Everyone is the Protagonist in Their Own Life' 30 degrees counterclockwise.",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,2,0,0,0,0,0,2,0)",
+        "input_image": "40.jpg",
+        "output_image": "text_relocation_40.jpg",
+        "source_tag": "human_annotation"
+    }
+]

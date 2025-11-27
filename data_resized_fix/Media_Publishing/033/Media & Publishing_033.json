@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_033",
+    "topic": "Media & Publishing",
+    "prompt": "Delete the English letters at the bottom.",
+    "editing_method": "text_delete",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,1,2,0,0,0,1,1,0)",
+    "input_image": "33.jpg",
+    "output_image": "text_delete_33.jpg",
+    "source_tag": "human_annotation"
+  }
+]

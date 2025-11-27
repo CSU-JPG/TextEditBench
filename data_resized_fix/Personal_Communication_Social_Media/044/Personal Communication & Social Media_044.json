@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_044",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the opacity of 'Travel Through Summer' to 90%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,2,0,0,0,0,1,1,0)",
+        "input_image": "44.jpg",
+        "output_image": "scaling_44.jpg",
+        "source_tag": "human_annotation"
+    }
+]

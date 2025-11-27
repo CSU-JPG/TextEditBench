@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Digital Interfaces & Interaction_007",
+        "topic": "Digital Interfaces & Interaction",
+        "prompt": "Delete 'Istagram'",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,0,0,0,1,0,0,2,0,2)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "While deleting 'Istagram', also delete the corresponding icon above."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Business & Advertising_072",
+        "topic": "Business & Advertising",
+        "prompt": "Delete the pizza on the right side of the image",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,0,0,0,2,0,0)",
+        "input_image": "72.jpg",
+        "source_tag": "human_annotation"
+    }
+]

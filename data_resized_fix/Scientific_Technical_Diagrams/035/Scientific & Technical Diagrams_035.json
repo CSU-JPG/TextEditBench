@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_035",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Add a subheading 'where does it works' before the second of the two paragraphs on the image, consistent with the original text style",
+        "editing_method":"text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,0,0,0,0,2,0,0,2)",
+        "input_image": "35.jpg",
+        "output_image": "text_insert_35.jpg",
+        "source_tag": "human_annotation"
+    }
+]

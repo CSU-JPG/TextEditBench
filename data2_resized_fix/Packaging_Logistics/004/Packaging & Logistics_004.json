@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Packaging & Logistics_004",
+    "topic": "Packaging & Logistics",
+    "prompt": "Make 'SPROUTED' a little bigger",
+    "editing_method": "scaling",
+    "difficulty": "medium",
+    "difficulty_score": "6(1,0,0,0,2,1,0,1,1,0)",
+    "input_image": "4.jpg",
+    "source_tag": "human_annotation"
+  }
+]

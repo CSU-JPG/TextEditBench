@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_016",
+        "topic": "Professional Documents & Reports",
+        "prompt": "insert 'CLASS:' below 'STUDENT ID' and align the first letter",
+        "editing_method":"text_insert",
+        "difficulty":"easy",
+        "difficulty_score":"0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "16.jpg",
+        "output_image": "text_insert_16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

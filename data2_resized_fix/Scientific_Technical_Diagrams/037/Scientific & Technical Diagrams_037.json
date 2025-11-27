@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_037",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Fix percentage errors (50%) in images",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,0,0,0,0,0,3,2,2,2)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The value “50%” contradicts the visual data shown in the adjacent bar chart, where the filled proportion corresponds to roughly two-thirds of the bar’s length. This suggests the intended percentage is approximately 67%, consistent with the visual representation rather than the written label."
+    }
+]

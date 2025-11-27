@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_021",
+        "topic": "Business & Advertising",
+        "prompt": "replace 'couch' with 'sofa'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,0,0,0,0,0,0,0,2)",
+        "input_image": "21.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Replace 'couch' with one of its synonyms. As we know, 'sofa' is a synonym for 'couch'. Based on the information in the picture, the reflection of 'couch' in the mirror on the picture also needs to be changed. As implied by the semantic expectation, all instances of 'couch' in the picture should be changed to 'sofa'"
+    }
+]

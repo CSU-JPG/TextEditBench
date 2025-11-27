@@ -1,0 +1,12 @@
+[
+    {
+        "id": "Crafts & Personal Creations_013",
+        "topic": "Crafts & Personal Creations",
+        "prompt": "Add the label '图片仅供参考' ",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,0,2,0,0,0,0,0,0)",
+        "input_image": "13.jpg",
+        "source_tag": "human_annotation"
+    }
+]

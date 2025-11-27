@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_059",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Change 'Soot' to 'Glass'",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,2,0,0,0,0,0,0,0)",
+        "input_image": "59.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_007",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Move the title 'Circuits' from the top center to the upper right corner",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "10(2,0,2,0,0,0,2,1,1,2)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Note that the decorative lightning bolts on the left and right sides of the title and the title text belong to a whole and need to be moved at the same time"
+    }
+]

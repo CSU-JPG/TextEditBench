@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_045",
+        "topic": "Business & Advertising",
+        "prompt": "Replace the text 'TEA' on the hanging sign with 'CAFE' while keeping the same golden serif font, border design, and centered alignment. Maintain consistent lighting and shadow direction.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,0,2,0,0,0,0,1,0,0)",
+        "input_image": "45.jpg",
+        "source_tag": "human_annotation"
+    }
+]

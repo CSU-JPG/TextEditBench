@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_022",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Move 'Social Networks' to the lower half of the phone screen",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "22.jpg",
+        "source_tag": "human_annotation"
+    }
+]

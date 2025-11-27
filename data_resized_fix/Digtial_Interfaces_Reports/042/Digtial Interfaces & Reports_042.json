@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_042",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "The word 'Exhibition' on the left side of the image is too small; increase its size moderately.",
+        "editing_method":"scaling",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,2,0,0,0,2,0,0,1,0)",
+        "input_image": "42.jpg",
+        "output_image": "scaling_42.jpg",
+        "source_tag": "human_annotation"
+    }
+]

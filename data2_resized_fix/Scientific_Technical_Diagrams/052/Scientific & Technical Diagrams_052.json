@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_0012",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "Rotate the text in the picture 30 degrees counterclockwise",
+        "editing_method": "text_relocation",
+        "difficulty": "medium",
+        "difficulty_score": "6(2,2,0,0,0,0,0,0,2,0)",
+        "input_image": "52.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "TextEditing_Media & Publishing_019",
+    "topic": "Media & Publishing",
+    "prompt": "Expand the size of the '邀请'",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,1,2,0,0,0,0,1,0)",
+    "input_image": "19.jpg",
+    "output_image": "scaling_19.jpg",
+    "source_tag": "human_annotation"
+  }
+]

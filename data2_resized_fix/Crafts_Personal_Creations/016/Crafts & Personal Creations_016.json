@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Craft & Personal Creation_016",
+        "topic": "Craft & Personal Creation",
+        "prompt": "Change the text on the pink heart-shaped wooden sign from 'Love.' to 'Smile.', keeping the same cursive black font, size, and placement centered on the heart.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "input_image": "16.jpg",
+        "source_tag": "human_annotation"
+    }
+]

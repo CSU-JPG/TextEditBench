@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_029",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add '9.9.' to the right of 'Double Ninth Festival'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,1,0,0,0,0,0,0,0,0)",
+        "input_image": "29.jpg",
+        "output_image": "text_insert_29.jpg",
+        "source_tag": "human_annotation"
+    }
+]

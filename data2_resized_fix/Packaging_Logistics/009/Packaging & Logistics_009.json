@@ -1,0 +1,13 @@
+[
+    {
+        "id": " TextEditing_Packaging & Logistics_009",
+        "topic": "Packaging & Logistics",
+        "prompt": "find the errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4( 0,0,0,0,0,0,0,0,2,2)",
+        "input_image": "9.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Identify the error in the picture. According to the information in the picture, 'exot' is a spelling mistake. To meet the semantic expectation, correct 'exot' to 'exit'."
+    }
+]

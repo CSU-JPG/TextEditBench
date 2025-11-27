@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_020",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "scale the big title to half smaller to its original size",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,0,0,0,1,1,0)",
+        "input_image": "20.jpg",
+        "source_tag": "human_annotation"
+    }
+]

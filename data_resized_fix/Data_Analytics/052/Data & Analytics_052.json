@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_052",
+  "topic": "Data & Analytics",
+  "prompt": "Scale down the text 'Future Work Indicators' to a smaller size.",
+  "editing_method": "scaling",
+  "difficulty": "easy",
+  "difficulty_score": "2(0,0,0,0,0,0,0,0,2,0)",
+  "input_image": "52.jpg",
+  "output_image": "scaling_52.jpg",
+  "source_tag": "human_annotation"
+}

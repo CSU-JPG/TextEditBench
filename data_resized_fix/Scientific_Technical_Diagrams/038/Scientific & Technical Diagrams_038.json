@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_038",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "shift the position of the title from the center to the left side of the image",
+        "editing_method": "text_relocation",
+        "difficulty":  "easy",
+        "difficulty_score": "4(0,1,0,0,0,0,0,0,1,2)",
+        "input_image": "38.jpg",
+        "output_image": "text_relocation_38.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The prompt requires not only repositioning the title text but also preserving its compositional integrity. The vertical colored line adjacent to the title functions as a design element that visually anchors the title; therefore, both should shift together to maintain balance and coherence in the layout. This ensures the semantic intent—repositioning the title while retaining the visual hierarchy—remains fulfilled."
+    }
+]

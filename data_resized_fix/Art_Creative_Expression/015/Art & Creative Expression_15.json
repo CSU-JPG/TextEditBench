@@ -1,0 +1,11 @@
+ {
+        "id": "TextEditing_Art & Creative Expression_015",
+        "topic": "Art & Creative Expression",
+        "prompt": " make 'In the Realm of Mist' smaller ",
+        "editing_method":"scaling",
+        "difficulty":"easy",
+        "difficulty_score":"3(0, 2, 2, 0, 0, 0, 0, 0, 1, 0)",
+        "input_image": "15.jpg ",
+        "output_image": "scaling_15.jpg",
+        "source_tag": "human_annotation"
+    }

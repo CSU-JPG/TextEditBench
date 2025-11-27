@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Environmental & Spatial Signage_021",
+        "topic": "Environmental & Spatial Signage",
+        "prompt": "Change the exit at the top left corner of the image to 47",
+        "editing_method": "text_change",
+        "difficulty": "hard",
+        "difficulty_score": "11(2,2,1,0,0,0,2,2,0,2)",
+        "input_image": "21.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the modified location is 2 kilometers behind the original position, all distances and exit numbers displayed on the signs need to be adjusted accordingly to reflect the new spatial relationships, ensuring the accuracy and consistency of navigation information. For example, the distance to Dulles Airport is increased from 1 mile to 3 miles, and the distance to Tysons Corner is adjusted from 0.5 miles to 1.5 miles, directly corresponding to the change in mileage caused by the location delay, preventing misleading drivers. At the same time, the exit numbers for the Route 123 interchange are changed from 45 to 47a and 47b, in line with the convention of incrementing exit numbers along the mileage in the highway system, further enhancing the logical coherence and practical value of the updated information."
+    }
+]

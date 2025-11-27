@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_019",
+        "topic": "Business & Advertising",
+        "prompt": "Add 'Fresh Purple Eggplants & Veggies - Limited Time Sale! Grab Yours Now!' below the white sign",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "19.jpg",
+        "source_tag": "human_annotation"
+    }
+]

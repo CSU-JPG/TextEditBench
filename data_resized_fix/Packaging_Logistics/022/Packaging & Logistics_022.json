@@ -1,0 +1,14 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_022",
+            "topic": "Packaging & Logistics",
+            "prompt": "Rotate the text ‘DELIVERY SERVICE’ clockwise while keeping its position and size unchanged",
+            "editing_method": "text_relocation",
+            "difficulty": "medium",
+            "difficulty_score": "6(1,2,1,0,0,0,0,0,2,0)",
+            "input_image":"22.jpg",
+            "output_image":"text_relocation_22.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Rotating the text “DELIVERY SERVICE” to a diagonal angle requires the model to understand that the operation changes not only the orientation but also the spatial alignment and visual balance of the composition.\nThe semantic expectation is that after rotation, the text should remain clearly readable, keep proportional spacing with surrounding elements such as the “Express” text and the map icon, and maintain consistent visual hierarchy and design coherence within the layout."
+        }
+    ]

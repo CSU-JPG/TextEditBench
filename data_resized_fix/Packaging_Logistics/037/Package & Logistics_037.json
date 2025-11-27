@@ -1,0 +1,14 @@
+[
+{
+"id": "TextEditing_Packaging & Logistics_037",
+"topic": "Packaging & Logistics",
+"prompt": "Relocate the text 'FAST DELIVERY' to the upper part of the image, placing it above 'STAY AT HOME WE DELIVER', while keeping the website line in the center. Maintain the original font, color, and alignment.",
+"editing_method": "text_relocation",
+"difficulty": "easy",
+"difficulty_score": "3(1,1,0,0,0,0,1,0,0,0)",
+"input_image": "37.jpg",
+"output_image": "text_relocation_37.jpg",
+"source_tag": "human_annotation",
+"knowledge_prompt": "This operation reorders the text hierarchy to emphasize 'FAST DELIVERY' as the headline. The model must preserve typographic consistency, including the navy color for 'FAST DELIVERY' and orange for 'STAY AT HOME WE DELIVER'. Alignment should remain centered, with proportional vertical spacing for visual harmony."
+}
+]

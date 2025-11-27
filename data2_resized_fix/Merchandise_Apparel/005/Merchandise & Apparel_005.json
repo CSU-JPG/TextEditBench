@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_005",
+        "topic": "Merchandise & Apparel",
+        "prompt": "change the color of '33'",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "5.jpg",
+        "source_tag": "human_annotation"
+    }
+]

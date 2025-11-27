@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_009",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Switch the positions of 'DAY' and 'NIGHT' in the image.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,0,0,0,0,0,0,0,1,2)",
+        "input_image": "9.jpg",
+        "output_image": "text_relocation_9.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The word 'DAY' is above the daytime image, and the word 'NIGHT' is below the nighttime image, forming two label-image pairs. To move 'DAY' to the top and 'NIGHT' to the bottom of the canvas while preserving their roles as labels, you need to swap the vertical positions of the entire 'DAY'-daytime-image pair with the entire 'NIGHT'-nighttime-image pair."
+    }
+]

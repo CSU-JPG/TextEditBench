@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_051",
+        "topic": "Business & Advertising",
+        "prompt": "Replace the 'Diet Coke' logo text on both the cup and napkin with 'Coca-Cola Zero Sugar', keeping the same font color style (white on dark background) and realistic reflections. Maintain the same positioning and perspective.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,1,2,0,2,0,0,1,0,0)",
+        "input_image": "51.jpg",
+        "source_tag": "human_annotation"
+    }
+]

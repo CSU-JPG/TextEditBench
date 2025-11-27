@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_044",
+        "topic": "Business & Advertising",
+        "prompt": "Change the word 'MAISON' on the building facade to 'GALLERY' while maintaining the same black, bold sans-serif font and centered alignment above the entrance arch. Keep lighting and architectural shadows consistent.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(1,0,0,0,0,0,0,1,0,0)",
+        "input_image": "44.jpg",
+        "source_tag": "human_annotation"
+    }
+]

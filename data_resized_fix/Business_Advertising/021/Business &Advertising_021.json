@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Business &Advertising_021",
+        "topic": "Business &Advertising",
+        "prompt": "Delete the date at the bottom of the picture",
+        "editing_method": "text_delete",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+        "input_image": "21.jpg",
+        "output_image": "text_delete_21.jpg",
+        "source_tag": "human_annotation"
+    }
+]

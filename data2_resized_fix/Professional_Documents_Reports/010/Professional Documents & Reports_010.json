@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Professional Documents & Reports_0010",
+        "topic": "Professional Documents & Reports",
+        "prompt": "Move 'here' to the middle of this line",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "(0,0,0,0,0,0,0,0,2,0)",
+        "input_image": "10.jpg",
+        "source_tag": "human_annotation"
+    }
+]

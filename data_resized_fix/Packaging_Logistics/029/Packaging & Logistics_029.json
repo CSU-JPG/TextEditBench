@@ -1,0 +1,15 @@
+    [
+        {
+            "id": "TextEditing_Packaging & Logistics_029",
+            "topic": "Packaging & Logistics",
+            "prompt": "Relocate the text of 'BOX DELIVERY' from below the picture to the top of that",
+            "editing_method": "text_relocation",
+            "difficulty": "medium",
+            "difficulty_score": "4(1,1,1,0,0,0,0,0,1,0)",
+            "input_image":"29.jpg",
+            "output_image":"text_relocation_29.jpg",
+            "source_tag":"human_annotation",
+            "knowledge_prompt":"Adjusting the position of the graphic elements upward requires the model to understand that this is a layout refinement operation, not a semantic change.\nThe semantic expectation is that all elements — the red circle, box icon, and text — should remain visually coherent, maintaining balance and alignment within the logo design.\nThe upward movement should not distort proportions, overlap text, or disrupt the visual hierarchy between the icon and the title “BOX DELIVERY.”"
+
+        }
+    ]

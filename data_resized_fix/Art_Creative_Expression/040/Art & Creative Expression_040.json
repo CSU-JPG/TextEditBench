@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_040",
+        "topic": "Art & Creative Expression",
+        "prompt": "replace the theme of the image from '诚信' with '正义'",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(1,2,0,2,0,0,2,0,0,2)",
+        "input_image": "40.jpg",
+        "output_image": "text_change_40.jpg",
+        "source_tag": "human_annotation",
+        "knowledge prompt":"When changing the theme of the picture from '诚信' to '正义' that the semantic intention requires the advocacy words to be adjusted accordingly to achieve overall unity."
+    }
+]

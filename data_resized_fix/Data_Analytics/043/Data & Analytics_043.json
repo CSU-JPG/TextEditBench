@@ -1,0 +1,11 @@
+{
+  "id": "TextEditing_Data & Analytics_043",
+  "topic": "Data & Analytics",
+  "prompt": "Move the entire 'Conclusion 1' section including its title and content to the left side of the main title 'Analysis of data details'.",
+  "editing_method": "text_relocation",
+  "difficulty": "medium",
+  "difficulty_score": "7(2,2,0,0,0,0,0,2,1,0)",
+  "input_image": "43.jpg",
+  "output_image": "text_relocation_43.jpg",
+  "source_tag": "human_annotation"
+}

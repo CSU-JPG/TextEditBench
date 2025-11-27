@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_036",
+        "topic": "Art & Creative Expression",
+        "prompt": "move 'self-awareness' directly below 'Have a conversation with yourself'",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "input_image": "36.jpg",
+        "output_image": "text_relocation_36.jpg",
+        "source_tag": "human_annotation"
+    }
+]

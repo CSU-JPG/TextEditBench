@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Business & Advertising_047",
+        "topic": "Business & Advertising",
+        "prompt": "Translate the French text 'LENTILLES de contact' on the circular black sign into English as 'CONTACT LENSES', ensuring the same white sans-serif font style, size ratio, and centered alignment are preserved.",
+        "editing_method": "text_translation",
+        "difficulty": "easy",
+        "difficulty_score": "4(1,1,0,0,1,0,0,1,0,0)",
+        "input_image": "47.jpg",
+        "source_tag": "human_annotation"
+    }
+]

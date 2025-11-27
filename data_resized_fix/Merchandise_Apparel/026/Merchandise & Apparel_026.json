@@ -1,0 +1,12 @@
+{
+        "id": "TextEditing_Merchandise & Apparel_026",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Lower the product's price by 99 yuan.",
+        "editing_method":"text_change",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,0,0,0,0,0,0,1,0,2)",
+        "input_image": "26.jpg",
+        "output_image": "text_change_26.jpg",
+        "source_tag": "human_innoration",
+        "knowledge_prompt":"Find the numbers for the product price and do the math. That is, 399 minus 99 equals 300."
+    }

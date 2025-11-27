@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_003",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Move 'fashion' to the blue background",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "input_image": "3.jpg",
+        "source_tag": "human_annotation"
+    }
+]

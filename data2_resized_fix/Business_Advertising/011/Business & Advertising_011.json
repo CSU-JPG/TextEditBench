@@ -1,0 +1,12 @@
+[
+  {
+    "id": "TextEditing_Business & Advertising_011",
+    "topic": "Business & Advertising",
+    "prompt": "Insert 'MUSIC' in the bottom right corner of the picture",
+    "editing_method": "text_insert",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,0,0,0,0,0,0,2,0,0)",
+    "input_image": "11.jpg",
+    "source_tag": "human_annotation"
+  }
+]

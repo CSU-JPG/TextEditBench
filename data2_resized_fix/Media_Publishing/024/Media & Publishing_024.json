@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_024",
+        "topic": "Media & Publishing",
+        "prompt": "Change the font color of the title of the white-covered book in the middle to blue.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,2,0,1,0)",
+        "input_image": "24.jpg",
+        "source_tag": "human_annotation"
+    }
+]

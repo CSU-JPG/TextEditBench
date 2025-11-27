@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_047",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Change the font of 'GOOD MORNING' to bold.",
+        "editing_method": "text_attribute",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,2,1,0,0,0,0,0,1,0)",
+        "input_image": "47.jpg",
+        "output_image": "text_attribute_47.jpg",
+        "source_tag": "human_annotation"
+    }
+]

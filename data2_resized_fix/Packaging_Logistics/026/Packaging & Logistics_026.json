@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_026",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the text on the rider’s back from 'GIV' to 'REV', preserving font thickness, capitalization, curvature, and lighting reflections on the leather suit surface.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,1,0,0,1,1,0,0)",
+        "input_image": "26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

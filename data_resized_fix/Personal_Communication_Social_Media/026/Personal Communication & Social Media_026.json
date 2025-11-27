@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_026",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "Add the text 'Participants: All university students' below 'Venue: University Playground'.",
+        "editing_method": "text_insert",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "input_image": "26.jpg",
+        "output_image": "text_insert_26.jpg",
+        "source_tag": "human_annotation"
+    }
+]

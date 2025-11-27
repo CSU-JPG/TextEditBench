@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Media & Publishing_037",
+        "topic": "Media & Publishing",
+        "prompt": "Change 'YA DA' on the cover to 'THE'.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,0,0,0,0,0,2,0,0,0)",
+        "input_image": "37.jpg",
+        "source_tag": "human_annotation"
+    }
+]

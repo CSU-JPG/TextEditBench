@@ -1,0 +1,14 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_021",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "enlarge the title on the center of the image",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,0,0,0,0,0,0,1,2)",
+        "input_image": "21.jpg",
+        "output_image": "scaling_21.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The title at the center of the image consists of the main heading “scientific project” and the smaller text beneath it, forming a unified title block. Enlarging the title therefore entails proportionally adjusting both elements to preserve visual balance and the integrity of the title structure."
+    }
+]

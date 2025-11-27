@@ -1,0 +1,12 @@
+[
+    {
+        "id": "TextEditing_Packaging & Logistics_024",
+        "topic": "Packaging & Logistics",
+        "prompt": "Change the street sign text from 'MAJOR St' to 'MINOR St', preserving capitalization, font type, arrow direction, border thickness, and metal texture of the sign under natural daylight.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "input_image": "24.jpg",
+        "source_tag": "human_annotation"
+    }
+]

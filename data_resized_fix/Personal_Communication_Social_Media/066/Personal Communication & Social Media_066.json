@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Personal Communication & Social Media_066",
+        "topic": "Personal Communication & Social Media",
+        "prompt": "scale 'Click to Follow' to 110%.",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,1,0,0,0,0,1,1,0)",
+        "input_image": "66.jpg",
+        "output_image": "scaling_66.jpg",
+        "source_tag": "human_annotation"
+    }
+]

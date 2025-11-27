@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Scientific & Technical Diagrams_012",
+        "topic": "Scientific & Technical Diagrams",
+        "prompt": "postpone the start time of the event 6 hours later",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,0,2,0,0,0,2,2,0,2)",
+        "input_image": "12.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "the start time of the event is on 7:00 am, 6 hours later it should be 13:00. Note that it's 13:00 PM instead of 13:00 AM."
+    }
+]

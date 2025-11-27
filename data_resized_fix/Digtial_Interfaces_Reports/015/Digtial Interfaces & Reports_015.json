@@ -1,0 +1,13 @@
+[
+    {
+        "id": "Digtial Interfaces & Reports_015",
+        "topic": "Digtial Interfaces & Reports",
+        "prompt": "Change the orange text 'Contact Us' at the top of the image to pink(#ff66c4).",
+        "editing_method":"text_attribute",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,0,0,2,0,0,0,2,1,0)",
+        "input_image": "15.jpg",
+        "output_image": "text_attribute_15.jpg",
+        "source_tag": "human_annotation "
+    }
+]
