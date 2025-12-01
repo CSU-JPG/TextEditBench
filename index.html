@@ -484,7 +484,29 @@
     </section>
 
     <section class="section has-background-light">
-        <div class="container style="max-width: 1200px;">
+        <div class="container is-max-desktop">
+            <h2 class="section-title">Dual-Track Evaluation Framework</h2>
+            <div class="content">
+                <p>
+                    TextEditBench employs two complementary tracks to assess both low-level fidelity and high-level
+                    reasoning:
+                </p>
+                <ul>
+                    <li><strong>Track 1: Pixel-Level Objective Metrics (Script-based)</strong> - Uses SSIM, PSNR, MSE,
+                        and LPIPS to measure background preservation and visual fidelity on non-edited regions.</li>
+                    <li><strong>Track 2: MLLM-based Semantic Metrics (GPT-4o)</strong> - Assesses 5 dimensions:
+                        Instruction Following (IF), Text Accuracy (TA), Visual Consistency (VC), Layout Preservation
+                        (LP), and <strong>Semantic Expectation (SE)</strong>.</li>
+                </ul>
+            </div>
+            <div class="has-text-centered">
+                <img src="images/evaluation_02.jpg" style="max-width: 90%; margin-top: 20px; border-radius: 8px;">
+            </div>
+        </div>
+    </section>
+
+    <section class="section has-background-light">
+        <div class="container style=" max-width: 1200px;">
             <h2 class="section-title">🏆 Leaderboard & Analysis</h2>
 
             <div class="columns is-centered">
