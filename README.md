@@ -3,22 +3,12 @@
 <h1>TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering</h1>
 
 <p align="center">
-<a href="https://arxiv.org/"><img src="https://img.shields.io/badge/ArXiv-2026-b31b1b.svg"></a>
-<a href="https://github.com/MATH-finding/TextEditBench"><img src="https://img.shields.io/badge/GitHub-Code-blue.svg"></a>
-<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-Dataset-orange.svg"></a>
-<a href=""><img src="https://img.shields.io/badge/Project-Website-green.svg"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href=""><img src="https://img.shields.io/badge/Paper-arXiv%3A2505.16707-b31b1b?logo=arxiv&logoColor=red"></a>
+  <a href=""><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Website-8A2BE2"></a>
+  <a href=""><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
 </p>
 
-<p align="center">
-  <strong>Anonymous Authors</strong>
-</p>
-
-<p align="center">
-  <em>CVPR 2026 Submission</em>
-</p>
-
-<img src="assets/overview_01.jpg" width="100%" alt="TextEditBench Overview">
+<img src="assets/overview.jpg" width="100%" alt="TextEditBench Overview">
 
 </div>
 
@@ -26,15 +16,16 @@
 
 ## 📣 News
 *   **[2026.02]** 🚀 **TextEditBench** dataset and evaluation code are released!
-*   **[2026.02]** 📄 Paper is submitted to CVPR 2026.
 
 ---
 
-## 📖 Abstract
+## 📖 Introduction
 
 Text rendering has recently emerged as one of the most challenging frontiers in visual generation. However, **text editing within images remains largely unexplored**, as it requires generating legible characters while preserving semantic, geometric, and contextual coherence.
 
 To fill this gap, we introduce **TextEditBench**, a comprehensive evaluation benchmark that explicitly focuses on text-centric regions in images. Unlike previous benchmarks that focus on pixel manipulations, TextEditBench emphasizes **reasoning-intensive editing scenarios**. We propose a novel evaluation dimension, **Semantic Expectation (SE)**, to measure the model's ability to maintain semantic consistency, contextual coherence, and cross-modal alignment.
+
+
 
 ---
 
@@ -83,3 +74,4 @@ We provide a comprehensive evaluation toolkit supporting both **Pixel-Level Obje
 git clone https://github.com/MATH-finding/TextEditBench.git
 cd TextEditBench
 pip install -r requirements.txt
+
