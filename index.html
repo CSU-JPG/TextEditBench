@@ -366,6 +366,52 @@
             font-size: 0.95rem;
             color: #666;
         }
+
+        /* --- 新增：像素指标子控制栏样式 --- */
+        .pixel-sub-controls {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+            animation: fadeIn 0.5s;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-5px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .pixel-metric-btn {
+            font-size: 0.85rem;
+            padding: 4px 12px;
+            border: 1px solid #dbdbdb;
+            border-radius: 4px;
+            background: #fff;
+            cursor: pointer;
+            color: #666;
+            transition: all 0.2s;
+        }
+
+        .pixel-metric-btn:hover {
+            background: #f5f5f5;
+        }
+
+        .pixel-metric-btn.active {
+            background: #e3f2fd;
+            color: #1565c0;
+            border-color: #2196f3;
+            font-weight: bold;
+        }
     </style>
 </head>
 
@@ -513,11 +559,15 @@
                 <div class="column is-11 has-text-centered">
                     <div
                         style="background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-
+                        <!-- 控制按钮区 -->
                         <div class="chart-controls-row">
-                            <div class="chart-type-group">
+                            <div class="chart-type-group" style="display: flex; gap: 10px;">
                                 <button class="chart-toggle-btn active" onclick="toggleChart('bar', this)">
-                                    <i class="fas fa-chart-bar"></i> Overall Scores(MLLM-based Semantic Metrics)
+                                    <i class="fas fa-chart-bar"></i> Overall Scores (MLLM)
+                                </button>
+                                <!-- 新增：像素指标按钮 -->
+                                <button class="chart-toggle-btn" onclick="toggleChart('pixel', this)">
+                                    <i class="fas fa-image"></i> Pixel Fidelity
                                 </button>
                                 <button class="chart-toggle-btn" onclick="toggleChart('radar', this)">
                                     <i class="fas fa-spider"></i> Semantic Capabilities
@@ -532,8 +582,20 @@
                             </div>
                         </div>
 
+                        <!-- 新增：像素指标子菜单 (默认隐藏) -->
+                        <div id="pixel-sub-controls" class="pixel-sub-controls" style="display: none;">
+                            <button class="pixel-metric-btn active"
+                                onclick="updatePixelMetric('ssim', this)">SSIM</button>
+                            <button class="pixel-metric-btn" onclick="updatePixelMetric('psnr', this)">PSNR</button>
+                            <button class="pixel-metric-btn" onclick="updatePixelMetric('lpips', this)">LPIPS</button>
+                            <button class="pixel-metric-btn" onclick="updatePixelMetric('mse', this)">MSE</button>
+                        </div>
+
+                        <!-- 图表容器 -->
                         <div class="chart-wrapper-box">
                             <canvas id="barChart"></canvas>
+                            <!-- 新增：像素图表Canvas -->
+                            <canvas id="pixelChart" style="display: none;"></canvas>
                             <canvas id="radarChart" style="display: none;"></canvas>
                         </div>
 
@@ -1156,6 +1218,22 @@
         // Labels for Bar Chart (All 12 Models) - Ordered by Real-World Performance (Best to Worst)
         const allModels = ['Qwen-Image-Edit', 'Seedream', 'NanoBanana', 'Step1X-Think', 'FLUX.1-Kontext', 'Emu3.5', 'Bagel', 'Step1X', 'OmniGen2', 'Bagel-Think', 'InstructPix2Pix', 'MagicBrush'];
 
+        // --- 新增：像素级数据 (来源于 Table 3) ---
+        const pixelData = {
+            'real': {
+                'ssim': [0.887, 0.808, 0.888, 0.861, 0.896, 0.758, 0.894, 0.872, 0.818, 0.901, 0.725, 0.746],
+                'psnr': [30.02, 24.23, 31.48, 26.71, 29.64, 21.63, 28.19, 27.17, 22.73, 28.36, 16.94, 19.72],
+                'lpips': [0.045, 0.143, 0.043, 0.099, 0.069, 0.082, 0.063, 0.091, 0.140, 0.058, 0.245, 0.186],
+                'mse': [228.4, 496.8, 175.5, 1319.1, 399.2, 842.3, 545.2, 997.9, 2039.8, 423.0, 3601.6, 3646.2]
+            },
+            'synthetic': {
+                'ssim': [0.901, 0.775, 0.904, 0.899, 0.906, 0.769, 0.873, 0.879, 0.836, 0.896, 0.768, 0.788],
+                'psnr': [28.22, 20.33, 29.88, 27.01, 28.29, 19.32, 24.42, 25.52, 21.38, 25.52, 17.77, 19.29],
+                'lpips': [0.039, 0.136, 0.036, 0.067, 0.056, 0.092, 0.077, 0.089, 0.129, 0.057, 0.187, 0.162],
+                'mse': [278.5, 1121.8, 160.3, 584.2, 522.1, 1131.3, 726.4, 982.5, 2046.6, 459.2, 2718.5, 3456.7]
+            }
+        };
+
         const overallData = {
             'real': [18.70, 18.54, 18.22, 16.17, 14.93, 14.05, 12.83, 12.02, 10.99, 10.21, 5.35, 4.12],
             'synthetic': [16.58, 14.90, 16.54, 13.18, 12.42, 9.34, 10.41, 9.26, 8.52, 9.36, 5.51, 3.86]
@@ -1185,12 +1263,15 @@
         let currentChartType = 'bar';
         let barChartInstance = null;
         let radarChartInstance = null;
+        let currentPixelMetric = 'ssim';
+        let pixelChartInstance = null;
 
         // --- 3. Chart Initialization & Update Functions ---
 
         document.addEventListener("DOMContentLoaded", function () {
             // Initialize Bar Chart (Default Visible)
             initBarChart();
+            initPixelChart(); // 新增这一行
             // Initialize Radar Chart (Hidden initially)
             initRadarChart();
         });
@@ -1217,6 +1298,29 @@
                     responsive: true,
                     maintainAspectRatio: false,
                     scales: { y: { beginAtZero: true, max: 25 } },
+                    plugins: { legend: { display: false } }
+                }
+            });
+        }
+
+        function initPixelChart() {
+            const ctx = document.getElementById('pixelChart').getContext('2d');
+            pixelChartInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: allModels,
+                    datasets: [{
+                        label: 'SSIM',
+                        data: pixelData[currentDataset]['ssim'],
+                        backgroundColor: 'rgba(75, 192, 192, 0.7)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: { y: { beginAtZero: true } },
                     plugins: { legend: { display: false } }
                 }
             });
@@ -1250,16 +1354,22 @@
 
         // --- 4. Toggle Logic ---
 
+        // --- 更新后的切换逻辑 ---
+
         function toggleChart(type, btn) {
             currentChartType = type;
 
-            // UI Updates
+            // 1. 按钮样式更新
             document.querySelectorAll('.chart-toggle-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
 
-            // Visibility Updates
+            // 2. 图表显示/隐藏
             document.getElementById('barChart').style.display = type === 'bar' ? 'block' : 'none';
+            document.getElementById('pixelChart').style.display = type === 'pixel' ? 'block' : 'none'; // 新增
             document.getElementById('radarChart').style.display = type === 'radar' ? 'block' : 'none';
+
+            // 3. 子菜单显示/隐藏
+            document.getElementById('pixel-sub-controls').style.display = type === 'pixel' ? 'flex' : 'none';
 
             updateCaption();
         }
@@ -1267,30 +1377,67 @@
         function updateChartData(datasetType, btn) {
             currentDataset = datasetType;
 
-            // UI Updates
+            // 1. 数据集按钮样式更新
             document.querySelectorAll('.dataset-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
 
-            // Update Bar Chart
+            // 2. 更新所有图表的数据
+            // Bar
             barChartInstance.data.datasets[0].data = overallData[datasetType];
             barChartInstance.update();
 
-            // Update Radar Chart
+            // Pixel (新增)
+            updatePixelChartData();
+
+            // Radar
             radarChartInstance.data.datasets = getRadarDatasets(datasetType);
             radarChartInstance.update();
 
             updateCaption();
         }
 
+        // --- 新增：像素指标切换逻辑 ---
+
+        function updatePixelMetric(metric, btn) {
+            currentPixelMetric = metric;
+
+            // 按钮样式
+            document.querySelectorAll('.pixel-metric-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            updatePixelChartData();
+            updateCaption();
+        }
+
+        function updatePixelChartData() {
+            const data = pixelData[currentDataset][currentPixelMetric];
+            let label = currentPixelMetric.toUpperCase();
+            let color = 'rgba(75, 192, 192, 0.7)'; // 默认青色
+
+            // 根据指标换个颜色，更好看
+            if (currentPixelMetric === 'ssim') color = 'rgba(54, 162, 235, 0.7)'; // 蓝
+            if (currentPixelMetric === 'psnr') color = 'rgba(75, 192, 192, 0.7)'; // 青
+            if (currentPixelMetric === 'lpips') color = 'rgba(153, 102, 255, 0.7)'; // 紫
+            if (currentPixelMetric === 'mse') color = 'rgba(255, 99, 132, 0.7)'; // 红
+
+            pixelChartInstance.data.datasets[0].label = label;
+            pixelChartInstance.data.datasets[0].data = data;
+            pixelChartInstance.data.datasets[0].backgroundColor = color;
+            pixelChartInstance.data.datasets[0].borderColor = color.replace('0.7', '1');
+            pixelChartInstance.update();
+        }
+
         function updateCaption() {
-            const chartName = currentChartType === 'bar' ? 'Overall Score' : 'Semantic Capabilities';
+            let chartName = 'Overall Score';
+            if (currentChartType === 'pixel') chartName = `Pixel Fidelity (${currentPixelMetric.toUpperCase()})`;
+            if (currentChartType === 'radar') chartName = 'Semantic Capabilities';
+
             const setName = currentDataset === 'real' ? 'Real-World' : 'Synthetic';
-            const modelCount = currentChartType === 'bar' ? 'all 12' : 'top 5';
+            const modelCount = currentChartType === 'radar' ? 'top 5' : 'all 12';
 
             document.getElementById('chart-caption').innerHTML =
                 `Displaying <strong>${chartName}</strong> comparison across ${modelCount} models on the <strong>${setName}</strong> dataset.`;
         }
-
 
         // --- 5. Tab Logic (Tables) ---
         function switchMainTab(tabName) {
@@ -1357,7 +1504,7 @@
 
             const resetTimer = () => {
                 clearInterval(autoPlayTimer);
-                autoPlayTimer = setInterval(nextSlide, 3500);
+                autoPlayTimer = setInterval(nextSlide, 5000);
             };
 
             nextBtn.addEventListener('click', () => { nextSlide(); resetTimer(); });
