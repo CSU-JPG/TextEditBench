@@ -14,8 +14,9 @@
 ---
 
 ## 📖 Introduction
-**TextEditBench** is a comprehensive benchmark for evaluating Reasoning-aware Text Editing beyond mere rendering. TextEditBench explicitly focuses on text-centric regions across 14 topics and 6 task types, emphasizing **reasoning-intensive scenarios** that require models to understand physical plausibility, linguistic meaning, and cross-modal dependencies.
-To comprehensively assess model performance across diverse editing contexts, we establish a Dual-Track Evaluation Framework encompassing **Pixel-Level Objective Metrics** and **MLLM-based Semantic Metrics**. Besides, we propose a novel evaluation dimension, **Semantic Expectation (SE)**, to measure the model's ability to maintain semantic consistency, contextual coherence, and cross-modal alignment.Our approach offers a scalable and reproducible alternative to human evaluation, while maintaining a high degree of alignment with human judgment regarding complex reasoning chains.
+**TextEditBench** is a comprehensive benchmark for evaluating Reasoning-aware Text Editing beyond mere rendering. TextEditBench explicitly focuses on text-centric regions across 14 topics and 6 task types, emphasizing **reasoning-intensive scenarios** that require models to understand physical plausibility, linguistic meaning, and cross-modal dependencies.  
+
+To comprehensively assess model performance across diverse editing contexts, we establish a Dual-Track Evaluation Framework encompassing **Pixel-Level Objective Metrics** and **MLLM-based Semantic Metrics**. Besides, we propose a novel evaluation dimension, **Semantic Expectation (SE)**, to measure the model's ability to maintain semantic consistency, contextual coherence, and cross-modal alignment.Our approach offers a scalable and reproducible alternative to human evaluation, while maintaining a high degree of alignment with human judgment regarding complex reasoning chains.  
 
 
 <img src="assets/overview.jpg" width="100%" alt="TextEditBench Overview">
