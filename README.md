@@ -4,7 +4,7 @@
 
 <a href="https://arxiv.org/abs/2511.02778"><img src="https://img.shields.io/badge/Paper-arXiv%3A2511.02778-b31b1b?logo=arxiv&logoColor=red"></a>
 <a href="https://your-website-url.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Website-8A2BE2"></a>
-<a href="https://huggingface.co/datasets/your-username/TextEditBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
+<a href="https://huggingface.co/datasets/MATH-finding/TextEditBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
 
 </div>
 
