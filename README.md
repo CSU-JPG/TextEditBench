@@ -45,9 +45,101 @@ TextEditBench comprises **1,196 high-quality instances**, curated through a rigo
 
 ---
 
+## 🚀 Quick Start
+
+Here we provide a quick start guide to evaluate Models on TextEditBench.
+
+### Setup Environment
+
+```
+git clone https://github.com/MATH-finding/TextEditBench.git
+
+conda create -n textedit python=3.10
+conda activate textedit
+pip install -r requirments
+```
+
+Setup API key and API base URL in `.env` for gpt4o.
+
+```
+OPENAI_API_KEY=${your_api_proxy_provider_key}
+OPENAI_API_URL=${your_ark_api_base_url}
+```
+
+### Download Data
+
+Download the TextEditBench data from [Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue) and unzip it under the root directory.
+
+```
+wget 
+unzip data.zip
+```
+
+The file structure should be like this:
+
+```
+data/                                          
+├── canva/                         
+│   └── Art_Creative_Expression/
+│   │   ├── 001/
+│   │   │   ├── 1.jpg
+│   │   │   ├── 1_mask.jpg
+│   │   │   ├── Art_Creative_Expression_001.json
+│   │   │   ├── text_delete_1.jpg
+│   │   │   └── text_delete_1_mask.jpg
+│   │   └── ...
+│   │
+│   └── ...
+│
+└── real/                         
+    ├── Art_Creative_Expression/               
+    │   ├── 001/
+    │   │   ├── 1.jpg
+    │   │   ├── 1_mask.jpg
+    │   │   ├── Art_Creative_Expression_001.json
+    │   │   └── text_delete_1_mask.jpg
+    │   └── ...
+    │
+    └── ...
+```
+
 ## 🛠️ Usage
 
-show how to use evaluation  
+### **Model Output Folder**
+
+```
+edited_images/                                          
+├── canva/                         
+│   └── Art_Creative_Expression/
+│   │   ├── 001_edited.jpg
+│   │   └── ...
+│   └── ...
+│
+└── real/                         
+    ├── Art_Creative_Expression/               
+    │   ├── 001_edited.jpg
+    │   └── ...
+    │
+    └── ...
+```
+
+### Evaluation
+
+**Track 1 (Pixel-level):** SSIM, PSNR, LPIPS, MSE.
+
+```
+python evaluation/masked_mse_psnr_evaluation.py path/to/your_model_output.json
+
+python evaluation/masked_ssim_lpips_evaluation.py path/to/your_model_output.json
+```
+
+**Track 2 (Semantic-level):** Powered by **GPT-4o**, evaluating Instruction Following, Text Accuracy, Visual Consistency, Layout Preservation, and Semantic Expectation .
+
+```
+python evaluation/GPT-4o_evaluation.py #for all evaluation code, you will need to modify outout file path to yours
+```
+
+
 
 ---
 
