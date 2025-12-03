@@ -16,12 +16,12 @@
 ## 📖 Introduction
 **TextEditBench** is a comprehensive benchmark for evaluating Reasoning-aware Text Editing beyond mere rendering. TextEditBench explicitly focuses on text-centric regions across 14 topics and 6 task types, emphasizing **reasoning-intensive scenarios** that require models to understand physical plausibility, linguistic meaning, and cross-modal dependencies.  
 
-To comprehensively assess model performance across diverse editing contexts, we establish a Dual-Track Evaluation Framework encompassing **Pixel-Level Objective Metrics** and **MLLM-based Semantic Metrics**. Besides, we propose a novel evaluation dimension, **Semantic Expectation (SE)**, to measure the model's ability to maintain semantic consistency, contextual coherence, and cross-modal alignment.Our approach offers a scalable and reproducible alternative to human evaluation, while maintaining a high degree of alignment with human judgment regarding complex reasoning chains.  
+To comprehensively assess model performance across diverse editing contexts, we establish a Dual-Track Evaluation Framework encompassing **Pixel-Level Objective Metrics** and **MLLM-based Semantic Metrics**. Besides, we propose a novel evaluation dimension, **Semantic Expectation (SE)**, to measure the model's ability to maintain semantic consistency, contextual coherence, and cross-modal alignment.Our approach offers a scalable and reproducible alternative to human evaluation, while maintaining a high degree of alignment with human judgment regarding complex reasoning chains.    
 
 
 <img src="assets/overview.jpg" width="100%" alt="TextEditBench Overview">
 
-### Key Features
+###  ✨ Key Features
 * **🧠 Reasoning-Centric:** Introduces **Semantic Expectation (SE)** metric .
 * **🌍 Diverse Scenarios:** Covers **14 topics** and **6 task types**.
 * **📏 Comprehensive Evaluation:** 
@@ -30,19 +30,24 @@ To comprehensively assess model performance across diverse editing contexts, we 
 
 ---
 
-## 📊 Dataset Overview
+## 📊 Dataset Overview  
 
-TextEditBench comprises **1,196 high-quality instances**, curated from both manual designs (Canva) and web-sourced images. 
+TextEditBench comprises **1,196 high-quality instances**, curated through a rigorous **Human-AI-Human** verification pipeline. The dataset balances diversity and annotation fidelity by combining **Manual Production (58%)** with **Web-sourced instances (42%)**.
 
 <div align="center">
   <img src="assets/data_distribution.jpg" width="90%" alt="Data Distribution"> 
 </div>
 
+### 🧩 Dataset Composition  
+* **14 Diverse Topics:** Broad coverage of daily visual contexts, including Professional Documents, Digital Interfaces, Signage, Menus, and Packaging.
+* **6 Atom Operations:** Systematic editing tasks designed to test specific capabilities: **Delete, Insert, Change, Relocation, Scaling,** and **Attribute** transfer.  
+* **Hierarchical Difficulty:** Each instance is scored (0-20) based on **10 difficulty attributes** and categorized into **Easy, Medium, and Hard** tiers, enabling fine-grained analysis of model robustness.
+
 ---
 
 ## 🛠️ Usage
 
-show how to use evaluation
+show how to use evaluation  
 
 ---
 
