@@ -3,8 +3,8 @@
     "topic": "Art & Creative Expression",
     "prompt": "Translate the Chinese in the picture into English.",
     "editing_method": "text_change",
-    "difficulty": "hard",
-    "difficulty_score": " 11(2,2,2,2,0,0,0,2,1,0)",
+    "difficulty": "medium",
+    "difficulty_score": " 7(1,2,0,2,0,0,0,0,2,0)",
     "input_image": "9.jpg",
     "output_image": "text_change_9.jpg",
     "source_tag": "human_annotation"

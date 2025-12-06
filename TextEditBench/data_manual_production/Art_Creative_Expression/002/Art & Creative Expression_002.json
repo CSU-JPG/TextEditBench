@@ -4,7 +4,7 @@
     "prompt": "change the font of 'wind of summer'",
     "editing_method": "text_attribute",
     "difficulty": "medium",
-    "difficulty_score": " 9(2,2,2,0,0,0,0,2,1,0)",
+    "difficulty_score": " 6(0,1,2,0,0,0,0,2,1,0)",
     "input_image": "2.jpg",
     "output_image": "text_attribute_2.jpg",
     "source_tag": "human_annotation"
