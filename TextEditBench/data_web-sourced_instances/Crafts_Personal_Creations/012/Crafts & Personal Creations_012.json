@@ -2,7 +2,7 @@
     {
         "id": "Crafts & Personal Creations_012",
         "topic": "Crafts & Personal Creations",
-        "prompt": "Add 'Happy Birthday' on the cake",
+        "prompt": "Add the words 'Happy Birthday' to the cake and turn it into a birthday celebration cake.",
         "editing_method": "text_insert",
         "difficulty": "easy",
         "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",

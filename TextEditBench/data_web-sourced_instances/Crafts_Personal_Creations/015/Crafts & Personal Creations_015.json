@@ -5,7 +5,7 @@
         "prompt": "Change the cake topper text from 'Heather' to 'Sophia', preserving the same elegant cursive font, golden color, and reflective metallic texture. Ensure consistent lighting and shadow on the topper.",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "7(1,1,2,0,2,0,0,1,0,0)",
+        "difficulty_score": "6(1,0,2,0,2,0,0,1,0,0)",
         "input_image": "15.jpg",
         "source_tag": "human_annotation"
     }

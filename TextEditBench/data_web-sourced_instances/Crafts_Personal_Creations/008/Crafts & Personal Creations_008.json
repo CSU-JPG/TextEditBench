@@ -4,10 +4,10 @@
     "topic": "Crafts & Personal Creations",
     "prompt": "Replace the words in the image with synonyms",
     "editing_method": "text_change",
-    "difficulty": "easy",
-    "difficulty_score": "5(0,0,2,0,0,0,0,1,0,2)",
+    "difficulty": "medium",
+    "difficulty_score": "6(0,0,2,0,1,0,0,1,0,2)",
     "input_image": "8.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "The text in the picture is 'good', and its synonym can be 'nice', so 'good' can be replaced with 'nice'."
+    "knowledge_prompt": "The word 'good' in the image expresses a simple, neutral positive evaluation, and the task is to replace it with another English word that has the same basic meaning while only changing the surface wording. A common everyday synonym such as 'nice' can be used to preserve this positive sentiment, so that the rewritten text remains semantically equivalent to the original while just using a different expression."
   }
 ]

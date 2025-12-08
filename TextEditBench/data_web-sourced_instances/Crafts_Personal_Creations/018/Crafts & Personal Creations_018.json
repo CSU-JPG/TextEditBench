@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Craft & Personal Creation_018",
         "topic": "Craft & Personal Creation",
-        "prompt": "Change the text on the cake from 'Happy Birthday' to 'Congratulations', keeping the same dark brown icing style, position, and font thickness. Maintain the knife and candles unchanged.",
+        "prompt": "Change the text on the cake from 'Happy Birthday' to 'Congratulations'.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "difficulty_score": "4(0,0,2,0,1,0,0,1,0,0)",
         "input_image": "18.jpg",
         "source_tag": "human_annotation"
     }
