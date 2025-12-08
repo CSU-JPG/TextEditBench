@@ -5,9 +5,9 @@
         "prompt": "intensify the slogan's tone",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "2(0,0,0,0,0,0,0,0,2)",
+        "difficulty_score": "4(1,0,0,0,1,0,0,0,2)",
         "input_image": "18.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "To warn people to watch out for ducks, make the warning sign's tone stronger. As implied by the semantic expectation, it is necessary to replace the slogan from 'caution ducks' to 'Caution: Ducks Ahead, Yield!' to achieve the purpose of warning others."
+        "knowledge_prompt": "The goal is to intensify the tone of a safety slogan that warns people to watch out for ducks, without changing its core meaning. The revised slogan should still clearly communicate that there are ducks ahead and that people should be cautious, but the tone must sound more urgent and forceful, like a real warning sign. This can be achieved by using stronger imperative phrasing, clearer mention that ducks are ahead or crossing, and possibly punctuation such as an exclamation mark, while keeping the message concise and sign-like. Outputs that weaken the warning, change the topic (e.g., to feeding or admiring ducks), or add unrelated information should be considered incorrect."
     }
 ]

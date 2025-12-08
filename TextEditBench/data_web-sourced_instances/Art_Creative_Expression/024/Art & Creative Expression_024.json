@@ -4,8 +4,8 @@
         "topic": "Art & Creative Expression",
         "prompt": "Relocate the sentence 'I CAN DO ANYTHING NOT EVERYTHING.' to the top-right area of the page while preserving the original handwriting style, blue color, size, line breaks, and underlines; avoid overlapping the blue paper pieces.",
         "editing_method": "text_relocation",
-        "difficulty": "easy",
-        "difficulty_score": "5(1,2,2,0,0,0,0,0,0,0)",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,2,2,0,2,0,0,1,1,0)",
         "input_image": "24.jpg",
         "source_tag": "human_annotation"
     }

@@ -3,9 +3,9 @@
         "id": "TextEditing_Art & Creative Expression_019",
         "topic": "Art & Creative Expression",
         "prompt": "change the color of all the text in the picture to yellow",
-        "editing_method": "text_change",
+        "editing_method": "text_attribute",
         "difficulty": "easy",
-        "difficulty_score": "2(0,0,2,0,0,0,0,0,0,0)",
+        "difficulty_score": "4(1,0,2,0,0,1,0,0,0,0)",
         "input_image": "19.jpg",
         "source_tag": "human_annotation"
     }

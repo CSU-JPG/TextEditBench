@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Art & Creative Expression_015",
         "topic": "Art & Creative Expression",
-        "prompt": "add 'On this rusty train car, the graffiti 'LIBER?'' is like a bold question, asking about freedom's limits and adding a edgy artistic touch to this industrial spot.' above 'LIBER?'",
+        "prompt": "add 'On this rusty train car, the graffiti 'LIBER?' is like a bold question, asking about freedom's limits and adding a edgy artistic touch to this industrial spot.' above 'LIBER?'",
         "editing_method": "text_insert",
         "difficulty": "esay",
-        "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+        "difficulty_score": "5(0,2,0,0,1,0,0,2,0,0)",
         "input_image": "15.jpg",
         "source_tag": "human_annotation"
     }

@@ -8,6 +8,7 @@
     "difficulty_score": "5(0,0,2,0,0,0,0,1,0,2)",
     "input_image": "5.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "Change 'HOT' to its opposite"
+    "knowledge_prompt": "The task is to invert the semantic polarity of the word 'HOT' along the temperature axis. A correct answer must replace 'HOT' with its clear, common opposite in meaning, yielding a single English word in all caps that directly denotes the opposite temperature sensation (i.e., 'COLD') and nothing else. Any output that keeps the same polarity, adds extra words or symbols, or uses a weaker or indirect contrast (such as 'NOT HOT' or 'WARM') should be considered incorrect."
+
   }
 ]
