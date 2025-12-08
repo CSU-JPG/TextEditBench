@@ -8,6 +8,7 @@
     "difficulty_score": "5(0,0,0,0,1,0,0,2,0,2)",
     "input_image": "1.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "Also need to change the picture of the pig above 'Pig' to a dog."
+    "knowledge_prompt": "Under this prompt, the semantic expectation is that the word 'PiG' is changed to 'DOG', and the visual content remains aligned with the text label. Since the current picture above the word depicts a pig, after the word is updated to 'DOG', the corresponding animal image is also expected to be updated to a dog so that the text–image pair consistently represents the same animal concept."
+
   }
 ]

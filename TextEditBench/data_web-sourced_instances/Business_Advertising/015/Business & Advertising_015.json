@@ -8,6 +8,6 @@
     "difficulty_score": "4(0,2,0,0,0,0,0,0,0,2)",
     "input_image": "15.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "To keep things casual, you should use more everyday, informal words, and you can swap in 'Learning new skills'."
+    "knowledge_prompt": "The task is to rewrite the existing text in the picture so that its tone becomes more casual while preserving the original meaning. The revised wording should sound like natural everyday speech, using more informal vocabulary, simpler phrasing, and relaxed, conversational expressions so that the message feels friendly, easy-going, and less formal."
   }
 ]

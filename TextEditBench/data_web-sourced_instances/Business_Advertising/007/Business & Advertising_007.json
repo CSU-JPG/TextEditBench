@@ -5,7 +5,7 @@
     "prompt": "Replace 'PACIFIC' with The ocean closest to the north among the four major oceans",
     "editing_method": "text_change",
     "difficulty": "easy",
-    "difficulty_score": "4(0,0,0,0,2,0,0,0,0,2)",
+    "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
     "input_image": "7.jpg",
     "source_tag": "human_annotation",
     "knowledge_prompt": "Among the four oceans, the one closest to the north is the Arctic Ocean, and 'PACIFIC' should be replaced with 'ARCTIC'."

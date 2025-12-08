@@ -2,11 +2,12 @@
     {
         "id": "TextEditing_Business & Advertising_035",
         "topic": "Business & Advertising",
-        "prompt": "Correct the spelling error on the red awning by changing 'INDIAIAN' to 'INDIAN' while maintaining the same font, color, and alignment. Keep the restaurant sign's design and lighting consistent.",
+        "prompt": "Correct the spelling error on the red awning.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
+        "difficulty_score": "5(0,0,1,0,1,0,0,1,2,2)",
         "input_image": "35.jpg",
-        "source_tag": "human_annotation"
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The word 'INDIAIAN' written on the red awning is an incorrect spelling of the English word 'INDIAN': the extra 'A' in the sequence 'AIA' makes it a non-existent and ungrammatical form. The intended word should be corrected to the standard spelling 'INDIAN', so that the text clearly and correctly refers to something related to India."
     }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "TextEditing_Business & Advertising_003",
     "topic": "Business & Advertising",
-    "prompt": "Move 'a' right a little",
+    "prompt": "Move 'deli' right a little",
     "editing_method": "text_relocation",
     "difficulty": "easy",
     "difficulty_score": "2(0,0,1,0,0,0,0,0,1,0)",

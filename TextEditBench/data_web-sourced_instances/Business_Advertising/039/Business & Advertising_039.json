@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Business & Advertising_039",
         "topic": "Business & Advertising",
-        "prompt": "Replace the red text 'OMIX' on the storefront sign with 'OMAX' while maintaining the same bold sans-serif font, capitalization, alignment, and color contrast against the white background. Keep the smaller hanging sign and reflections consistent with the main edit.",
+        "prompt": "Replace the red text 'OMIX' on the storefront sign with 'OMAX'.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "2(1,0,1,0,0,0,0,0,0,0)",
+        "difficulty_score": "1(0,0,1,0,0,0,0,0,0,0)",
         "input_image": "39.jpg",
         "source_tag": "human_annotation"
     }

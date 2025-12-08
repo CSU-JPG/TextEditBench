@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Business & Advertising_034",
         "topic": "Business & Advertising",
-        "prompt": "Replace the word 'ALTO' on the stop sign with 'STOP' while keeping the same font style, boldness, color, and alignment inside the white rectangular area of the red octagonal sign.",
+        "prompt": "Replace the word 'ALTO' on the stop sign with 'STOP'.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "difficulty_score": "1(0,0,0,0,1,0,0,0,0,0)",
         "input_image": "34.jpg",
         "source_tag": "human_annotation"
     }

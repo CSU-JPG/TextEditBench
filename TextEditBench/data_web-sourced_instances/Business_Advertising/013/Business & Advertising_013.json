@@ -5,9 +5,9 @@
     "prompt": "Replace 'hot' with a synonym",
     "editing_method": "text_change",
     "difficulty": "easy",
-    "difficulty_score": "3(1,0,0,0,0,0,0,0,0,2)",
+    "difficulty_score": "3(1,0,0,0,1,0,0,0,0,2)",
     "input_image": "13.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "Replace 'hot', but without changing the original meaning, you can use 'fiery'"
+    "knowledge_prompt": "The task is to replace the adjective 'hot' with a synonym that preserves its original meaning while only changing the surface wording. The new expression should still convey the idea of high temperature or an intense, burning quality, so that the semantic content remains equivalent to the source term. A vivid alternative such as 'fiery' can be used to maintain this semantic equivalence while slightly enriching the expressive nuance."
   }
 ]

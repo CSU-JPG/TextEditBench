@@ -2,7 +2,7 @@
   {
     "id": "TextEditing_Business & Advertising_008",
     "topic": "Business & Advertising",
-    "prompt": "Change the font of 'a' to Roman type",
+    "prompt": "Change the font of 'PREZIOUZ' to Roman type",
     "editing_method": "text_change",
     "difficulty": "easy",
     "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
