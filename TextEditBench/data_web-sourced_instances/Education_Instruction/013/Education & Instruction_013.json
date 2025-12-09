@@ -8,6 +8,6 @@
         "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
         "input_image": "13.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Replace 'united' with a synonym. As it is easy to know that 'solidary' is a synonym for 'united', the semantic intention indicates that 'united' should be changed to 'solidary'"
+        "knowledge_prompt": "The word 'united' in the image conveys the idea of people or things coming together as one. The task is to replace it with a synonym that preserves the same meaning. A word like 'solidary' can be used to express this same sense of unity, as both words imply a state of being united or closely linked. The synonym should align with the original intent while maintaining the same semantic meaning."
     }
 ]

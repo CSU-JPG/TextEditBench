@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Education & Instruction_001",
         "topic": "Education & Instruction",
-        "prompt": "Change the text on the open book from 'COMPLETE' to 'IN PROGRESS', keeping the same bold serif font, size, and centered placement on the page. Ensure shadows, paper texture, and lighting remain natural and consistent.",
+        "prompt": "Change the text on the open book from 'COMPLETE' to 'IN PROGRESS'.",
         "editing_method": "text_change",
-        "difficulty": "medium",
-        "difficulty_score": "6(1,1,2,0,1,0,0,1,0,0)",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,2,0,1,0,0,1,0,0)",
         "input_image": "1.jpg",
         "source_tag": "human_annotation"
     }
