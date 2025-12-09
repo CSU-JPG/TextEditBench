@@ -1,12 +1,12 @@
 [
     {
-        "id": "TextEditing_Merchandise & Apparel_018",
+        "id": "TextEditing_Merchandise & Apparel_043",
         "topic": "Merchandise & Apparel",
         "prompt": "Change the font of the text in the black box",
         "editing_method": "text_attribute",
         "difficulty": "easy",
         "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
-        "input_image": "18.jpg",
+        "input_image": "43.jpg",
         "source_tag": "model_generated"
     }
 ]

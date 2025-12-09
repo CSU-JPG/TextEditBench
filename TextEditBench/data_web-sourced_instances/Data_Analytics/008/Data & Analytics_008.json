@@ -5,7 +5,7 @@
     "prompt": "Change the percentage value '22.8%' to '50%'.",
     "editing_method": "text_change",
     "difficulty": "easy",
-    "difficulty_score": "1(0,0,0,0,0,0,0,0,0,1)",
+    "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
     "input_image": "8.jpg",
     "source_tag": "human_annotation",
     "knowledge_prompt": "When changing the percentage value '22.8%' to '50%', also visually extend the gray bar in the corresponding bar chart to reach the 50% level, as the percentage value and its bar visualization are semantically linked, and updating both ensures the chart's accuracy and visual consistency."

@@ -1,10 +1,12 @@
-{
-  "id": "TextEditing_Data & Analytics_001",
-  "topic": "Data & Analytics",
-  "prompt": "Change the title 'Data Storytelling' at the top to 'Data Narrative'.",
-  "editing_method": "text_change",
-  "difficulty": "easy",
-  "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
-  "input_image": "1.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_001",
+    "topic": "Data & Analytics",
+    "prompt": "Change the title 'Data Storytelling' at the top to 'Data Narrative'.",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
+    "input_image": "1.jpg",
+    "source_tag": "human_annotation"
+  }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_007",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Make the tone of the text more forceful",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "(0,2,0,0,0,0,0,0,0,2)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The task is to rewrite the sentence in the image so that its tone becomes more forceful while preserving the original meaning that others are not entitled to judge the speaker unless they themselves are perfect. The revised text should increase the sense of defiance and emotional intensity by using stronger imperatives, emphatic wording, and more confrontational phrasing, so that the message sounds more assertive and challenging without changing the underlying communicative intent."
+    }
+]

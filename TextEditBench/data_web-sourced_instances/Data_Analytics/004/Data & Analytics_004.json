@@ -5,7 +5,7 @@
     "prompt": "Scale up the text 'Employees by Status' at the bottom of the image to make it larger and more prominent.",
     "editing_method": "scaling",
     "difficulty": "easy",
-    "difficulty_score": "4(0, 1, 0, 0, 0, 0, 2, 0, 1, 0)",
+    "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
     "input_image": "4.jpg",
     "source_tag": "human_annotation"
   }
