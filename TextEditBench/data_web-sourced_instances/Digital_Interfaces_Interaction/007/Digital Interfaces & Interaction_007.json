@@ -8,6 +8,6 @@
         "difficulty_score": "5(0,0,0,0,1,0,0,2,0,2)",
         "input_image": "7.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "While deleting 'Istagram', also delete the corresponding icon above."
+        "knowledge_prompt": "The word 'Istagram' in the image forms a single functional unit together with the icon above it, and both elements jointly indicate the same app or platform. To semantically satisfy the instruction to delete 'Istagram', the entire visual reference to this app should be removed, which means deleting both the text label and its associated icon so that no residual indication of this app remains in the picture."
     }
 ]

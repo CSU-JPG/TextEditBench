@@ -5,7 +5,7 @@
     "prompt": "Add 5 to both teams' scores",
     "editing_method": "text_change",
     "difficulty": "easy",
-    "difficulty_score": "3(0,1,0,0,0,0,0,0,0,2)",
+    "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
     "input_image": "2.jpg",
     "source_tag": "human_annotation",
     "knowledge_prompt": "In the image, 22:1 is the score, adding 5 makes it 27:6."

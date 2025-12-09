@@ -7,6 +7,6 @@
         "difficulty": "easy",
         "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
         "input_image": "5.jpg",
-        "source_tag": "human_annotation"
+        "source_tag": "model_generated"
     }
 ]

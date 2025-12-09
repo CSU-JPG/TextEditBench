@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Digital & Interaction_004",
         "topic": "Digital & Interaction",
-        "prompt": "Relocate the text 'Hey Siri' to the upper-right area and rotate it slightly clockwise (~15°) while preserving the original typewriter style, black ink texture/noise, letter spacing, and baseline thickness. Do not alter the paper background.",
+        "prompt": "Relocate the text 'Hey Siri' to the upper-right area and rotate it slightly clockwise (~15°).",
         "editing_method": "text_relocation",
         "difficulty": "easy",
-        "difficulty_score": "3(1,2,0,0,0,0,0,0,0,0)",
+        "difficulty_score": "4(0,0,2,0,0,0,0,0,2,0)",
         "input_image": "4.jpg",
         "source_tag": "human_annotation"
     }

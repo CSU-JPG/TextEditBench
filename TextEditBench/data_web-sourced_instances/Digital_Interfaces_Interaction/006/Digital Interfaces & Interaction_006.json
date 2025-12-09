@@ -5,9 +5,8 @@
         "prompt": "Change the text on the screen to 'HELLO'.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "4(0,0,0,0,0,0,2,0,0,2)",
+        "difficulty_score": "2(0,0,0,0,1,0,0,1,0,0)",
         "input_image": "6.jpg",
-        "source_tag": "human_annotation",
-        "knowledge_prompt": "Due to the limited screen size, the generated font should be appropriately smaller."
+        "source_tag": "human_annotation"
     }
 ]
