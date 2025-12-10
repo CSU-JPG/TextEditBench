@@ -1,11 +1,13 @@
- {
+[
+    {
         "id": "TextEditing_Art & Creative Expression_018",
         "topic": "Art & Creative Expression",
-        "prompt": "move the time directly above 'International Panda Festival",
-        "editing_method":"text_relocation",
-        "difficulty":"easy",
-        "difficulty_score":"3(0, 0, 0, 0, 0, 0, 0, 2, 1, 0)",
+        "prompt": "move the time  directly above 'International Panda Festival",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
         "input_image": "18.jpg ",
         "output_image": "text_relocation_18.jpg",
         "source_tag": "human_annotation"
     }
+]

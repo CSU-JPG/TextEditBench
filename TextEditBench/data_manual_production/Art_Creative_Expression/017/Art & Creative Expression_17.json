@@ -1,12 +1,14 @@
- {
+[
+    {
         "id": "TextEditing_Art & Creative Expression_017",
         "topic": "Art & Creative Expression",
         "prompt": "Fix the text errors in the picture",
-        "editing_method":"text_change",
-        "difficulty":"medium",
-        "difficulty_score":"6(0, 2, 0, 0, 0, 0, 0, 2, 0, 2)",
-        "input_image": "17.jpg ",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,0,0,0,0,0,0,2,2)",
+        "input_image": "17.jpg",
         "output_image": "text_change_17.jpg",
         "source_tag": "human_annotation",
-        "knowledge prompt":"It is required to correct the error in the picture. Based on the overall information of the picture, it is also known that 'life' is an uncountable noun when it expresses the abstract concept of 'life'. Therefore, the semantic expectation here is to revise 'lives' to 'life', and the corresponding predicate should also be changed to the singular form."
+        "knowledge prompt": "It is required to correct the error in the picture. Based on the overall information of the picture, it is also known that 'life' is an uncountable noun when it expresses the abstract concept of 'life'. Therefore, the semantic expectation here is to revise 'lives' to 'life', and the corresponding predicate should also be changed to the singular form."
     }
+]

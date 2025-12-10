@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Art & Creative Expression_002",
-    "topic": "Art & Creative Expression",
-    "prompt": "change the font of 'wind of summer'",
-    "editing_method": "text_attribute",
-    "difficulty": "medium",
-    "difficulty_score": " 6(0,1,2,0,0,0,0,2,1,0)",
-    "input_image": "2.jpg",
-    "output_image": "text_attribute_2.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_002",
+        "topic": "Art & Creative Expression",
+        "prompt": "change the font of 'wind of summer'",
+        "editing_method": "text_attribute",
+        "difficulty": "medium",
+        "difficulty_score": " 6(0,1,2,0,0,0,0,2,1,0)",
+        "input_image": "2.jpg",
+        "output_image": "text_attribute_2.jpg",
+        "source_tag": "human_annotation"
+    }
+]

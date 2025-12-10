@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Art & Creative Expression_003",
-    "topic": "Art & Creative Expression",
-    "prompt": "Move 'Movie poster ' to the middle of the line where 'Movie poster ' is located ",
-    "editing_method": "text_relocation",
-    "difficulty": "easy",
-    "difficulty_score": " 2(0,0,1,0,0,0,0,0,1,0)",
-    "input_image": "3.jpg",
-    "output_image": "text_relocation_3.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_003",
+        "topic": "Art & Creative Expression",
+        "prompt": "Move 'Movie poster ' to the middle of the line where 'Movie poster ' is located ",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": " 2(0,0,1,0,0,0,0,0,1,0)",
+        "input_image": "3.jpg",
+        "output_image": "text_relocation_3.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,12 +1,14 @@
-{
-    "id": "TextEditing_Art & Creative Expression_007",
-    "topic": "Art & Creative Expression",
-    "prompt": "Fix the text errors in the picture",
-    "editing_method": "text_change",
-    "difficulty": "easy",
-    "difficulty_score": " 5(0,2,0,0,0,0,0,1,2,0)",
-    "input_image": "7.jpg",
-    "output_image": "text_change_7.jpg",
-    "source_tag": "human_annotation",
-    "knowledge_prompt": "It is required to correct the text error in the picture. Based on the overall information on the picture and the fact that 'meaningful' is a polysyllabic word, it is expected to modify 'meaningful' into its superlative form here, which is to add 'the most' before the word."
-}
+[
+    {
+        "id": "TextEditing_Art & Creative Expression_007",
+        "topic": "Art & Creative Expression",
+        "prompt": "Fix the text errors in the picture",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": " 5(0,2,0,0,0,0,0,1,2,0)",
+        "input_image": "7.jpg",
+        "output_image": "text_change_7.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "It is required to correct the text error in the picture. Based on the overall information on the picture and the fact that 'meaningful' is a polysyllabic word, it is expected to modify 'meaningful' into its superlative form here, which is to add 'the most' before the word."
+    }
+]
