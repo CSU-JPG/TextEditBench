@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Merchandise & Apparel_016",
         "topic": "Merchandise & Apparel",
-        "prompt": "Change the text on the tennis player's blue dress from 'ROU' to 'NIKE', keeping the same bold uppercase font style, size, and white color. Preserve the fabric texture, folds, and lighting to ensure a natural integration with the dress material.",
+        "prompt": "Change the text on the tennis player's blue dress from 'ROU' to 'NIKE'.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "4(1,1,0,1,0,0,0,1,0,0)",
+        "difficulty_score": "1(0,0,0,0,1,0,0,0,0,0)",
         "input_image": "16.jpg",
         "source_tag": "human_annotation"
     }

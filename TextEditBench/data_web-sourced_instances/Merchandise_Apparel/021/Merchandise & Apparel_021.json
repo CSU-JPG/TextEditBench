@@ -8,6 +8,6 @@
         "difficulty_score": "5(0,0,0,0,2,0,0,0,1,2)",
         "input_image": "21.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Since 'Colgate' is printed on a red sticker, the entire sticker should be enlarged proportionally when scaling up the text."
+        "knowledge_prompt": "The word 'Colgate' is printed as part of a red sticker, so increasing its font size should be interpreted as making this branded label more visually prominent. Because the text and the sticker form a single integrated design element, enlarging the font implies scaling up the entire red sticker proportionally, so that the word and its background remain aligned, readable, and visually coherent with the rest of the image."
     }
 ]

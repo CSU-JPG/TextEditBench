@@ -5,9 +5,8 @@
         "prompt": "Add an uppercase M to the chest of each garment.",
         "editing_method": "text_insert",
         "difficulty": "medium",
-        "difficulty_score": "9(2,1,0,0,2,0,2,0,0,2)",
+        "difficulty_score": "7(2,1,0,0,2,0,2,0,0,0)",
         "input_image": "22.jpg",
-        "source_tag": "human_annotation",
-        "knowledge_prompt": "Since the garment has wrinkles, the text should be warped accordingly."
+        "source_tag": "human_annotation"
     }
 ]
