@@ -4,8 +4,8 @@
         "topic": "Scientific & Technical Diagrams",
         "prompt": "Shift the position of the title from top center of the image to top left",
         "editing_method": "text_relocation",
-        "difficulty": "medium",
-        "difficulty_score": "6(0,1,0,0,0,0,2,0,1,2)",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,1,0,0,0,0,0,0,1,2)",
         "input_image": "24.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "The title and its surrounding dotted frame form a unified visual element. The frame is not a separate decoration but part of the title’s design, so both components must remain together when repositioned to maintain structural and visual coherence."

@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Scientific & Technical Diagrams_016",
         "topic": "Scientific & Technical Diagrams",
-        "prompt": "Fixed the error in the fraction with 8 as the denominator in the image",
+        "prompt": "Fix the error in the fraction with 8 as the denominator in the image",
         "editing_method": "text_change",
-        "difficulty": "hard",
-        "difficulty_score": "12(2,2,0,0,0,0,2,2,2,2)",
+        "difficulty": "medium",
+        "difficulty_score": "8(1,1,0,0,0,0,2,0,2,2)",
         "input_image": "16.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "The numerators of the second and fifth fractions from left to right are written as 2 and 3, but these 8 fractions should be the same, so both 2 and 3 should be changed to 1."

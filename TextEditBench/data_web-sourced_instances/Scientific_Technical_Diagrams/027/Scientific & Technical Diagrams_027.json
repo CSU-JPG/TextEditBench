@@ -5,7 +5,7 @@
         "prompt": "Changed the tone of titles and subtitles in images to be more balanced",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "9(2,2,0,0,0,0,2,1,0,2)",
+        "difficulty_score": "9(2,2,0,0,0,0,0,1,0,2)",
         "input_image": "27.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "The original title and subtitles contain interrogative sentences, which can create a sense of imbalance or questioning tone in the visual hierarchy. Changing them to declarative sentences provides a stable, authoritative, and consistent tone throughout the image. For example, change the title 'How to save our earth' to 'Ways to save our earth'. Note that 'prevention' is already in declarative form and does not need to be changed."

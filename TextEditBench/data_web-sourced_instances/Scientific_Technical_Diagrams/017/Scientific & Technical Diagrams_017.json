@@ -5,7 +5,7 @@
         "prompt": "Rotate the logo in the image 90 degrees clockwise",
         "editing_method": "text_relocation",
         "difficulty": "medium",
-        "difficulty_score": "(0,0,2,0,0,0,0,2,2,0)",
+        "difficulty_score": "6(0,0,2,0,0,0,0,2,2,0)",
         "input_image": "17.jpg",
         "source_tag": "human_annotation"
     }
