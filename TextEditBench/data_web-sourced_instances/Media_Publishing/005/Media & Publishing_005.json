@@ -1,11 +1,13 @@
-{
-    "id":"TextEditing_Media & Publishing_005",
-    "topic": "Media & Publishing",
-    "prompt": "Insert the name of the author of the book in the picture in Chinese.",
-    "editing_method":"text_insert",
-    "difficulty":"medium",
-    "difficulty_score":"7(0,1,2,0,1,0,0,1,0,2)",
-    "input_image": "5.jpg",
-    "source_tag": "human_annotation",
-    "knowledge_prompt":"The name of the book is Harry Potter, and the author is Rowling, so the inserted name is Rowling."
-}
+[
+    {
+        "id": "TextEditing_Media & Publishing_005",
+        "topic": "Media & Publishing",
+        "prompt": "Insert the name of the author of the book in the picture in Chinese.",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "3(0,0,0,0,0,0,0,1,0,2)",
+        "input_image": "5.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The name of the book is Harry Potter, and the author is Rowling, so the inserted name is Rowling."
+    }
+]

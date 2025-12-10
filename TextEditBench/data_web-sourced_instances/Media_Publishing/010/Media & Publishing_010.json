@@ -1,11 +1,13 @@
-{
-    "id":"TextEditing_Media & Publishing_010",
-    "topic": "Media & Publishing",
-    "prompt": "Change the author's title to the name of the winner of the Nobel Prize in Literature in 2025",
-    "editing_method":"text_change",
-    "difficulty":"medium",
-    "difficulty_score":"6(0,2,0,0,0,0,0,2,0,2)",
-    "input_image": "10.jpg",
-    "source_tag": "human_annotation",
-    "knowledge_prompt":"The winner of the Nobel Prize in Literature in 2025 is Krasnoholkai. Raslo, so the name is changed to Krasno Holkai. Raslo"
-}
+[
+    {
+        "id": "TextEditing_Media & Publishing_010",
+        "topic": "Media & Publishing",
+        "prompt": "Change the author's title to the name of the winner of the Nobel Prize in Literature in 2025",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,0,0,0,0,0,2,0,2)",
+        "input_image": "10.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The winner of the Nobel Prize in Literature in 2025 is Krasnoholkai. Raslo, so the name is changed to Krasno Holkai. Raslo"
+    }
+]

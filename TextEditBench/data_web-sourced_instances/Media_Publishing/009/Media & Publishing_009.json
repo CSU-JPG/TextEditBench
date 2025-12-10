@@ -1,10 +1,12 @@
-{
-    "id":"TextEditing_Media & Publishing_009",
-    "topic": "Media & Publishing",
-    "prompt": "Delete the Chinese in the picture",
-    "editing_method":"text_delete",
-    "difficulty":"medium",
-    "difficulty_score":"7(1,2,1,2,1,0,0,0,0,0)",
-    "input_image": "9.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Media & Publishing_009",
+        "topic": "Media & Publishing",
+        "prompt": "Delete the Chinese in the picture",
+        "editing_method": "text_delete",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,2,1,2,0,0,0,0,0,0)",
+        "input_image": "9.jpg",
+        "source_tag": "human_annotation"
+    }
+]

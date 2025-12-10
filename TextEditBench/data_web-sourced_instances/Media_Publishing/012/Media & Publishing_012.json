@@ -1,13 +1,13 @@
 [
     {
-        "id": " &TextEditing_Media & Publishing_012",
+        "id": "TextEditing_Media & Publishing_012",
         "topic": "Media & Publishing",
-        "prompt": "find the errors in the picture",
+        "prompt": "fix the errors in the picture",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+        "difficulty_score": "6(0,0,0,0,1,0,0,1,2,2)",
         "input_image": "12.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Find the error in the picture. The word 'arasda' does not exist. According to the information in the picture, the correct word should be 'arada'. As can be seen from the semantic expectations, replace 'arasda' with 'arada'"
+        "knowledge_prompt": "Fix the error in the picture. The word 'arasda' does not exist. According to the information in the picture, the correct word should be 'arada'. As can be seen from the semantic expectations, replace 'arasda' with 'arada'"
     }
 ]

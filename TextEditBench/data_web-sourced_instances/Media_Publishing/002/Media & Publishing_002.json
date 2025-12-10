@@ -1,10 +1,12 @@
-{
-    "id":"TextEditing_Media & Publishing_002",
-    "topic": "Media & Publishing",
-    "prompt": "Translate the Chinese in the picture into English",
-    "editing_method":"text_change",
-    "difficulty":"medium",
-    "difficulty_score":"7(0,2,1,2,0,0,0,0,2,0,)",
-    "input_image": "2.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Media & Publishing_002",
+        "topic": "Media & Publishing",
+        "prompt": "Translate the Chinese in the picture into English",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,1,2,0,0,0,0,2,0,)",
+        "input_image": "2.jpg",
+        "source_tag": "human_annotation"
+    }
+]

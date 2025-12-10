@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Media & Publishing_007",
-    "topic": "Media & Publishing",
-    "prompt": "Insert the name of the Chinese capital in the picture.",
-    "editing_method": "text_insert",
-    "difficulty": "medium",
-    "difficulty_score": "6(0,0,1,2,0,0,0,1,0,2)",
-    "input_image": "7.jpg",
-    "source_tag": "human_annotation",
-    "knowledge_prompt": "The prompt requires identifying and inserting the correct name of China’s capital city, which is “Beijing.”"
-}
+[
+    {
+        "id": "TextEditing_Media & Publishing_007",
+        "topic": "Media & Publishing",
+        "prompt": "Insert the name of the Chinese capital in the picture.",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,0,1,2,0,0,0,1,0,2)",
+        "input_image": "7.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The prompt requires identifying and inserting the correct name of China’s capital city, which is “Beijing.”"
+    }
+]

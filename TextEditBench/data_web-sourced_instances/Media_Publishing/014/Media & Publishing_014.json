@@ -1,13 +1,13 @@
 [
     {
-        "id": " &TextEditing_Media & Publishing_014",
+        "id": "TextEditing_Media & Publishing_014",
         "topic": "Media & Publishing",
-        "prompt": "find the errors in the picture",
+        "prompt": "fix the errors in the picture",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "5(1,0,0,0,0,0,0,0,2,2)",
         "input_image": "14.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Find the error in the picture. According to the picture information, 'BLE' is not suitable for the scene. To ensure the harmony of the picture, as can be seen from the semantic expectations, replace 'BLE' with 'Tune' to ensure the unity of the picture."
+        "knowledge_prompt": "Fix the error in the picture. According to the picture information, 'BLE' is not suitable for the scene. To ensure the harmony of the picture, as can be seen from the semantic expectations, replace 'BLE' with 'Tune' to ensure the unity of the picture."
     }
 ]

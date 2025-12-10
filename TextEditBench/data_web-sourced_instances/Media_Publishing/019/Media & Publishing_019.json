@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Data & Analytics_019",
         "topic": "Data & Analytics",
-        "prompt": "Change the green printed number inside the lid from '100' to '250', ensuring the new digits match the same font style, size, and green color while preserving the curved alignment along the lid edge.",
+        "prompt": "Change the green printed number inside the lid from '100' to '250'.",
         "editing_method": "text_change",
-        "difficulty": "medium",
-        "difficulty_score": "6(1,1,1,0,2,0,0,1,0,0)",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,1,0,2,0,0,1,0,0)",
         "input_image": "19.jpg",
         "source_tag": "human_annotation"
     }

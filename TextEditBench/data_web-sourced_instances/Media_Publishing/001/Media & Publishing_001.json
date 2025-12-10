@@ -1,10 +1,12 @@
-{
-    "id":"TextEditing_Media & Publishing_001",
-    "topic": "Media & Publishing",
-    "prompt": "Reduce the size of 'Science' appropriately",
-    "editing_method":"scaling",
-    "difficulty":"easy",
-    "difficulty_score":"4(0,0,1,0,1,0,0,1,1,0)",
-    "input_image": "1.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Media & Publishing_001",
+        "topic": "Media & Publishing",
+        "prompt": "Reduce the size of 'Science' appropriately",
+        "editing_method": "scaling",
+        "difficulty": "easy",
+        "difficulty_score": "4(0,0,1,0,0,0,0,2,1,0)",
+        "input_image": "1.jpg",
+        "source_tag": "human_annotation"
+    }
+]
