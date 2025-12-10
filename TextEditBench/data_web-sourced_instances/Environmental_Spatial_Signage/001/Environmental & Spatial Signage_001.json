@@ -1,6 +1,6 @@
 [
     {
-        "id": " &TextEditing_Environmental & Spatial Signage_001",
+        "id": " TextEditing_Environmental & Spatial Signage_001",
         "topic": "Environmental & Spatial Signage",
         "prompt": "To make the tone of the sentence 'do not stop' milder",
         "editing_method": "text_change",
@@ -8,6 +8,6 @@
         "difficulty_score": "3(0,1,0,0,0,0,0,0,0,2)",
         "input_image": "1.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "To make the tone of the sentence 'do not stop' milder, according to the picture information and semantic expectations, replace 'do not stop' with 'Just keep moving forward' to meet the requirement."
+        "knowledge_prompt": "The sentence 'do not stop' conveys a direct and somewhat harsh prohibition, and the goal is to make its tone milder while preserving the core meaning of encouraging continued action. This can be done by shifting from a strict negative command to a more supportive, positively framed expression that gently invites the reader to keep going, using softer wording and an encouraging mood so the message feels less like an order and more like motivation. For example, it is ok to replace 'do not stop' with 'Just keep moving forward' to meet the requirement."
     }
 ]

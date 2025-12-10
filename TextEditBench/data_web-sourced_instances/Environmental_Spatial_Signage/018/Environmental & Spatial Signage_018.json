@@ -1,11 +1,11 @@
 [
     {
-        "id": "Environmental & Spatial Signage_018",
+        "id": "TextEditing_Environmental & Spatial Signage_018",
         "topic": "Environmental & Spatial Signage",
         "prompt": "Enlarge the 'Academic' in the picture",
         "editing_method": "scalling",
         "difficulty": "easy",
-        "difficulty_score": "2(0,0,0,0,0,0,0,1,1,0)",
+        "difficulty_score": "2(0,0,0,0,1,0,0,0,1,0)",
         "input_image": "18.jpg",
         "source_tag": "human_annotation"
     }

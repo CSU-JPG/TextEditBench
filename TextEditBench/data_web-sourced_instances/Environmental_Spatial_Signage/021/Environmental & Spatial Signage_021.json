@@ -1,6 +1,6 @@
 [
     {
-        "id": "Environmental & Spatial Signage_021",
+        "id": "TextEditing_Environmental & Spatial Signage_021",
         "topic": "Environmental & Spatial Signage",
         "prompt": "Change the exit at the top left corner of the image to 47",
         "editing_method": "text_change",

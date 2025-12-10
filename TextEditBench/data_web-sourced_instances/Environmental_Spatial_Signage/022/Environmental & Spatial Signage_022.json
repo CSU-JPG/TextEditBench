@@ -1,11 +1,11 @@
 [
     {
-        "id": "Environmental & Spatial Signage_022",
+        "id": "TextEditing_Environmental & Spatial Signage_022",
         "topic": "Environmental & Spatial Signage",
         "prompt": "Move this largest banner to the right side of the street corner, and move the image on the far right of the entire bid to the original position of 's'.",
         "editing_method": "text_relocation",
         "difficulty": "medium",
-        "difficulty_score": "8(2,0,2,0,1,0,0,2,1,0)",
+        "difficulty_score": "6(0,0,2,0,1,0,0,2,1,0)",
         "input_image": "22.jpg",
         "source_tag": "human_annotation"
     }

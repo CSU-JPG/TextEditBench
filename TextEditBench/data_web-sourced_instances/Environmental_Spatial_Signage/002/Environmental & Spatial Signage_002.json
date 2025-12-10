@@ -1,9 +1,9 @@
 [
     {
-        "id": " &TextEditing_Environmental & Spatial Signage_002",
+        "id": " TextEditing_Environmental & Spatial Signage_002",
         "topic": "Environmental & Spatial Signage",
         "prompt": "make 'stop' smaller",
-        "editing_method": "text_attribute",
+        "editing_method": "scaling",
         "difficulty": "easy",
         "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
         "input_image": "2.jpg",

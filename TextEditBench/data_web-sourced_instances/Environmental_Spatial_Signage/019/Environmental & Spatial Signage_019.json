@@ -1,11 +1,11 @@
 [
     {
-        "id": "Environmental & Spatial Signage_019",
+        "id": "TextEditing_Environmental & Spatial Signage_019",
         "topic": "Environmental & Spatial Signage",
         "prompt": "The labeling of this image is unsatisfactory, please modify it.",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "9(0,0,1,0,0,0,2,2,2,2)",
+        "difficulty_score": "7(0,0,1,0,0,0,2,2,0,2)",
         "input_image": "19.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "Since the 'Danger' warning sign appears inside the cave, it indicates that visitors are already in a potentially risky area, meaning the warning fails to serve a preventive purpose, and its message is obviously delayed. Changing the text to 'No Entry Ahead' can advance the warning's significance, better meeting the timeliness requirements for risk alerts. At the same time, adding a locked iron door behind the sign as a physical barrier can visually reinforce the 'No Entry' restriction, creating a complete cognitive chain from textual warning to physical barrier, thereby enhancing the realism of the scene and the effectiveness of risk communication."

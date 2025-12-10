@@ -1,6 +1,6 @@
 [
     {
-        "id": " &TextEditing_Environmental & Spatial Signage_0011",
+        "id": "TextEditing_Environmental & Spatial Signage_0011",
         "topic": "Environmental & Spatial Signage",
         "prompt": "delete 'baking'and 'restaurant'",
         "editing_method": "text_delete",

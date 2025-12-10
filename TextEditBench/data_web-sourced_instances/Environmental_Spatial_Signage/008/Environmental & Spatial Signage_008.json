@@ -1,6 +1,6 @@
 [
     {
-        "id": " &TextEditing_Environmental & Spatial Signage_008",
+        "id": "TextEditing_Environmental & Spatial Signage_008",
         "topic": "Environmental & Spatial Signage",
         "prompt": "change the color of 'quais'",
         "editing_method": "text_attribute",

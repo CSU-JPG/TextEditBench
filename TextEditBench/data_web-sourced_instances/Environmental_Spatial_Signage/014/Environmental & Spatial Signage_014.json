@@ -1,11 +1,11 @@
 [
     {
-        "id": "Environmental & Spatial Signage_014",
+        "id": "TextEditing_Environmental & Spatial Signage_014",
         "topic": "Environmental & Spatial Signage",
         "prompt": "Add a sparkling effect to the text on the phone booth",
         "editing_method": "text_attribute",
         "difficulty": "easy",
-        "difficulty_score": "3(0,0,1,0,0,0,0,1,1,0)",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
         "input_image": "14.jpg",
         "source_tag": "human_annotation"
     }

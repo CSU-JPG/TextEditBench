@@ -1,11 +1,11 @@
 [
     {
-        "id": " &TextEditing_Environmental & Spatial Signage_004",
+        "id": "TextEditing_Environmental & Spatial Signage_004",
         "topic": "Environmental & Spatial Signage",
         "prompt": "make 'dubuque' bigger",
         "editing_method": "scaling",
         "difficulty": "easy",
-        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "difficulty_score": "2(0,0,0,0,1,0,0,0,1,0)",
         "input_image": "4.jpg",
         "source_tag": "human_annotation"
     }

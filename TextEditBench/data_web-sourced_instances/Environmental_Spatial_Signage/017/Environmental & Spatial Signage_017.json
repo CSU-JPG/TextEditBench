@@ -1,6 +1,6 @@
 [
     {
-        "id": "Environmental & Spatial Signage_017",
+        "id": "TextEditing_Environmental & Spatial Signage_017",
         "topic": "Environmental & Spatial Signage",
         "prompt": "Swap the font and background color of this brand.",
         "editing_method": "text_attribute",

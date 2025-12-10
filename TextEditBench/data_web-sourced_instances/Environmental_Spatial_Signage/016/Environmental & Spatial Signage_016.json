@@ -1,8 +1,8 @@
 [
     {
-        "id": "Environmental & Spatial Signage_016",
+        "id": "TextEditing_Environmental & Spatial Signage_016",
         "topic": "Environmental & Spatial Signage",
-        "prompt": "Translate this text into English",
+        "prompt": "Translate this text into Chinese",
         "editing_method": "text_change",
         "difficulty": "medium",
         "difficulty_score": "6(0,0,2,1,0,0,0,1,2,0)",
