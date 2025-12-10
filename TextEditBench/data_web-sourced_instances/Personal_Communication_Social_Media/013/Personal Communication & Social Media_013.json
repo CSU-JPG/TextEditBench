@@ -1,13 +1,13 @@
 [
     {
-        "id": " TextEditing_Professional Documents & Reports_013",
-        "topic": "Professional Documents & Reports",
+        "id": " TextEditing_Personal Communication & Social Media_013",
+        "topic": "Personal Communication & Social Media",
         "prompt": "Replace 'Portland' with a semantically similar term",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "2(0,0,0,0,0,0,0,0,0,2)",
         "input_image": "13.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Replace 'Portland' with a semantically similar term. As it is easy to infer that 'PDX' is semantically equivalent to 'Portland', and in line with semantic expectations, replacing 'Portland' with 'PDX' meets the requirements."
+        "knowledge_prompt": "The word 'Portland' refers to a specific city, and the task is to replace it with a semantically similar term. 'PDX' is commonly used as an abbreviation for Portland, especially in casual or shorthand contexts, and it retains the same semantic meaning. Replacing 'Portland' with 'PDX' aligns with the intended meaning while using a more concise expression."
     }
 ]

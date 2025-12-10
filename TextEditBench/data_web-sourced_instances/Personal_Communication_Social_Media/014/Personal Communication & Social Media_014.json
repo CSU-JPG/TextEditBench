@@ -1,11 +1,11 @@
 [
     {
-        "id": " TextEditing_Professional Documents & Reports_014",
-        "topic": "Professional Documents & Reports",
+        "id": " TextEditing_Personal Communication & Social Media_014",
+        "topic": "Personal Communication & Social Media",
         "prompt": "make 'new' smaller",
         "editing_method": "scaling",
         "difficulty": "easy",
-        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
+        "difficulty_score": "3(0,0,0,0,2,0,0,0,1,0)",
         "input_image": "14.jpg",
         "source_tag": "human_annotation"
     }

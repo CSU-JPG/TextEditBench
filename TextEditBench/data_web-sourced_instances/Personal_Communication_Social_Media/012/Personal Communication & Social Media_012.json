@@ -1,11 +1,11 @@
 [
     {
-        "id": " TextEditing_Professional Documents & Reports_012",
-        "topic": "Professional Documents & Reports",
+        "id": " TextEditing_Personal Communication & Social Media_012",
+        "topic": "Personal Communication & Social Media",
         "prompt": "Replace 'coffee' with 'tea'",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "3(1,0,0,0,0,0,0,0,0,2)",
+        "difficulty_score": "3(0,0,0,0,0,0,0,0,0,2)",
         "input_image": "12.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "Replace 'coffee' with 'tea'. To ensure the harmony of the picture, as can be seen from the semantic expectations, the relevant information on the picture, such as the drink icon, should also be changed to achieve overall unity."
