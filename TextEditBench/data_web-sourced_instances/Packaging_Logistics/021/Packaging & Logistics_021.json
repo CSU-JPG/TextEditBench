@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Packaging & Logistics_021",
         "topic": "Packaging & Logistics",
-        "prompt": "Change the label text on the tool case from '28.8' to '32.5', keeping font style, color, alignment, and placement consistent with the original numeric label.",
+        "prompt": "Change the label text on the tool case from '28.8' to '32.5'.",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "5(1,1,2,0,0,0,0,1,0,0)",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
         "input_image": "21.jpg",
         "source_tag": "human_annotation"
     }

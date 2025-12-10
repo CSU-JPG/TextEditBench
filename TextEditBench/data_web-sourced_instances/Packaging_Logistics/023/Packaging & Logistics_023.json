@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Packaging & Logistics_023",
         "topic": "Packaging & Logistics",
-        "prompt": "Change the text on the pizza box from 'HUT' to 'DEN', keeping capitalization, font size, alignment, and color consistent with the original print under the cat.",
+        "prompt": "Change the text on the pizza box from 'HUT' to 'DEN'.",
         "editing_method": "text_change",
-        "difficulty": "medium",
-        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "difficulty": "easy",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
         "input_image": "23.jpg",
         "source_tag": "human_annotation"
     }

@@ -5,9 +5,9 @@
     "prompt": "Replace the text in the image with synonyms",
     "editing_method": "text_change",
     "difficulty": "easy",
-    "difficulty_score": "4(0,0,0,0,1,0,0,1,0,2)",
+    "difficulty_score": "3(0,0,0,0,1,0,0,0,0,2)",
     "input_image": "5.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "A synonym for 'SAFETY' can be 'security', so 'SAFETY' can be replaced with 'SECURITY'."
+    "knowledge_prompt": "The word 'SAFETY' in the image expresses the idea of being protected from danger or harm, and the goal is to rewrite this text using a different word that conveys the same concept. A synonym such as 'SECURITY' can be used to preserve this underlying meaning while only changing the surface form, so the message still refers to protection and safety but with an alternative expression."
   }
 ]

@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Packaging & Logistics_016",
         "topic": "Packaging & Logistics",
-        "prompt": "Change the background signage text from 'WALKER' to 'RUNNER', maintaining capitalization, font weight, spacing, alignment, and lighting consistency with the original building sign.",
+        "prompt": "Change the background signage text from 'WALKER' to 'RUNNER'.",
         "editing_method": "text_change",
-        "difficulty": "medium",
-        "difficulty_score": "5(1,1,0,1,0,0,1,1,0,0)",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,0,0,0,2,0,0,0,0)",
         "input_image": "16.jpg",
         "source_tag": "human_annotation"
     }

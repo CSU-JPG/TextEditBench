@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Packaging & Logistics_014",
         "topic": "Packaging & Logistics",
-        "prompt": "Change every occurrence of the number '54' (front panel and both fabric tags) to '28', preserving the original typography, color, size per location, alignment, and perspective on the metal surface and tags.",
+        "prompt": "Change the number '54' to '28'.",
         "editing_method": "text_change",
-        "difficulty": "medium",
-        "difficulty_score": "6(2,1,0,1,0,0,1,1,0,0)",
+        "difficulty": "easy",
+        "difficulty_score": "1(0,0,0,0,1,0,0,0,0,0)",
         "input_image": "14.jpg",
         "source_tag": "human_annotation"
     }

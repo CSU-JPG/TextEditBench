@@ -2,7 +2,7 @@
   {
     "id": "TextEditing_Packaging & Logistics_002",
     "topic": "Packaging & Logistics",
-    "prompt": "Rotate all 'a' 15 degrees to the right",
+    "prompt": "Rotate all 'black' 15 degrees to the right",
     "editing_method": "text_relocation",
     "difficulty": "hard",
     "difficulty_score": "12(2,2,2,0,2,0,0,2,2,0)",

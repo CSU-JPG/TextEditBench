@@ -2,7 +2,7 @@
     {
         "id": " TextEditing_Packaging & Logistics_008",
         "topic": "Packaging & Logistics",
-        "prompt": "find the errors in the picture",
+        "prompt": "fix the text errors in the picture",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "5(1,0,0,0,0,0,0,0,0,2,2)",

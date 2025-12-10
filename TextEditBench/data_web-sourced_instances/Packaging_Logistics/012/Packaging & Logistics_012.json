@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Packaging & Logistics_012",
         "topic": "Environmental & Spatial Signage",
-        "prompt": "Change every occurrence of the vehicle label 'BARON' to 'FALCON' while preserving the original font, capitalization, alignment, and perspective on all visible surfaces.",
+        "prompt": "Change every occurrence of the vehicle label 'BARON' to 'FALCON'.",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "6(2,1,0,1,0,0,1,1,0,0)",
+        "difficulty_score": "3(1,0,0,0,1,0,0,1,0,0)",
         "input_image": "12.jpg",
         "source_tag": "human_annotation"
     }
