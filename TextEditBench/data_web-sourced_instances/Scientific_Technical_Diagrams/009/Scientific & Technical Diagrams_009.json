@@ -5,7 +5,7 @@
         "prompt": "Insert a text 'Garbage Collection' in the blank area in the lower right corner of the picture",
         "editing_method": "text_insert",
         "difficulty": "easy",
-        "difficulty_score": "3(0,0,0,0,0,0,2,1,0,0)",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
         "input_image": "9.jpg",
         "source_tag": "human_annotation"
     }

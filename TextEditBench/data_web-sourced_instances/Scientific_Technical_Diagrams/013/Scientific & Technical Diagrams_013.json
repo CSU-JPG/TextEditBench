@@ -5,7 +5,7 @@
         "prompt": "insert the name of the company at the bottom of the image.",
         "editing_method": "text_insert",
         "difficulty": "easy",
-        "difficulty_score": "5(1,0,0,0,0,0,2,0,0,2)",
+        "difficulty_score": "5(0,0,0,0,0,0,2,0,0,2)",
         "input_image": "13.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "It can be noticed on the top left of the image that the name of the company is 'Brocelle Company', so add it at the bottom of the image."

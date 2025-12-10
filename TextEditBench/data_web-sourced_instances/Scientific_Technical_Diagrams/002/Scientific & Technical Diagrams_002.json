@@ -4,8 +4,8 @@
         "topic": "Scientific & Technical Diagrams",
         "prompt": "translate all those subtitles from English to Chinese. ",
         "editing_method": "text_change",
-        "difficulty": "hard",
-        "difficulty_score": "12(2,2,2,0,0,0,2,0,2,2)",
+        "difficulty": "medium",
+        "difficulty_score": "10(2,2,2,2,0,0,0,0,2,0)",
         "input_image": "2.jpg",
         "source_tag": "human_annotation"
     }

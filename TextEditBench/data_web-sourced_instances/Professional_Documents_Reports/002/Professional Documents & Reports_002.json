@@ -4,10 +4,10 @@
         "topic": "Professional Documents & Reports",
         "prompt": "Make the tone of the text in the picture more forceful",
         "editing_method": "text_change",
-        "difficulty": "easy",
-        "difficulty_score": "4(0,2,0,0,0,0,0,0,0,2)",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,2,2,0,0,0,0,1,0,2)",
         "input_image": "2.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Make the tone of the text in the picture more forceful and strengthen the sense of certainty. According to the picture information, as can be seen from the semantic expectations, it is necessary to change 'I can do anything, not everything' to 'Don’t doubt it—I can do anything, but not everything!' to meet the requirement."
+        "knowledge_prompt": "To make the tone more forceful, transform the neutral statement into a confident, emphatic declaration that rejects doubt, uses stronger verbs and emphatic punctuation, and affirms the speaker can do anything, though not absolutely everything."
     }
 ]
