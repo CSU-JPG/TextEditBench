@@ -5,7 +5,7 @@
         "prompt":"Insert a minus sign ,the text 'gift certificate'and the deduction amount for this gift certificate after the text 'Cross-store discount'and its amount.",
         "editing_method":"text_insert",
         "difficulty":"easy",
-        "difficulty_score":"2(2,0,0,0,0,0,0,0,0,0)",
+        "difficulty_score":"4(2,0,0,0,0,0,0,0,0,2)",
         "input_image":"51.jpg",
         "output_image":"text_insert_51.jpg",
         "source_tag":"human_annotation",

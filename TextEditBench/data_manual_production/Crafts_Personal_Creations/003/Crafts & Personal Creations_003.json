@@ -5,7 +5,7 @@
         "prompt": "Translate only the sentence 'Ceramics' into Chinese.",
         "editing_method":"text_change",
         "difficulty":"easy",
-        "difficulty_score":"3(1,0,0,0,0,0,0,0,2,0)",
+        "difficulty_score":"4(1,0,0,2,0,0,0,1,2,0)",
         "input_image": "3.jpg",
         "output_image": "text_change_3.jpg",
         "source_tag": "human_annotation"

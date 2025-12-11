@@ -1,12 +1,14 @@
-{
-  "id": "TextEditing_Data & Analytics_013",
-  "topic": "Data & Analytics",
-  "prompt": "Update the 'Total Income' value for Category 1 from 3000 to 2000.",
-  "editing_method": "text_change",
-  "difficulty": "medium",
-  "difficulty_score": "7(2,2,1,0,0,0,0,1,1,0)",
-  "input_image": "13.jpg",
-  "output_image": "text_change_13.jpg",
-  "source_tag": "human_annotation",
-  "knowledge_prompt": "When changing Category 1's 'Total Income', adjust the line chart to reflect the new value."
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_013",
+    "topic": "Data & Analytics",
+    "prompt": "Update the 'Total Income' value for Category 1 from 3000 to 2000.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "9(2,2,1,0,0,0,0,1,1,2)",
+    "input_image": "13.jpg",
+    "output_image": "text_change_13.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "When changing Category 1's 'Total Income', adjust the line chart to reflect the new value."
+  }
+]

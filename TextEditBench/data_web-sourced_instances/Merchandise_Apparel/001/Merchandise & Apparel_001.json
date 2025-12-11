@@ -4,8 +4,8 @@
         "topic": "Merchandise & Apparel",
         "prompt": "fix the errors in the picture",
         "editing_method": "text_change",
-        "difficulty": "easy",
-        "difficulty_score": "5(0,0,1,0,0,0,0,0,2,2)",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,0,1,0,0,0,2,0,2,2)",
         "input_image": "1.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "Fix the error in the picture. According to the information in the picture, 'bees' has nothing to do with the content of the picture. As can be seen from the semantic expectations, replace 'bees' with 'scores' to ensure overall harmony."

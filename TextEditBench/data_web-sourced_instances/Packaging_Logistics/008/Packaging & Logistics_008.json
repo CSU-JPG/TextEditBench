@@ -4,8 +4,8 @@
         "topic": "Packaging & Logistics",
         "prompt": "fix the text errors in the picture",
         "editing_method": "text_change",
-        "difficulty": "easy",
-        "difficulty_score": "5(1,0,0,0,0,0,0,0,0,2,2)",
+        "difficulty": "medium",
+        "difficulty_score": "7(1,0,0,0,0,0,0,2,0,2,2)",
         "input_image": "8.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "Identify the error in the picture. According to the information in the picture, 'France' has no connection with it. To ensure the picture's harmony and meet the semantic expectation, replace 'France' with 'track'."

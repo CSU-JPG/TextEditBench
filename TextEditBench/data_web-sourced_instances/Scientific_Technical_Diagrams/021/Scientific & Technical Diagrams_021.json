@@ -5,7 +5,7 @@
         "prompt": "Fix the serial number error in the image",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "6(0,0,0,0,0,0,2,2,2)",
+        "difficulty_score": "8(0,0,0,0,0,0,2,2,2,2)",
         "input_image": "21.jpg",
         "source_tag": "human_annotation",
         "knowledge_prompt": "The serial numbers in the image are intended to follow a sequential order from 1 to 5, arranged from top to bottom. However, the third entry breaks this logical progression by repeating 4 instead of continuing the sequence with 3. Recognizing this pattern is essential to restore the correct numerical order."

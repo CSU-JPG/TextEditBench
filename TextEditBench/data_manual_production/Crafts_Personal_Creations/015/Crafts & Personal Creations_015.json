@@ -5,10 +5,10 @@
         "prompt": "Turn 'countryside'into 'ancient city'",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "difficulty_score": "4(0,0,0,0,0,0,0,2,0,2)",
         "input_image": "15.jpg",
         "output_image": "text_change_15.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": " countryside is one of the important themes that dominate the whole picture. The indication of transforming the countryside into an ancient city means that the semantic expectation that the background strongly associated with the text should also reflect this change, so as to ensure that all visual elements are consistent with the theme of the text."
+        "knowledge_prompt": "countryside is one of the important themes that dominate the whole picture. The indication of transforming the countryside into an ancient city means that the semantic expectation that the background strongly associated with the text should also reflect this change, so as to ensure that all visual elements are consistent with the theme of the text."
     }
 ]

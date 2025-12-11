@@ -5,7 +5,7 @@
         "prompt": "Modify the size of the sentence 'personal studio' so that it can not be blocked.",
         "editing_method":"scaling",
         "difficulty":"easy",
-        "difficulty_score":"2(1,0,0,0,0,1,0,0,1,0)",
+        "difficulty_score":"2(0,0,0,0,0,1,0,0,1,0)",
         "input_image": "8.jpg",
         "output_image": "scaling_8.jpg",
         "source_tag": "human_annotation"

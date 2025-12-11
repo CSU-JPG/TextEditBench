@@ -5,7 +5,7 @@
         "prompt": "Fix the errors in the picture",
         "editing_method":"text_change",
         "difficulty":"medium",
-        "difficulty_score":"6(0,0,2,0,0,0,0,0,2,2)",
+        "difficulty_score":"8(0,0,2,0,0,0,2,0,2,2)",
         "input_image": "46.jpg",
         "output_image": "text_change_46.jpg",
         "source_tag": "human_annotation",

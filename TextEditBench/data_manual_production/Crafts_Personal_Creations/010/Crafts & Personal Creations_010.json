@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Crafts & Personal Creations_010",
         "topic": "Crafts & Personal Creations",
-        "prompt": "Turn all the words into blue tones, while ensuring the overall harmony of the picture.",
+        "prompt": "Turn all the words into blue tones, while ensuring the overall harmony of the picture by changing other things.",
         "editing_method":"text_attribute",
-        "difficulty":"easy",
-        "difficulty_score":"5(2,2,0,0,0,0,0,0,1,0)",
+        "difficulty":"medium",
+        "difficulty_score":"7(2,2,0,0,0,0,0,0,1,2)",
         "input_image": "10.jpg",
         "output_image": "text_attribute_10.jpg",
         "source_tag": "human_annotation",

@@ -4,8 +4,8 @@
         "topic": "Business & Advertising",
         "prompt": "fix the errors in the picture",
         "editing_method": "text_change",
-        "difficulty": "easy",
-        "difficulty_score": "5(0,0,0,0,1,0,0,0,2,2)",
+        "difficulty": "medium",
+        "difficulty_score": "7(0,0,0,0,1,0,2,0,2,2)",
         "input_image": "24.jpg",
         "source_tag": "model_generated",
         "knowledge_prompt": "Fix the error in the picture. Based on the information in the picture, 'miian' has a spelling mistake. As implied by the semantic expectation, correct 'miian' to 'main'"
