@@ -1,11 +1,11 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_018",
+        "id": "TextEditing_Digtial Interfaces & Reports_018",
         "topic": "Digtial Interfaces & Reports",
-        "prompt": "'Stellar Dreams' text should be inverted in the middle. The text is positioned slightly above the center of the image.",
+        "prompt": "Adjust the inverted text 'Stellar Dreams' in the center of the image to a normal, upright direction.",
         "editing_method":"text_relocation",
-        "difficulty":"middle",
-        "difficulty_score":"10(2,0,2,2,0,0,0,2,2,0)",
+        "difficulty":"medium",
+        "difficulty_score":"8(0,0,2,2,0,0,0,2,2,0)",
         "input_image": "18.jpg",
         "output_image": "text_relocation_18.jpg",
         "source_tag": "human_annotation"

@@ -1,11 +1,11 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_011",
+        "id": "TextEditing_Digtial Interfaces & Reports_011",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "The words '处理器' are slightly to the right; shift them to the left so that they are roughly aligned symmetrically with the processor icon.",
         "editing_method":"text_relocation",
         "difficulty":"easy",
-        "difficulty_score":"5(2,0,0,2,0,0,0,0,1,0)",
+        "difficulty_score":"3(0,1,0,1,0,0,0,0,1,0)",
         "input_image": "11.jpg",
         "output_image": "text_relocation_11.jpg",
         "source_tag": "human_annotation "

@@ -1,14 +1,14 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_003",
+        "id": "TextEditing_Digtial Interfaces & Reports_003",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "Correct the incorrect time information in the image",
         "editing_method":"text_change",
         "difficulty":"medium",
-        "difficulty_score":"9(2,0,0,0,0,0,2,1,2,2)",
+        "difficulty_score":"8(0,0,0,0,0,0,2,2,2,2)",
         "input_image": "3.jpg",
         "output_image": "text_change_3.jpg",
-        "source_tag": "human_generated",
+        "source_tag": "human_annotation",
         "knowledge_prompt":"The time is wrong,April does not have 35 days."
     }
 ]

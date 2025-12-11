@@ -1,13 +1,13 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_016",
+        "id": "TextEditing_Digtial Interfaces & Reports_016",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "Proportionally reduce all the text within the black area in the lower part of the image in the same direction and orientation.",
         "editing_method":"scaling",
         "difficulty":"medium",
-        "difficulty_score":"10(2,2,1,2,0,1,0,1,1,0)",
+        "difficulty_score":"10(0,2,2,2,0,1,0,2,1,0)",
         "input_image": "16.jpg",
         "output_image": "scaling_16.jpg",
         "source_tag": "human_annotation"
-        }
+    }
 ]

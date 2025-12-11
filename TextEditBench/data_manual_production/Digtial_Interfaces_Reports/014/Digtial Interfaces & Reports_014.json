@@ -1,14 +1,14 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_014",
+        "id": "TextEditing_Digtial Interfaces & Reports_014",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "The 'about us' at the top of the entire image, which is heavily blocked, should be changed to 'FOR YOU'.",
         "editing_method":"text_change",
-        "difficulty":"medium",
-        "difficulty_score":"10(2,2,0,2,0,2,0,0,0,2)",
+        "difficulty":"hard",
+        "difficulty_score":"11(1,2,1,2,0,2,0,1,0,2)",
         "input_image": "14.jpg",
         "output_image": "text_change_14.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt":"In order to maintain visual and semantic consistency of the image, other occurrences of the phrase '关于我们', including the text near the bottom left corner and the smaller version next to the image on the left, are also expected to be semantically updated to the English 'FORYOU' and the Chinese '为了你'."
+        "knowledge_prompt":"In order to maintain visual and semantic consistency of the image, other occurrences of the phrase '关于我们', including the text near the bottom left corner and the smaller version next to the image on the left, are also expected to be semantically updated to the English 'FORYOU' and the Chinese '为了你们'."
     }
 ]

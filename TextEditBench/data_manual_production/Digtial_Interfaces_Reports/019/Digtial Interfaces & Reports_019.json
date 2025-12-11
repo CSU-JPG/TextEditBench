@@ -1,13 +1,13 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_019",
+        "id": "TextEditing_Digtial Interfaces & Reports_019",
         "topic": "Digtial Interfaces & Reports",
-        "prompt": "The website is under maintenance. Make this text bold.",
+        "prompt": " Make 'The website is being maintained.' bold.",
         "editing_method":"text_attribute",
         "difficulty":"medium",
-        "difficulty_score":"8(2,2,0,2,0,0,0,1,1,0)",
+        "difficulty_score":"6(0,2,0,2,0,0,0,1,1,0)",
         "input_image": "19.jpg",
         "output_image": "text_attribute_19.jpg",
         "source_tag": "human_annotation"
-        }
+    }
 ]

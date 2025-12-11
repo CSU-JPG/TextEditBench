@@ -1,13 +1,13 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_009",
+        "id": "TextEditing_Digtial Interfaces & Reports_009",
         "topic": "Digtial Interfaces & Reports",
-        "prompt": "Replace the text inside <> with with:'Mountain Gongga' and 'Mountain Sgula' ",
+        "prompt": "Replace the text inside <> with 'Mountain Gongga' and 'Mountain Sgula' ",
         "editing_method":"text_change",
         "difficulty":"easy",
-        "difficulty_score":"4(1,2,0,0,0,0,0,1,0,0)",
+        "difficulty_score":"3(0,1,0,0,0,0,0,2,0,0)",
         "input_image": "9.jpg",
         "output_image": "text_change_9.jpg",
-        "source_tag": "human_generated"
+        "source_tag": "human_annotation"
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_020",
+        "id": "TextEditing_Digtial Interfaces & Reports_020",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "The time currently displayed by the cursor shows the humidity at a location on the western coast of North Korea. Adjust the position appropriately so that it shows the current humidity in Taiyuan.",
         "editing_method":"text_relocation",
-        "difficulty":"difficult",
-        "difficulty_score":"11(2,1,1,0,0,0,2,1,2,2)",
+        "difficulty":"hard",
+        "difficulty_score":"11(0,1,2,1,0,0,2,2,1,2)",
         "input_image": "20.jpg",
         "output_image": "text_relocation_20.jpg",
         "source_tag": "human_annotation",

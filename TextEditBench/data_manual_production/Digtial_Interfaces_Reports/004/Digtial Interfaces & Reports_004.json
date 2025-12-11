@@ -1,15 +1,14 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_004",
+        "id": "TextEditing_Digtial Interfaces & Reports_004",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "Insert an appropriate caption for this section of the image,above the mainly text",
         "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"6(2,0,0,0,0,0,2,0,0,2)",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,0,1,0,0,0,2,0,0,2)",
         "input_image": "4.jpg",
         "output_image": "text_insert_4.jpg",
-        "source_tag": "human_generated",
-        "knowledge_prompt":"Because you are asked to insert a title, it means that the semantics expects the inserted text to summarize the three sentences in the picture, and then insert the title above the text."
-
+        "source_tag": "human_annotation",
+        "knowledge_prompt":"Inserting a title, it means that the semantics expects the inserted text to summarize the three sentences in the picture, and then insert the title above the text."
     }
 ]

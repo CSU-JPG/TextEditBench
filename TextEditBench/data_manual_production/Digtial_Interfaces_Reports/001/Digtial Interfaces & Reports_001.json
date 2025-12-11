@@ -1,14 +1,14 @@
 [
     {
-        "id": "Digtial Interfaces & Reports_001",
+        "id": "TextEditing_Digtial Interfaces & Reports_001",
         "topic": "Digtial Interfaces & Reports",
         "prompt": "Replace the time with '5:14' which is on the left side of the time display section",
         "editing_method":"text_change",
         "difficulty":"easy",
-        "difficulty_score":"4(2,0,0,0,0,0,0,0,0,2)",
+        "difficulty_score":"4(1,0,0,0,0,0,2,0,0,2)",
         "input_image": "1.jpg",
         "output_image": "text_change_1.jpg",
-        "source_tag": "human_generated",
+        "source_tag": "human_annotation",
         "knowledge_prompt":"When the time display text is modified, the music playback progress bar should also be dragged to the corresponding position to ensure synchronization."
     }
 ]
