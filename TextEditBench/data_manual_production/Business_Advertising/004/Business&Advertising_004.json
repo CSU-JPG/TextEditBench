@@ -2,13 +2,13 @@
     {
         "id":"TextEditing_Business&Advertising_004",
         "topic":"Business&Advertising",
-        "prompt":"Insert the Chinese text '可瓦' before the Chinese text '美甲'",
+        "prompt":"Insert the text '可瓦' before the text '美甲' to be '可瓦美甲'",
         "editing_method":"text_insert",
-        "difficulty":"easy",
-        "difficulty_score":"4(2,0,0,2,0,0,0,0,0,0)",
+        "difficulty":"medium",
+        "difficulty_score":"7(1,1,1,2,0,0,0,0,0,2)",
         "input_image":"4.jpg",
         "output_image":"text_insert_4.jpg",
         "source_tag":"human_annotation",
-        "knowledge_prompt":"Inserting the chinese text '可瓦' before the Chinese text '美甲' means that the corresponding store English name should also be inserted into the corresponding text."
+        "knowledge_prompt":"Since the shop name appears in both Chinese and English, changing the Chinese text from '美甲' to '可瓦美甲' semantically implies that the corresponding English shop name should also reflect 'Kewa' so that the bilingual naming remains consistent."
     }
 ]

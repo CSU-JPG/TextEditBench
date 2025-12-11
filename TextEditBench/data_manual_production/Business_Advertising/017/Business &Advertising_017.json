@@ -9,6 +9,6 @@
         "input_image": "17.jpg",
         "output_image": "text_change_17.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "If the semantics are required to remain unchanged, then the semantic expectation can only modify the text without changing the overall meaning. From the picture, we can see that the semantic expectation is to write that a person is the most popular."
+        "knowledge_prompt": "If the semantics are required to remain unchanged, the semantic requirement is only to modify the text without altering the overall meaning. From the picture, we can see that this requirement is to write a word meaning 'a person who is the most popular' to replace the original content."
     }
 ]

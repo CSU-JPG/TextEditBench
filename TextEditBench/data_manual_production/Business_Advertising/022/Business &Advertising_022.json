@@ -9,6 +9,6 @@
         "input_image": "22.jpg",
         "output_image": "text_change_22.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Because Mother's Day is different every year, when 2024 is changed to 2025, the corresponding activity date should also be revised."
+        "knowledge_prompt": "Because Mother's Day is different every year, when 2024 is changed to 2025, the corresponding activity date should also be revised.The date in 2025 is May 11th."
     }
 ]

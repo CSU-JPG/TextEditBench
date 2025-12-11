@@ -5,7 +5,7 @@
         "prompt":"Rotate the text 'Stock Up Festival'clockwise by 90 degrees.",
         "editing_method":"text_relocation",
         "difficulty":"medium",
-        "difficulty_score":"10(2,2,1,2,0,0,0,1,2,0)",
+        "difficulty_score":"7(0,1,1,2,0,0,0,1,2,0)",
         "input_image":"10.jpg",
         "output_image":"text_relocation_10.jpg",
         "source_tag":"human_annotation"
