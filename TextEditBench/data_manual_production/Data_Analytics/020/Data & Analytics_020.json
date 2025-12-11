@@ -2,13 +2,13 @@
   {
     "id": "TextEditing_Data & Analytics_020",
     "topic": "Data & Analytics",
-    "prompt": "Delete the 'Fish Oil' table entry and its corresponding bar in the chart",
+    "prompt": "Delete the 'Fish Oil' table entry",
     "editing_method": "text_delete",
     "difficulty": "medium",
-    "difficulty_score": "9(2,2,1,0,0,0,0,1,1,2)",
+    "difficulty_score": "7(0,1,1,0,0,0,2,1,0,2)",
     "input_image": "20.jpg",
     "output_image": "text_delete_20.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "Deleting the 'Fish Oil' table entry requires deleting the matching bar in the chart to keep data consistent."
+    "knowledge_prompt": "The “Fish Oil” entry is represented both in the table and the bar chart, so deleting it from the table semantically implies removing its corresponding bar as well to keep the data and its visual representation consistent."
   }
 ]

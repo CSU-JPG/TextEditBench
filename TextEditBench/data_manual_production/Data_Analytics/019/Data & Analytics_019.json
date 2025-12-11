@@ -1,11 +1,13 @@
-{
-  "id": "TextEditing_Data & Analytics_019",
-  "topic": "Data & Analytics",
-  "prompt": "Delete the paragraph at the bottom of the image that reads: 'Platforms provide high-quality content for education-interested users and realize the whole-link consumption conversion from generating interest to making purchases.'",
-  "editing_method": "text_delete",
-  "difficulty": "easy",
-  "difficulty_score": "5(2,1,0,0,0,0,0,1,1,0)",
-  "input_image": "19.jpg",
-  "output_image": "text_delete_19.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_019",
+    "topic": "Data & Analytics",
+    "prompt": "Delete the paragraph at the bottom of the image that reads: 'Platforms provide high-quality content for education-interested users and realize the whole-link consumption conversion from generating interest to making purchases.'",
+    "editing_method": "text_delete",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+    "input_image": "19.jpg",
+    "output_image": "text_delete_19.jpg",
+    "source_tag": "human_annotation"
+  }
+]

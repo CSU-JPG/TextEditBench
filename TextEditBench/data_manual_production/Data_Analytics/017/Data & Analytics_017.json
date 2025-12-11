@@ -1,11 +1,13 @@
-{
-  "id": "TextEditing_Data & Analytics_017_change",
-  "topic": "Data & Analytics",
-  "prompt": "Change the title from 'Gantt Chart for Project Management' to 'ZD24 Project Timeline at a Glance'.",
-  "editing_method": "text_change",
-  "difficulty": "easy",
-  "difficulty_score": "6(2,2,0,0,0,0,0,1,1,0)",
-  "input_image": "17.jpg",
-  "output_image": "text_change_17.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_017",
+    "topic": "Data & Analytics",
+    "prompt": "Change the title from 'Gantt Chart for Project Management' to 'ZD24 Project Timeline at a Glance'.",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,2,2,0,0,0,0,1,0,0)",
+    "input_image": "17.jpg",
+    "output_image": "text_change_17.jpg",
+    "source_tag": "human_annotation"
+  }
+]

@@ -1,11 +1,13 @@
-{
-  "id": "TextEditing_Data & Analytics_018",
-  "topic": "Data & Analytics",
-  "prompt": "Change the font color of the subtitle 'Accelerate Upgrading Relying on the Growth Flywheel E-commerce Whole-domain Operation Methodology' to brown.",
-  "editing_method": "text_attribute",
-  "difficulty": "easy",
-  "difficulty_score": "5(2,1,0,0,0,0,0,1,1,0)",
-  "input_image": "18.jpg",
-  "output_image": "text_attribute_18.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_018",
+    "topic": "Data & Analytics",
+    "prompt": "Change the font color of the subtitle 'Accelerate Upgrading Relying on the Growth Flywheel E-commerce Whole-domain Operation Methodology' to brown.",
+    "editing_method": "text_attribute",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
+    "input_image": "18.jpg",
+    "output_image": "text_attribute_18.jpg",
+    "source_tag": "human_annotation"
+  }
+]

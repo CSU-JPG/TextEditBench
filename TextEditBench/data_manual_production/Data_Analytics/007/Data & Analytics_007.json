@@ -4,8 +4,8 @@
     "topic": "Data & Analytics",
     "prompt": "Change 'Brand awareness is constantly improving, and customer satisfaction is also steadily rising' to 'Brand recognition continues to grow, and customer satisfaction is steadily improving'",
     "editing_method": "text_change",
-    "difficulty": "medium",
-    "difficulty_score": "5(2,1,0,1,0,0,0,1,0,0)",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
     "input_image": "7.jpg",
     "output_image": "text_change_7.jpg",
     "source_tag": "human_annotation"

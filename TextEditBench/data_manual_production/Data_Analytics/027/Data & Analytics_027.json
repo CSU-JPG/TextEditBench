@@ -5,7 +5,7 @@
     "prompt": "Insert the title 'The life cycle of ladybugs' below 'Prof. Nguyen's Science class'.",
     "editing_method": "text_insert",
     "difficulty": "easy",
-    "difficulty_score": "4(1,1,1,0,1,0,0,0,0,0)",
+    "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
     "input_image": "27.jpg",
     "output_image": "text_insert_27.jpg",
     "source_tag": "human_annotation"

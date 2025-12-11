@@ -1,11 +1,13 @@
-{
-  "id": "TextEditing_Data & Analytics_015_attribute",
-  "topic": "Data & Analytics",
-  "prompt": "Change the font style of the top header text 'UNDERSTAND IN ONE CHART' to italic.",
-  "editing_method": "text_attribute",
-  "difficulty": "easy",
-  "difficulty_score": "5(2,1,0,0,0,0,0,1,1,0)",
-  "input_image": "15.jpg",
-  "output_image": "text_attribute_15.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_015",
+    "topic": "Data & Analytics",
+    "prompt": "Change the font style of the top header text 'UNDERSTAND IN ONE CHART' to italic.",
+    "editing_method": "text_attribute",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,1,0,0,0,0,0,1,1,0)",
+    "input_image": "15.jpg",
+    "output_image": "text_attribute_15.jpg",
+    "source_tag": "human_annotation"
+  }
+]

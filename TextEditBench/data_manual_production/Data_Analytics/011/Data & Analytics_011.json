@@ -1,11 +1,13 @@
-{
-  "id": "TextEditing_Data & Analytics_011",
-  "topic": "Data & Analytics",
-  "prompt": "Change the title 'Content Consumption Situation of Different Forms in the Food and Beverage Industry in 2023' to '2023 Food & Beverage Content Engagement Report'",
-  "editing_method": "text_change",
-  "difficulty": "medium",
-  "difficulty_score": "8(2,2,1,0,0,0,0,2,1,0)",
-  "input_image": "11.jpg",
-  "output_image": "text_change_11.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_011",
+    "topic": "Data & Analytics",
+    "prompt": "Change the title 'Content Consumption Situation of Different Forms in the Food and Beverage Industry in 2023' to '2023 Food & Beverage Content Engagement Report'",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "2(0,2,0,0,0,0,0,0,0,0)",
+    "input_image": "11.jpg",
+    "output_image": "text_change_11.jpg",
+    "source_tag": "human_annotation"
+  }
+]

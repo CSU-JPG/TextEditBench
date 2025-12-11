@@ -1,11 +1,14 @@
-{
-  "id": "TextEditing_Data & Analytics_033",
-  "topic": "Data & Analytics",
-  "prompt": "Correct the spelling of 'structr' to 'structure' in the title",
-  "editing_method": "text_change",
-  "difficulty": "easy",
-  "difficulty_score": "2(1,1,0,0,0,0,0,0,0,0)",
-  "input_image": "33.jpg",
-  "output_image": "text_change_33.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_033",
+    "topic": "Data & Analytics",
+    "prompt": "Correct the spelling mistake in the title",
+    "editing_method": "text_change",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,0,0,0,0,0,0,2,2)",
+    "input_image": "33.jpg",
+    "output_image": "text_change_33.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt":"The title contains a misspelling ('structr'), so the expectation is to correct it to the proper form 'structure' while preserving the original meaning."
+  }
+]

@@ -5,10 +5,10 @@
     "prompt": "Change the Sales Amount in Month X for region1 from ¥317,900.00 to ¥320,000.00.",
     "editing_method": "text_change",
     "difficulty": "hard",
-    "difficulty_score": "13(2,2,1,0,2,0,0,2,2,2)",
+    "difficulty_score": "11(2,2,1,0,0,0,2,2,0,2)",
     "input_image": "28.jpg",
     "output_image": "text_change_28.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "Update the sales proportion chart,update the bar chart height for region1 and recalculate region1's achievement rate to 80.00%."
+    "knowledge_prompt": "Changing the Sales Amount for Month X in region1 implies that the sales proportion chart, the bar height for region1, and its achievement rate should all be updated to stay consistent with the new value."
   }
 ]

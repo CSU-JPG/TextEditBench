@@ -5,10 +5,10 @@
     "prompt": "Update the 'Total Income' value for Category 1 from 3000 to 2000.",
     "editing_method": "text_change",
     "difficulty": "medium",
-    "difficulty_score": "9(2,2,1,0,0,0,0,1,1,2)",
+    "difficulty_score": "6(1,0,0,0,0,0,2,1,0,2)",
     "input_image": "13.jpg",
     "output_image": "text_change_13.jpg",
     "source_tag": "human_annotation",
-    "knowledge_prompt": "When changing Category 1's 'Total Income', adjust the line chart to reflect the new value."
+    "knowledge_prompt": "The 'Total Income' for Category 1 is represented both in the table and the line chart, so changing the value from 3000 to 2000 semantically requires the line chart’s plotted value to match this update, keeping the numeric data and its visual representation consistent."
   }
 ]

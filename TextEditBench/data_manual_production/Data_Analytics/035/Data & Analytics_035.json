@@ -1,11 +1,13 @@
-{
-  "id": "TextEditing_Data & Analytics_035",
-  "topic": "Data & Analytics",
-  "prompt": "Change all text fonts in the 'Project Investment Analysis Table' from Source Han font to Kahuali font.",
-  "editing_method": "text_attribute",
-  "difficulty": "medium",
-  "difficulty_score": "8(2,2,1,0,0,0,0,2,1,0)",
-  "input_image": "35.jpg",
-  "output_image":  "text_attribute_35.jpg",
-  "source_tag": "human_annotation"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_035",
+    "topic": "Data & Analytics",
+    "prompt": "Change all text fonts in the 'Project Investment Analysis Table' from Source Han font to Kahuali font.",
+    "editing_method": "text_attribute",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,1,1,0,0,0,0,1,1,0)",
+    "input_image": "35.jpg",
+    "output_image": "text_attribute_35.jpg",
+    "source_tag": "human_annotation"
+  }
+]

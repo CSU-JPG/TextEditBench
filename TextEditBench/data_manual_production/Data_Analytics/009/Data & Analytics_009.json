@@ -2,10 +2,10 @@
   {
     "id": "TextEditing_Data & Analytics_009",
     "topic": "Data & Analytics",
-    "prompt": "Swap the positions of Lifestyle and Content Preferences sections",
+    "prompt": "Swap the positions of 'Lifestyle' and 'Content Preferences' sections",
     "editing_method": "text_relocation",
     "difficulty": "medium", 
-    "difficulty_score": "5(2,1,0,1,0,0,0,1,0,0)",
+    "difficulty_score": "6(0,2,1,2,0,0,0,0,1,0)",
     "input_image": "9.jpg",
     "output_image": "text_relocation_9.jpg",
     "source_tag": "human_annotation"

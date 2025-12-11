@@ -1,12 +1,14 @@
-{
-  "id": "TextEditing_Data & Analytics_031",
-  "topic": "Data & Analytics",
-  "prompt": "Swap the positions of the 'EDUCATION' and 'ABOUT ME'",
-  "editing_method": "text_relocation",
-  "difficulty": "easy",
-  "difficulty_score": "5(1,1,1,0,0,0,0,0,0,2)",
-  "input_image": "31.jpg",
-  "output_image": "text_relocation_31.jpg",
-  "source_tag": "human_annotation",
-  "knowledge_prompt": "Swapped the 'EDUCATION' and 'ABOUT ME' section titles, so the corresponding text paragraphs should also be swapped in position"
-}
+[
+  {
+    "id": "TextEditing_Data & Analytics_031",
+    "topic": "Data & Analytics",
+    "prompt": "Swap the positions of the 'EDUCATION' and 'ABOUT ME'",
+    "editing_method": "text_relocation",
+    "difficulty": "medium",
+    "difficulty_score": "7(1,2,1,0,0,0,0,0,1,2)",
+    "input_image": "31.jpg",
+    "output_image": "text_relocation_31.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Swapping the positions of 'EDUCATION' and 'ABOUT ME' semantically implies that the corresponding content blocks beneath these headings should also exchange positions so that each title remains aligned with its appropriate paragraph."
+  }
+]
