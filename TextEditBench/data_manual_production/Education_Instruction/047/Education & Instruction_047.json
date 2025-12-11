@@ -2,11 +2,11 @@
         "id": "TextEditing_Education & Instruction_047",
         "topic": "Education & Instruction",
         "prompt": "Insert a short and lively advertising slogan.",
-        "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"6(0,2,1,0,0,0,1,0,2)",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,1,0,0,0,1,0,2)",
         "input_image": "47.jpg",
         "output_image": "text_insert_47.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Generate an advertisement based on information such as 'zero basics' and 'learn guitar'. Add the phrase 'rock your music journey' to make the sentence more lively."
-   }
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Generate an advertisement based on information such as 'zero basics' and 'learn guitar'. Add the phrase 'rock your music journey' to make the sentence more lively."
+}

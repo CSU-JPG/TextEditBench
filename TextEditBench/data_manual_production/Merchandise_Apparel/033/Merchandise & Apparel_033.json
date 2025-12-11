@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_033",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Insert 'Wash away fatigue, leaving your body soft and fragrant' in the blank space directly below the picture.",
-        "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"7(0,2,2,2,0,0,0,1,0,0)",
-        "input_image": "33.jpg",
-        "output_image": "text_insert_33.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_033",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Insert 'Wash away fatigue, leaving your body soft and fragrant' in the blank space directly below the picture.",
+    "editing_method": "text_insert",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,2,2,0,0,0,1,0,0)",
+    "input_image": "33.jpg",
+    "output_image": "text_insert_33.jpg",
+    "source_tag": "human_annotation"
+}

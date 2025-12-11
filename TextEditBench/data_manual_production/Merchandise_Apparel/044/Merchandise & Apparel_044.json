@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_044",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Move the title'Spring New' below the characters.",
-        "editing_method":"text_relocation",
-        "difficulty":"easy",
-        "difficulty_score":"3(0,0,0,0,0,0,0,1,2,0)",
-        "input_image": "44.jpg",
-        "output_image": "text_relocation_44.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_044",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Move the title'Spring New' below the characters.",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,0,0,0,0,0,0,1,2,0)",
+    "input_image": "44.jpg",
+    "output_image": "text_relocation_44.jpg",
+    "source_tag": "human_annotation"
+}

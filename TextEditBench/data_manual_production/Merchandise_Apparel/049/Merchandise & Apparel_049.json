@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_049",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Reduce the font size of 'Eat Full'.",
-        "editing_method":"scaling",
-        "difficulty":"easy",
-        "difficulty_score":"5(0,1,2,0,0,0,0,1,1,0)",
-        "input_image": "49.jpg",
-        "output_image": "scaling_49.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_049",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Reduce the font size of 'Eat Full'.",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,1,2,0,0,0,0,1,1,0)",
+    "input_image": "49.jpg",
+    "output_image": "scaling_49.jpg",
+    "source_tag": "human_annotation"
+}

@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_038",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Change the font of 'Up to 50% off sitewide, pre-order now'.",
-        "editing_method":"text_attribute",
-        "difficulty":"medium",
-        "difficulty_score":"8(0,2,2,2,0,0,0,1,1,0)",
-        "input_image": "38.jpg",
-        "output_image": "text_attribute_38.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_038",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Change the font of 'Up to 50% off sitewide, pre-order now'.",
+    "editing_method": "text_attribute",
+    "difficulty": "medium",
+    "difficulty_score": "8(0,2,2,2,0,0,0,1,1,0)",
+    "input_image": "38.jpg",
+    "output_image": "text_attribute_38.jpg",
+    "source_tag": "human_annotation"
+}

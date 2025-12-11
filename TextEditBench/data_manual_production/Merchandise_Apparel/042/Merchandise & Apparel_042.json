@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_042",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Move 'Outfit Of The Day' horizontally to the right.",
-        "editing_method":"text_relocation",
-        "difficulty":"easy",
-        "difficulty_score":"5(0,0,2,0,0,0,0,1,2,0)",
-        "input_image": "42.jpg",
-        "output_image": "text_relocation_42.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_042",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Move 'Outfit Of The Day' horizontally to the right.",
+    "editing_method": "text_relocation",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,0,2,0,0,0,0,1,2,0)",
+    "input_image": "42.jpg",
+    "output_image": "text_relocation_42.jpg",
+    "source_tag": "human_annotation"
+}

@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_040",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Change the font of 'Hot items for winter'.",
-        "editing_method":"text_attribute",
-        "difficulty":"medium",
-        "difficulty_score":"7(0,1,2,2,0,0,0,1,1,0)",
-        "input_image": "40.jpg",
-        "output_image": "text_attribute_40.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_040",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Change the font of 'Hot items for winter'.",
+    "editing_method": "text_attribute",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,1,2,2,0,0,0,1,1,0)",
+    "input_image": "40.jpg",
+    "output_image": "text_attribute_40.jpg",
+    "source_tag": "human_annotation"
+}

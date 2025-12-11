@@ -1,12 +1,14 @@
-{
+[
+    {
         "id": "TextEditing_Education & Instruction_036",
         "topic": "Education & Instruction",
         "prompt": "Add a blurb in the space below the price.",
-        "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"8(0,2,1,2,0,0,0,1,0,2)",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,2,1,2,0,0,0,1,0,2)",
         "input_image": "36.jpg",
         "output_image": "text_insert_36.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Find the location of the price in the picture and add advertising words based on the information in the picture. Generate advertising words based on 'Sunshine Early Childhood Education Class'."
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Since the added blurb should align with the thematic content of the image, the semantic expectation is that the generated wording reflects the nature of the “Sunshine Early Childhood Education Class,” providing a short promotional line consistent with the subject shown."
     }
+]

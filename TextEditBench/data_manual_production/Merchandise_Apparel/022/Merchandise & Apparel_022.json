@@ -1,13 +1,12 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_022",
-        "topic": "Merchandise & Apparel",
-        "prompt": "All beverage products are offered at a 50% discount.",
-        "editing_method":"text_change",
-        "difficulty":"medium",
-        "difficulty_score":"6(2,1,0,0,0,0,0,1,0,2)",
-        "input_image": "22.jpg",
-        "output_image": "text_change_22.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"First locate the beverage section in the picture, then calculate a 50% discount on all beverage prices. Specifically, 18*0.5=9, 20*0.5=10, and 22*0.5=11."
-
-    }
+    "id": "TextEditing_Merchandise & Apparel_022",
+    "topic": "Merchandise & Apparel",
+    "prompt": "All beverage products are offered at a 50% discount.",
+    "editing_method": "text_change",
+    "difficulty": "medium",
+    "difficulty_score": "6(2,1,0,0,0,0,0,1,0,2)",
+    "input_image": "22.jpg",
+    "output_image": "text_change_22.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "First locate the beverage section in the picture, then calculate a 50% discount on all beverage prices. Specifically, 18*0.5=9, 20*0.5=10, and 22*0.5=11."
+}

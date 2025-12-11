@@ -2,10 +2,10 @@
         "id": "TextEditing_Merchandise & Apparel_001",
         "topic": "Merchandise & Apparel",
         "prompt": "Add the words 'A girl should be two things, classy and fabulous' in the blank space on the left and right sides of the picture.",
-        "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"8(2,2,1,0,0,0,0,1,0,2)",
+        "editing_method": "text_insert",
+        "difficulty": "medium",
+        "difficulty_score": "8(2,2,1,0,0,0,0,1,0,2)",
         "input_image": "1.jpg",
         "output_image": "text_insert_1.jpg",
-        "source_tag": "human_innoration"
+        "source_tag": "human_annotation"
 }

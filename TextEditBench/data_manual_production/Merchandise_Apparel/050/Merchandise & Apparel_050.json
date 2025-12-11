@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_050",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Reduce the font size of 'New product launch'.",
-        "editing_method":"scaling",
-        "difficulty":"easy",
-        "difficulty_score":"5(0,1,0,2,0,0,0,1,1,0)",
-        "input_image": "50.jpg",
-        "output_image": "scaling_50.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_050",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Reduce the font size of 'New product launch'.",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "5(0,1,0,2,0,0,0,1,1,0)",
+    "input_image": "50.jpg",
+    "output_image": "scaling_50.jpg",
+    "source_tag": "human_annotation"
+}

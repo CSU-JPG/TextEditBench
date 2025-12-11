@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_047",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Make the font size of 'CHIC LOOK' larger.",
-        "editing_method":"scaling",
-        "difficulty":"easy",
-        "difficulty_score":"3(0,0,1,0,0,0,0,1,1,0)",
-        "input_image": "47.jpg",
-        "output_image": "scaling_47.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_047",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Make the font size of 'CHIC LOOK' larger.",
+    "editing_method": "scaling",
+    "difficulty": "easy",
+    "difficulty_score": "3(0,0,1,0,0,0,0,1,1,0)",
+    "input_image": "47.jpg",
+    "output_image": "scaling_47.jpg",
+    "source_tag": "human_annotation"
+}

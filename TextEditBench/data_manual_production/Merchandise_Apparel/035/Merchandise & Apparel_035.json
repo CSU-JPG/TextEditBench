@@ -1,12 +1,12 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_035",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Generate a piece of advertising text and add it below the image.",
-        "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"7(0,2,0,2,0,0,0,1,0,2)",
-        "input_image": "35.jpg",
-        "output_image": "text_insert_35.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Judging from the picture, the product is lemon sparkling water, with a refreshing taste.It can especially attract consumers in hot weather.  "
-    }
+    "id": "TextEditing_Merchandise & Apparel_035",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Generate a piece of advertising text and add it below the image.",
+    "editing_method": "text_insert",
+    "difficulty": "medium",
+    "difficulty_score": "7(0,2,0,2,0,0,0,1,0,2)",
+    "input_image": "35.jpg",
+    "output_image": "text_insert_35.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Judging from the picture, the product is lemon sparkling water, with a refreshing taste.It can especially attract consumers in hot weather.  "
+}

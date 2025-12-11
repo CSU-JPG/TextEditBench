@@ -1,11 +1,13 @@
-{
-        "id": "TextEditing_Education & Instruction_039",
-        "topic": "Education & Instruction",
-        "prompt": "Change the English word under the word '效' to another expression without changing the meaning of the expression..",
-        "editing_method":"text_delete",
-        "difficulty":"easy",
-        "difficulty_score":"5(0,2,0,2,0,0,0,1,0)",
-        "input_image": "39.jpg",
-        "output_image": "text_delete_39.jpg",
-        "source_tag": "human_innoration"
-   }
+[
+        {
+                "id": "TextEditing_Education & Instruction_039",
+                "topic": "Education & Instruction",
+                "prompt": "Delete the text 'effective with half the effort'.",
+                "editing_method": "text_delete",
+                "difficulty": "easy",
+                "difficulty_score": "4(0,2,0,2,0,0,0,0,0,0)",
+                "input_image": "39.jpg",
+                "output_image": "text_delete_39.jpg",
+                "source_tag": "human_annotation"
+        }
+]

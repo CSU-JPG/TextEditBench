@@ -2,11 +2,11 @@
         "id": "TextEditing_Education & Instruction_050",
         "topic": "Education & Instruction",
         "prompt": "Delay course end by two weeks.",
-        "editing_method":"text_change",
-        "difficulty":"easy",
-        "difficulty_score":"5(0,1,1,0,0,0,1,0,2)",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(0,1,1,0,0,0,1,0,2)",
         "input_image": "50.jpg",
         "output_image": "text_change_50.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Two weeks are 14 days, and the ending time is calculated based on the starting time remaining unchanged. That is, 10+14=24. Change February 10 to February 24."
-   }
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Two weeks are 14 days, and the ending time is calculated based on the starting time remaining unchanged. That is, 10+14=24. Change February 10 to February 24."
+}

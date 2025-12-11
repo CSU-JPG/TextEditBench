@@ -2,11 +2,11 @@
         "id": "TextEditing_Education & Instruction_042",
         "topic": "Education & Instruction",
         "prompt": "'Learn a little health knowledge every day.' Change this sentence into a lively, colloquial and interesting expression..",
-        "editing_method":"text_change",
-        "difficulty":"medium",
-        "difficulty_score":"6(0,2,1,0,0,0,1,0,2)",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "6(0,2,1,0,0,0,1,0,2)",
         "input_image": "42.jpg",
         "output_image": "text_change_42.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Use 'grab' instead of 'learn', 'tiny bit' instead of 'a little', and 'wisdom' instead of 'knowledge', which is suitable for daily relaxed contexts."
-   }
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Use 'grab' instead of 'learn', 'tiny bit' instead of 'a little', and 'wisdom' instead of 'knowledge', which is suitable for daily relaxed contexts."
+}

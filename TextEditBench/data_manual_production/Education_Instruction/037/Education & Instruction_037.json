@@ -1,12 +1,14 @@
-{
+[
+    {
         "id": "TextEditing_Education & Instruction_037",
         "topic": "Education & Instruction",
-        "prompt": "Modify the advertising words to make them more lively and colloquial.",
-        "editing_method":"text_change",
-        "difficulty":"medium",
-        "difficulty_score":"10(0,2,1,2,0,0,2,1,0,2)",
+        "prompt": "Modify the English advertising words below the time to make them more lively and colloquial.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(0,2,0,2,0,0,2,0,0,2)",
         "input_image": "37.jpg",
         "output_image": "text_change_37.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Modify without changing the original meaning of the sentence. The 'scientific' and 'promising' in the original sentence are more serious, so you can add some words such as 'Come on' and 'super'."
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "The task changes the tone without altering the original meaning, so the revised text is expected to express the same message in a more lively and colloquial manner, adopting a friendlier and more energetic style."
     }
+]

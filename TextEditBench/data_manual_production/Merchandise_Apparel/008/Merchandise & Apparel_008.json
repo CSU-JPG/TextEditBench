@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_008",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Delete the three sentences in black font under 'Food guide'.",
-        "editing_method":"text_delete",
-        "difficulty":"medium",
-        "difficulty_score":"7(2,2,2,0,0,0,0,1,0,0)",
-        "input_image": "8.jpg",
-        "output_image": "text_delete_8.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_008",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Delete the three sentences in black font under 'Food guide'.",
+    "editing_method": "text_delete",
+    "difficulty": "medium",
+    "difficulty_score": "7(2,2,2,0,0,0,0,1,0,0)",
+    "input_image": "8.jpg",
+    "output_image": "text_delete_8.jpg",
+    "source_tag": "human_annotation"
+}

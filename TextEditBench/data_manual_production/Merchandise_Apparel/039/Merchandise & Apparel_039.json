@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_039",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Change the font of 'Fashionable outfits'.",
-        "editing_method":"text_attribute",
-        "difficulty":"medium",
-        "difficulty_score":"6(0,0,2,2,0,0,0,1,1,0)",
-        "input_image": "39.jpg",
-        "output_image": "text_attribute_39.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_039",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Change the font of 'Fashionable outfits'.",
+    "editing_method": "text_attribute",
+    "difficulty": "medium",
+    "difficulty_score": "6(0,0,2,2,0,0,0,1,1,0)",
+    "input_image": "39.jpg",
+    "output_image": "text_attribute_39.jpg",
+    "source_tag": "human_annotation"
+}

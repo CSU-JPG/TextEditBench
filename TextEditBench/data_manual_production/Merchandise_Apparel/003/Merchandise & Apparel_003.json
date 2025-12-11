@@ -1,12 +1,12 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_003",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Add the words 'Fruit Market' in the blank space directly above the image",
-        "editing_method":"text_insert",
-        "difficulty":"easy",
-        "difficulty_score":"4(1,0,0,0,0,0,0,1,0,2)",
-        "input_image": "3.jpg",
-        "output_image": "text_insert_3.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"Generate a document with the same color based on the font color in the picture."
-    }
+    "id": "TextEditing_Merchandise & Apparel_003",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Add the words 'Fruit Market' in the blank space directly above the image",
+    "editing_method": "text_insert",
+    "difficulty": "easy",
+    "difficulty_score": "4(1,0,0,0,0,0,0,1,0,2)",
+    "input_image": "3.jpg",
+    "output_image": "text_insert_3.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "Generate a document with the same color based on the font color in the picture."
+}

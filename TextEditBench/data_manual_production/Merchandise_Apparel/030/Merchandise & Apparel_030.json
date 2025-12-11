@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_030",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Remove the text at the bottom of the picture.",
-        "editing_method":"text_delete",
-        "difficulty":"medium",
-        "difficulty_score":"6(0,2,1,2,0,0,0,1,0,0)",
-        "input_image": "30.jpg",
-        "output_image": "text_delete_30.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_030",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Remove the text at the bottom of the picture.",
+    "editing_method": "text_delete",
+    "difficulty": "medium",
+    "difficulty_score": "6(0,2,1,2,0,0,0,1,0,0)",
+    "input_image": "30.jpg",
+    "output_image": "text_delete_30.jpg",
+    "source_tag": "human_annotation"
+}

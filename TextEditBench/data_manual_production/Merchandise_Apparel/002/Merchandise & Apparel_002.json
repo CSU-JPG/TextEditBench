@@ -1,11 +1,11 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_002",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Modify the font of 'DENISTON FASHION MEN'S CLOTHEING' in the picture to English font.",
-        "editing_method":"text_attribute",
-        "difficulty":"easy",
-        "difficulty_score":"5(1,2,0,0,1,0,0,0,0,1,0)",
-        "input_image": "2.jpg",
-        "output_image": "text_attribute_2.jpg",
-        "source_tag": "human_innoration"
-    }
+    "id": "TextEditing_Merchandise & Apparel_002",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Modify the font of 'DENISTON FASHION MEN'S CLOTHEING' in the picture to English font.",
+    "editing_method": "text_attribute",
+    "difficulty": "easy",
+    "difficulty_score": "5(1,2,0,0,1,0,0,0,0,1,0)",
+    "input_image": "2.jpg",
+    "output_image": "text_attribute_2.jpg",
+    "source_tag": "human_annotation"
+}

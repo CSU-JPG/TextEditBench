@@ -1,13 +1,12 @@
 {
-        "id": "TextEditing_Merchandise & Apparel_031",
-        "topic": "Merchandise & Apparel",
-        "prompt": "Generate a short text based on the image content and text content and place it in the blank space directly below the image.",
-        "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"8(0,2,1,2,0,0,0,1,0,2)",
-        "input_image": "31.jpg",
-        "output_image": "text_insert_31.jpg",
-        "source_tag": "human_innoration",
-        "knowledge_prompt":"First, extract text information such as 'WHEN LIFE GETS A LITTLE CRUMPLED' and 'SPRITZ SOME FRAGRANCE'from the picture. Then, combine them with the perfume name 'Under the Cherry Tree' and the style 'Fruity' to form a concise sentence that reflects the function of the perfume."
-
-    }
+    "id": "TextEditing_Merchandise & Apparel_031",
+    "topic": "Merchandise & Apparel",
+    "prompt": "Generate a short text based on the image content and text content and place it in the blank space directly below the image.",
+    "editing_method": "text_insert",
+    "difficulty": "medium",
+    "difficulty_score": "8(0,2,1,2,0,0,0,1,0,2)",
+    "input_image": "31.jpg",
+    "output_image": "text_insert_31.jpg",
+    "source_tag": "human_annotation",
+    "knowledge_prompt": "First, extract text information such as 'WHEN LIFE GETS A LITTLE CRUMPLED' and 'SPRITZ SOME FRAGRANCE'from the picture. Then, combine them with the perfume name 'Under the Cherry Tree' and the style 'Fruity' to form a concise sentence that reflects the function of the perfume."
+}
