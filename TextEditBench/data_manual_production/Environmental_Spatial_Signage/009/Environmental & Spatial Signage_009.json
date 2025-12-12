@@ -5,7 +5,7 @@
         "prompt": "Change 3/24 to 3/26.",
         "editing_method":"text_change",
         "difficulty":"medium",
-        "difficulty_score":"6(1,1,0,0,0,0,2,2,0)",
+        "difficulty_score":"8(1,1,0,0,0,0,2,2,0,2)",
         "input_image": "9.jpg",
         "output_image": "text_change_9.jpg",
         "source_tag": "human_annotation",

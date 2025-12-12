@@ -5,10 +5,10 @@
         "prompt": "Change 1200 to 1100",
         "editing_method":"text_change",
         "difficulty":"medium",
-        "difficulty_score":"6(1,1,0,0,0,0,2,2,0,0)",
+        "difficulty_score":"6(1,1,0,0,0,0,2,2,0,2)",
         "input_image": "10.jpg",
         "output_image": "text_change_10.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "Change value of 'Travel expenses' to 1100 and recalculate the total cost as 2580, also change 2680 to 2580."
+        "knowledge_prompt": "Change value of 'Travel expenses' to 1100 and recalculate the total cost as 2580, also need to change 2680 to 2580."
     }
 ]

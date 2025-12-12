@@ -5,7 +5,7 @@
         "prompt": "Enlarge the text at the bottom of the image a little",
         "editing_method":"scaling",
         "difficulty":"easy",
-        "difficulty_score":"5(0,2,0,0,0,0,2,1,0,0)",
+        "difficulty_score":"5(0,2,0,0,0,0,0,2,1,0)",
         "input_image": "4.jpg",
         "output_image": "scaling_4.jpg",
         "source_tag": "human_annotation"
