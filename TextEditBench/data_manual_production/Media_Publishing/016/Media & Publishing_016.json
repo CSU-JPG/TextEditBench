@@ -4,7 +4,7 @@
     "topic": "Media & Publishing",
     "prompt": "Change the font of Chinese characters in the image.",
     "editing_method": "text_attribute",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "difficulty_score": "5(0,2,0,2,0,0,0,0,1,0)",
     "input_image": "16.jpg",
     "output_image": "text_attribute_16.jpg",

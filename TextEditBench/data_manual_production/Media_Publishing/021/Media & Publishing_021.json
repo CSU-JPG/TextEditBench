@@ -5,7 +5,7 @@
     "prompt": "Change 23 in the picture to 24",
     "editing_method": "text_change",
     "difficulty": "easy",
-    "difficulty_score": "4(0,0,1,0,1,0,0,2,0,0)",
+    "difficulty_score": "1(0,0,1,0,0,0,0,0,0,0)",
     "input_image": "21.jpg",
     "output_image": "text_change_21.jpg",
     "source_tag": "human_annotation"

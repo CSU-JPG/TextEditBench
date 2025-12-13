@@ -5,7 +5,7 @@
     "prompt": "Enlarge the '新媒体' in the picture appropriately.",
     "editing_method": "scaling",
     "difficulty": "medium",
-    "difficulty_score": "5(0,1,1,2,0,0,0,0,0,1)",
+    "difficulty_score": "5(0,1,1,2,0,0,0,0,1,0)",
     "input_image": "9.jpg",
     "output_image": "scaling_9.jpg",
     "source_tag": "human_annotation"

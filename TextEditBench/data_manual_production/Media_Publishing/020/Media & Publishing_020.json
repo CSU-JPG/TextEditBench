@@ -2,10 +2,10 @@
   {
     "id": "TextEditing_Media & Publishing_020",
     "topic": "Media & Publishing",
-    "prompt": "Move 'October'down by an appropriate distance",
+    "prompt": "Move 'October' down by an appropriate distance",
     "editing_method": "text_relocation",
-    "difficulty": "medium",
-    "difficulty_score": "5(0,1,1,2,0,0,0,0,1,0)",
+    "difficulty": "easy",
+    "difficulty_score": "4(0,0,1,2,0,0,0,1,1,0)",
     "input_image": "20.jpg",
     "output_image": "text_relocation_20.jpg",
     "source_tag": "human_annotation"

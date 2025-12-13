@@ -5,7 +5,7 @@
     "prompt": "Move the title display upward by a certain distance.",
     "editing_method": "text_relocation",
     "difficulty": "medium",
-    "difficulty_score": "6(0,2,0,2,0,1,0,1,0,0)",
+    "difficulty_score": "6(0,2,0,2,0,0,0,1,1,0)",
     "input_image": "3.jpg",
     "output_image": "text_relocation_3.jpg",
     "source_tag": "human_annotation"
