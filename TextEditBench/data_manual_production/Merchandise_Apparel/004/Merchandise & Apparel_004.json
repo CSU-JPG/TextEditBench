@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Merchandise & Apparel_004",
-    "topic": "Merchandise & Apparel",
-    "prompt": "Switch positions of '(lemon)' and 'Refreshing' in the upper right corner of the figure.",
-    "editing_method": "text_relocation",
-    "difficulty": "medium",
-    "difficulty_score": "7(2,2,0,0,0,0,0,1,2,0)",
-    "input_image": "4.jpg",
-    "output_image": "text_relocation_4.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_004",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Switch positions of '(lemon)' and 'Refreshing' in the upper right corner of the figure.",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,0,0,0,0,0,0,1,1,0)",
+        "input_image": "4.jpg",
+        "output_image": "text_relocation_4.jpg",
+        "source_tag": "human_annotation"
+    }
+]

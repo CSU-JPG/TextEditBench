@@ -1,12 +1,14 @@
-{
-    "id": "TextEditing_Merchandise & Apparel_024",
-    "topic": "Merchandise & Apparel",
-    "prompt": "Double the numbers in the 'New black technology' section.",
-    "editing_method": "text_change",
-    "difficulty": "medium",
-    "difficulty_score": "6(1,0,0,2,0,0,0,1,0,2)",
-    "input_image": "24.jpg",
-    "output_image": "text_change_24.jpg",
-    "source_tag": "human_annotation",
-    "knowledge_prompt": "Locate the number section of 'New black technology' and multiply the numbers by 2. Specifically, 6*2=12 and 12*2=24."
-}
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_024",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Double the numbers in the 'New black technology' section.",
+        "editing_method": "text_change",
+        "difficulty": "easy",
+        "difficulty_score": "5(1,0,0,2,0,0,0,0,0,2)",
+        "input_image": "24.jpg",
+        "output_image": "text_change_24.jpg",
+        "source_tag": "human_annotation",
+        "knowledge_prompt": "Locate the number section of 'New black technology' and multiply the numbers by 2. Specifically, 6*2=12 and 12*2=24."
+    }
+]

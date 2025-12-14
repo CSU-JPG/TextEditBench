@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Merchandise & Apparel_025",
-    "topic": "Merchandise & Apparel",
-    "prompt": "Translate the bold text in the picture into English.",
-    "editing_method": "text_change",
-    "difficulty": "medium",
-    "difficulty_score": "7(2,2,0,2,0,0,0,1,0,0)",
-    "input_image": "25.jpg",
-    "output_image": "text_change_25.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_025",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Translate the bold text in the picture into English.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "8(2,2,0,2,0,0,0,0,2,0)",
+        "input_image": "25.jpg",
+        "output_image": "text_change_25.jpg",
+        "source_tag": "human_annotation"
+    }
+]

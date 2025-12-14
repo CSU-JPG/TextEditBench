@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Merchandise & Apparel_021",
-    "topic": "Merchandise & Apparel",
-    "prompt": "Translate “新鲜出炉 醇香美味” into English.",
-    "editing_method": "text_change",
-    "difficulty": "medium",
-    "difficulty_score": "6(0,2,1,2,0,0,0,1,0,0)",
-    "input_image": "21.jpg",
-    "output_image": "text_change_21.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_021",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Translate “新鲜出炉 醇香美味” into English.",
+        "editing_method": "text_change",
+        "difficulty": "medium",
+        "difficulty_score": "9(0,2,1,2,0,0,0,2,2,0)",
+        "input_image": "21.jpg",
+        "output_image": "text_change_21.jpg",
+        "source_tag": "human_annotation"
+    }
+]

@@ -1,11 +1,13 @@
-{
-    "id": "TextEditing_Merchandise & Apparel_007",
-    "topic": "Merchandise & Apparel",
-    "prompt": "Move 'Wear and ride' in the picture to the middle of Spring Look and clothing pattern",
-    "editing_method": "text_relocation",
-    "difficulty": "easy",
-    "difficulty_score": "5(2,2,0,0,0,0,0,0,1,0)",
-    "input_image": "7.jpg",
-    "output_image": "text_relocation_7.jpg",
-    "source_tag": "human_annotation"
-}
+[
+    {
+        "id": "TextEditing_Merchandise & Apparel_007",
+        "topic": "Merchandise & Apparel",
+        "prompt": "Move 'Wear and ride' in the picture to the middle of Spring Look and clothing pattern",
+        "editing_method": "text_relocation",
+        "difficulty": "easy",
+        "difficulty_score": "2(0,1,0,0,0,0,0,0,1,0)",
+        "input_image": "7.jpg",
+        "output_image": "text_relocation_7.jpg",
+        "source_tag": "human_annotation"
+    }
+]
