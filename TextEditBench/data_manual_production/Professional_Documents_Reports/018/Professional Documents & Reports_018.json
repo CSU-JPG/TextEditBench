@@ -4,8 +4,8 @@
         "topic": "Professional Documents & Reports",
         "prompt": "change the vertically arranged title to a horizontal layout and place it at the top center to make the image suitable",
         "editing_method":"text_relocation",
-        "difficulty":"medium",
-        "difficulty_score":"6(0,1,0,0,0,1,0,2,2,0,0)",
+        "difficulty":"easy",
+        "difficulty_score":"3(0,0,0,0,0,0,0,0,2,1,0)",
         "input_image": "18.jpg",
         "output_image": "text_relocation_18.jpg",
         "source_tag": "human_annotation"

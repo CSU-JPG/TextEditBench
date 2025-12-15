@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Professional Documents & Reports_006",
         "topic": "Professional Documents & Reports",
-        "prompt": "insert a new title 'Honors and Awards' in the middle of the title 'Personal Skills' and the bottom line.After adding the text, it matches the overall style of the image",
+        "prompt": "insert a new title 'Honors and Awards' in the middle of the title 'Personal Skills' and the bottom line. After adding the text, make it matches the overall style of the image",
         "editing_method":"text_insert",
-        "difficulty":"medium",
-        "difficulty_score":"6(2,2,0,0,0,0,0,0,0,2)",
+        "difficulty":"easy",
+        "difficulty_score":"5(0,1,0,0,0,0,2,0,0,2)",
         "input_image": "7.jpg",
         "output_image": "text_insert_7.jpg",
         "source_tag": "human_annotation",

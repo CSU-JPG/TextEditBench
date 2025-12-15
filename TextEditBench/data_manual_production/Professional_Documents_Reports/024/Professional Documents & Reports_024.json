@@ -2,10 +2,10 @@
     {
         "id": "TextEditing_Professional Documents & Reports_024",
         "topic": "Professional Documents & Reports",
-        "prompt": "Change '25TH' to '18TH'",
+        "prompt": "Change '25th' to '18th'",
         "editing_method":"text_change",
         "difficulty":"easy",
-        "difficulty_score":"1(0,1,0,0,0,1,0,0,0,0)",
+        "difficulty_score":"1(0,0,0,0,0,0,0,1,0,0)",
         "input_image": "24.jpg",
         "output_image": "text_change_24.jpg",
         "source_tag": "human_annotation"

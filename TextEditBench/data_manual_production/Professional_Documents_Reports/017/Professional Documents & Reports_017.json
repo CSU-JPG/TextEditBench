@@ -4,8 +4,8 @@
         "topic": "Professional Documents & Reports",
         "prompt": "insert 'Reading and Writing' 'Chinese' 'Mathematics' 'Foreign' 'Art' 'Science' 'PE' and 'Music' below column 'Elective course' in the table.Each word occupies one line",
         "editing_method":"text_insert",
-        "difficulty":"easy",
-        "difficulty_score":"3(0,2,0,0,0,1,0,0,0,0)",
+        "difficulty":"medium",
+        "difficulty_score":"6(2,2,0,2,0,0,0,0,0,0)",
         "input_image": "17.jpg",
         "output_image": "text_insert_17.jpg",
         "source_tag": "human_annotation"

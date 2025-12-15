@@ -5,7 +5,7 @@
         "prompt": "translate the Chinese text into English",
         "editing_method":"text_change",
         "difficulty":"medium",
-        "difficulty_score":"8(2,2,0,1,0,0,0,0,1,2)",
+        "difficulty_score":"7(2,2,0,1,0,0,0,0,2,0)",
         "input_image": "23.jpg",
         "output_image": "text_change_23.jpg",
         "source_tag": "human_annotation"

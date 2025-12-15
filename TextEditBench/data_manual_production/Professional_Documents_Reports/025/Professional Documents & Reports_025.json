@@ -5,7 +5,7 @@
         "prompt": "Change 71 in grade C to 76",
         "editing_method":"text_change",
         "difficulty":"easy",
-        "difficulty_score":"2(0,0,0,0,0,0,2,0,0,0)",
+        "difficulty_score":"4(0,0,0,0,0,0,2,0,0,2)",
         "input_image": "25.jpg",
         "output_image": "text_change_25.jpg",
         "source_tag": "human_annotation",
