@@ -5,7 +5,7 @@
         "prompt": "Translate only the sentence 'Wish you a lovely day.' into Chinese.",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "6(2,2,0,0,0,0,0,0,2,0)",
+        "difficulty_score": "6(0,2,0,2,0,0,0,0,2,0)",
         "input_image": "1.jpg",
         "output_image": "text_change_1.jpg",
         "source_tag": "human_annotation"

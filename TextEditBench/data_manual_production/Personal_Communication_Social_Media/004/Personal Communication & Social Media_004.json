@@ -2,7 +2,7 @@
     {
         "id": "TextEditing_Personal Communication & Social Media_004",
         "topic": "Personal Communication & Social Media",
-        "prompt": "Rotate the text 'good night' 90 degrees clockwise.",
+        "prompt": "Rotate the text 'good night' 90 degrees clockwise and scale it up.",
         "editing_method": "text_relocation",
         "difficulty": "easy",
         "difficulty_score": "5(1,0,2,0,0,0,0,0,2,0)",

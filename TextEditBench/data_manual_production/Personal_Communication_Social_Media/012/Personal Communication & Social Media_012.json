@@ -4,8 +4,8 @@
         "topic": "Personal Communication & Social Media",
         "prompt": "Change the font of the movie titles below the three images to 'Adventurous'.",
         "editing_method": "text_attribute",
-        "difficulty": "easy",
-        "difficulty_score": "4(1,2,0,0,0,0,0,0,1,0)",
+        "difficulty": "medium",
+        "difficulty_score": "6(1,2,2,0,0,0,0,0,1,0)",
         "input_image": "12.jpg",
         "output_image": "text_attribute_12.jpg",
         "source_tag": "human_annotation"
