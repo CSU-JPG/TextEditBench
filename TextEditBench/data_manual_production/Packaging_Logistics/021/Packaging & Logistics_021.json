@@ -5,10 +5,9 @@
             "prompt": "Translate the text of 'DELIVERY SERVICE' in the picture to '物流服务'",
             "editing_method": "text_change",
             "difficulty": "easy",
-            "difficulty_score": "4(1,0,0,1,0,0,0,0,2,0)",
+            "difficulty_score": "5(0,1,0,2,0,0,0,0,2,0)",
             "input_image":"21.jpg",
             "output_image":"text_change_21.jpg",
-            "source_tag":"human_annotation",
-            "knowledge_prompt":"Translating “Service Express Delivery” into Chinese as “物流服务” requires the model to understand that both texts describe the same concept — express logistics service — and therefore should convey equivalent meaning rather than literal word order.\nThe semantic expectation is that the new Chinese text should maintain the same overall meaning and tone as the original English phrase while ensuring proper alignment, visual balance, and consistent font styling within the image layout."
+            "source_tag":"human_annotation"
         }
     ]

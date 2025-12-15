@@ -4,8 +4,8 @@
             "topic": "Packaging & Logistics",
             "prompt": "Insert the text of 'FILED' after the text of 'LOGISITIC' in the picture" ,
             "editing_method": "text_insert",
-            "difficulty": "medium",
-            "difficulty_score": "6(2,2,0,0,0,0,0,2,0,0)",
+            "difficulty": "easy",
+            "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
             "input_image":"13.jpg",
             "output_image":"text_insert_13.jpg",
             "source_tag":"human_annotation"

@@ -4,8 +4,8 @@
         "topic": "Packaging & Logistics",
         "prompt": "Relocate the text of 'HELLO THERE' from the top center of the image to the bottom of the image",
         "editing_method": "text_relocation",
-        "difficulty": "hard",
-        "difficulty_score": "11(2,2,2,0,1,1,0,0,1,2)",
+        "difficulty": "easy",
+        "difficulty_score": "3(0,0,2,0,0,0,0,0,1,0)",
         "input_image":"7.jpg",
         "output_image":"text_relocation_7.jpg",
         "source_tag":"human_annotation"

@@ -2,10 +2,10 @@
         {
             "id": "TextEditing_Packaging & Logistics_012",
             "topic": "Packaging & Logistics",
-            "prompt": "Change the text of 'TRUCKING' to 'PACKAGE'in the picture ",
+            "prompt": "Change the text of 'PACKAGE' to 'TRUCKING' in the picture ",
             "editing_method": "text_change",
-            "difficulty": "medium",
-            "difficulty_score": "6(1,2,0,0,0,1,0,2,0,0)",
+            "difficulty": "easy",
+            "difficulty_score": "4(0,0,2,0,0,0,0,2,0,0)",
             "input_image":"12.jpg",
             "output_image":"text_change_12.jpg",
             "source_tag":"human_annotation"

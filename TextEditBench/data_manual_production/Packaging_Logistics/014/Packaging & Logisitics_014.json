@@ -5,7 +5,7 @@
             "prompt": "Change the text of 'Sustainability' to 'Wonderful' in the picture",
             "editing_method": "text_change",
             "difficulty": "easy",
-            "difficulty_score": "3(2,1,0,0,0,0,0,0,0,0)",
+            "difficulty_score": "1(0,0,1,0,0,0,0,0,0,0)",
             "input_image":"14.jpg",
             "output_image":"text_change_14.jpg",
             "source_tag":"human_annotation"

@@ -5,7 +5,7 @@
         "prompt": "Change the text from 'SF' to 'YT' in the picture",
         "editing_method": "text_change",
         "difficulty": "easy",
-        "difficulty_score": "1(1,0,0,0,0,0,0,0,0,0)",
+        "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
         "input_image":"3.jpg",
         "output_image":"text_change_3.jpg",
         "source_tag":"human_annotation"
