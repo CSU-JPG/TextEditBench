@@ -5,7 +5,7 @@
         "editing_method": "scaling",
         "prompt": "Make the title 'SENSORY INFORMATION TRANSMISSSION'smaller",
         "difficulty": "easy",
-        "difficulty_score": "4(0,1,0,0,0,0,0,0,1,2)",
+        "difficulty_score": "6(0,1,2,0,0,0,0,0,1,2)",
         "input_image": "4.jpg",
         "output_image": "scaling_4.jpg",
         "source_tag": "human_annotation",

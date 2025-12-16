@@ -9,6 +9,6 @@
         "input_image": "15.jpg",
         "output_image": "text_delete_15.jpg",
         "source_tag": "human_annotation",
-        "knowledge_prompt": "The diagram’s title consists of both the main heading and the smaller subtitle “Major company milestones,” which together form a unified title block. Therefore, deleting the title logically includes removing the smaller text as well to maintain semantic completeness and visual consistency."
+        "knowledge_prompt": "The diagram's title consists of both the main heading and the smaller subtitle “Major company milestones,” which together form a unified title block. Therefore, deleting the title logically includes removing the smaller text as well to maintain semantic completeness and visual consistency."
     }
 ]

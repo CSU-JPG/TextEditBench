@@ -4,8 +4,8 @@
         "topic": "Scientific & Technical Diagrams",
         "prompt": "enlarge the subtitles inside the image",
         "editing_method": "scaling",
-        "difficulty": "medium",
-        "difficulty_score": "6(1,0,0,0,0,0,2,0,1,2)",
+        "difficulty": "easy",
+        "difficulty_score": "3(1,1,0,0,0,0,0,0,1,0)",
         "input_image": "19.jpg",
         "output_image": "scaling_19.jpg",
         "source_tag": "human_annotation"    

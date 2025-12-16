@@ -5,7 +5,7 @@
         "prompt": "shift the position of the title 'MINDMAP DIAGRAM' from the left top of the image to the left bottom of the image",
         "editing_method": "text_relocation",
         "difficulty": "easy",
-        "difficulty_score": "3(0,0,0,0,0,0,0,0,1,2)",
+        "difficulty_score": "1(0,0,0,0,0,0,0,0,1,0)",
         "input_image": "11.jpg",
         "output_image": "text_relocation_11.jpg",
         "source_tag": "human_annotation"    

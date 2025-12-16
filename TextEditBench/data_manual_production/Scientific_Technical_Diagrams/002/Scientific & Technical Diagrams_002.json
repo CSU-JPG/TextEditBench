@@ -5,7 +5,7 @@
         "prompt": "translate the text 'REPRESENTING DATA', 'TYPES', 'COLLECTION', 'ORGANISATION', 'INTERPRETATION' from English to Chinese",
         "editing_method": "text_change",
         "difficulty": "medium",
-        "difficulty_score": "8(2,2,0,0,0,0,2,0,2,0)",
+        "difficulty_score": "8(2,2,0,2,0,0,0,0,2,0)",
         "input_image": "2.jpg",
         "output_image": "text_change_2.jpg",
         "source_tag": "human_annotation"
