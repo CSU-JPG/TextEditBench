@@ -3,7 +3,7 @@
         "id": "TextEditing_Business & Advertising_050",
         "topic": "Business & Advertising",
         "prompt": "Translate the text 'CENTRE' on the hanging rectangular sign into American English as 'CENTER'. Keep the same black sans-serif font, capitalization, spacing, and layout on the white background.",
-        "editing_method": "text_translation",
+        "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "2(1,0,0,0,1,0,0,0,0,0)",
         "input_image": "50.jpg",
