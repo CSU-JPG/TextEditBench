@@ -7,7 +7,6 @@
         "difficulty": "medium",
         "difficulty_score": "6(1,0,2,0,0,0,2,1,1,2)",
         "input_image": "43.jpg",
-        "source_tag": "human_annotation",
-        "knowledge_prompt": "Since changing the text to green will create a strong color contrast with the cake's original red decorations, this red-green combination can easily cause visual conflict, affecting overall harmony and aesthetics. Therefore, adjusting the cake decorations to the same color scheme of green (such as dark green, grass green, etc.) can help maintain color harmony and enhance the cohesiveness and visual comfort of the design."
+        "source_tag": "human_annotation"
     }
 ]
