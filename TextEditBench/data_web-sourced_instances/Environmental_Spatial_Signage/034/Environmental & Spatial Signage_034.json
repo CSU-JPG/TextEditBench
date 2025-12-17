@@ -2,7 +2,7 @@
     {
         "id": "TextEditing_Environment & Spatital Signage_034",
         "topic": "Environment & Spatital Signage",
-        "prompt": "Change the wall sign text from 'SPORTING' to 'FITNESS', preserving the same bold 3D font style, letter spacing, and metallic lighting reflection to maintain the realistic wall-mounted appearance.",
+        "prompt": "Change the wall sign text from 'SPORTING' to 'FITNESS'.",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "3(1,0,1,0,0,0,0,1,0,0)",
