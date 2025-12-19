@@ -2,7 +2,7 @@
     {
         "id": "TextEditing_Data & Analytics_027",
         "topic": "Data & Analytics",
-        "prompt": "Change the number on the black sign from '24' to '58', maintaining the same white bold font, alignment, and lighting against the red wall background.",
+        "prompt": "Change the number on the black sign from '24' to '58'.",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "6(1,1,0,2,1,0,0,1,0,0)",
