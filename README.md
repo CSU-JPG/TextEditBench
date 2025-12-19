@@ -177,5 +177,5 @@ If you find our work or dataset useful, please cite us:
 
 ## 📧 Contact
 
-For any questions, please feel free to open an issue or contact [email8212231014@csu.edu.cn](mailto:8212231014@csu.edu.cn).
+For any questions, please feel free to open an issue or contact email [8212231014@csu.edu.cn](mailto:8212231014@csu.edu.cn).  
 
