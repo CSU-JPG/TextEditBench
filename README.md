@@ -136,7 +136,23 @@ python evaluation/masked_ssim_lpips_evaluation.py path/to/your_model_output.json
 **Track 2 (Semantic-level):** Powered by **GPT-4o**, evaluating Instruction Following, Text Accuracy, Visual Consistency, Layout Preservation, and Semantic Expectation .
 
 ```
-python evaluation/GPT-4o_evaluation.py #for all evaluation code, you will need to modify outout file path to yours
+python evaluation/gpt_eval.py \
+    --input_dir path/to/input_dataset \
+    --pred_dir path/to/model_predictions \
+    --output_dir results/ \
+    --workers 10
+```
+
+```
+python evaluation/gpt_eval_no_refer.py \
+    --input_dir path/to/input_dataset \
+    --pred_dir path/to/model_predictions \
+    --output_dir results/ \
+    --workers 10
+```
+
+```
+python calculate.py path/to/your_result.json
 ```
 
 
