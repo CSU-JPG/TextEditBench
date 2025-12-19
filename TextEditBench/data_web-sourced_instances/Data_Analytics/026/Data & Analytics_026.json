@@ -2,7 +2,7 @@
     {
         "id": "TextEditing_Data & Analytics_026",
         "topic": "Data & Analytics",
-        "prompt": "Change the house number from '99' to '101', keeping the same bold white font style, size, and centered alignment above the word 'SIMPSON' on the black plaque.",
+        "prompt": "Change the house number from '99' to '101'.",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
