@@ -9,7 +9,7 @@
 </div>
 
 ## 📢 News
-* **[2025-12-]** 🚀 We have released the evaluation code and the **TextEditBench** dataset!
+* **[2025-12-19]** 🚀 We have released the evaluation code and the **TextEditBench** dataset!
 
 ---
 
@@ -164,12 +164,14 @@ python calculate.py path/to/your_result.json
 If you find our work or dataset useful, please cite us:
 
 ```bibtex
-@article{texteditbench2026,
-  title={TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering},
-  author={Anonymous Authors},
-  journal={CVPR Submission},
-  volume={3050},
-  year={2026}
+@misc{gui2025texteditbenchevaluatingreasoningawaretext,
+      title={TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering}, 
+      author={Rui Gui and Yang Wan and Haochen Han and Dongxing Mao and Fangming Liu and Min Li and Alex Jinpeng Wang},
+      year={2025},
+      eprint={2512.16270},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.16270}, 
 }
 ```
 
