@@ -79,7 +79,7 @@ The file structure should be like this:
 
 ```
 data/                                          
-├── data_manual_production/                         
+├── canva/                         
 │   └── Art_Creative_Expression/
 │   │   ├── 001/
 │   │   │   ├── 1.jpg
@@ -91,7 +91,7 @@ data/
 │   │
 │   └── ...
 │
-└── data_web-sourced_instances/                         
+└── real/                         
     ├── Art_Creative_Expression/               
     │   ├── 001/
     │   │   ├── 1.jpg
