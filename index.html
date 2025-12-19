@@ -46,32 +46,22 @@
             color: #4a4a4a;
         }
 
-        /* 修改作者名字的样式 */
         .publication-authors a {
             color: #4da5e8 !important;
             font-weight: 600;
-            /* 稍微加粗一点点，更有质感 */
             text-decoration: none;
-            /* 去掉下划线，看起来更干净 */
             margin: 0 5px;
-            /* 名字之间拉开一点距离 */
         }
 
         .publication-authors a:hover {
             text-decoration: underline;
-            /* 鼠标放上去时显示下划线 */
         }
 
-        /* 新增：机构/学校的样式 */
         .author-affiliation {
             font-size: 1.1rem;
-            /* 比作者名字稍小 */
             color: #6e6e6e;
-            /* 柔和的深灰色 */
             margin-top: 10px;
-            /* 和上面的作者拉开距离 */
             line-height: 1.5;
-            /* 行高舒服一点 */
         }
 
         /* Abstract & Sections */
@@ -253,11 +243,6 @@
             background: transparent;
         }
 
-        /* ===== 修改重点在这里 ===== 
-           我为 reasoning-carousel 单独添加了一个ID样式。
-           max-width: 600px; 限制了它的最大宽度（由于图片是width:100%，高度也会随之变小）。
-           margin: 20px auto; 保证了它在页面中间居中显示。
-        */
         #reasoning-carousel {
             max-width: 600px;
             margin: 20px auto;
@@ -1355,12 +1340,14 @@
                 </button>
                 <pre
                     style="background: transparent; padding: 0; margin: 0; overflow-x: auto; font-family: 'Courier New', Courier, monospace; font-size: 0.9rem;">
-<code>@article{texteditbench2026,
-  title   = {TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering},
-  author  = {Anonymous Authors},
-  journal = {CVPR Submission},
-  volume  = {3050},
-  year    = {2026}
+<code>@misc{gui2025texteditbenchevaluatingreasoningawaretext,
+      title={TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering}, 
+      author={Rui Gui and Yang Wan and Haochen Han and Dongxing Mao and Fangming Liu and Min Li and Alex Jinpeng Wang},
+      year={2025},
+      eprint={2512.16270},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.16270}, 
 }</code></pre>
             </div>
         </div>
@@ -1700,12 +1687,14 @@
 
         // --- 7. BibTeX Logic ---
         function copyBibtex() {
-            const textToCopy = `@article{texteditbench2026,
-  title   = {TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering},
-  author  = {Anonymous Authors},
-  journal = {CVPR Submission},
-  volume  = {3050},
-  year    = {2026}
+            const textToCopy = `@misc{gui2025texteditbenchevaluatingreasoningawaretext,
+      title={TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering}, 
+      author={Rui Gui and Yang Wan and Haochen Han and Dongxing Mao and Fangming Liu and Min Li and Alex Jinpeng Wang},
+      year={2025},
+      eprint={2512.16270},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.16270}, 
 }`;
             if (navigator.clipboard && window.isSecureContext) {
                 navigator.clipboard.writeText(textToCopy).then(() => alert('BibTeX copied!')).catch(err => console.error('Failed', err));
