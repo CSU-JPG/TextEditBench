@@ -68,7 +68,7 @@ OPENAI_API_URL=${your_ark_api_base_url}
 
 ### Download Data
 
-Download the TextEditBench data from [Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue) and unzip it under the root directory.
+Download the TextEditBench data from [Huggingface](https://huggingface.co/datasets/MATH-finding/TextEditBench) and unzip it under the root directory.
 
 ```
 wget 
