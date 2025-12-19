@@ -1,12 +1,12 @@
 [
     {
-        "id": "TextEditing_Scientific & Technical Diagrams_044",
+        "id": "TextEditing_Scientific & Technical Diagrams_049",
         "topic": "Scientific & Technical Diagrams",
-        "prompt": "change the font of all words",
-        "editing_method": "text_attribute",
+        "prompt": "make all words bigger",
+        "editing_method": "scaling",
         "difficulty": "easy",
         "difficulty_score": "3(0,2,0,0,0,0,0,0,1,0)",
-        "input_image": "44.jpg",
+        "input_image": "49.jpg",
         "source_tag": "human_annotation"
     }
 ]
