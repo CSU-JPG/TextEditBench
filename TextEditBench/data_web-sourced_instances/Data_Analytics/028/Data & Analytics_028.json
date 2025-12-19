@@ -2,7 +2,7 @@
     {
         "id": "TextEditing_Data & Analytics_028",
         "topic": "Data & Analytics",
-        "prompt": "Change the number on the hanging sign from '176' to '250', ensuring the same serif font, red color, size, and alignment above the text 'dress shop'.",
+        "prompt": "Change the number on the hanging sign from '176' to '250' and alignment above the text 'dress shop'.",
         "editing_method": "text_change",
         "difficulty": "easy",
         "difficulty_score": "5(1,1,1,0,1,0,0,1,0,0)",
