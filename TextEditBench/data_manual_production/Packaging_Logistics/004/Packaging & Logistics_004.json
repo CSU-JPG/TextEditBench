@@ -6,7 +6,7 @@
         "editing_method": "text_delete",
         "difficulty": "easy",
         "difficulty_score": "0(0,0,0,0,0,0,0,0,0,0)",
-        "imput_image": "4.jpg",
+        "input_image": "4.jpg",  
         "output_image": "text_delete_4.jpg",
         "source_tag": "human_annotation"
     }
