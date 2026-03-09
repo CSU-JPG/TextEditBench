@@ -11,7 +11,7 @@
 
 ## 📢 News
 * **[2025-12-19]** 🚀 We have released the evaluation code and the **TextEditBench** dataset!
-
+* **[2026-03-09]** We have uploaded some editable files of the dataset to Hugging Face<a href="https://huggingface.co/datasets/CSU-JPG/TextEditBench">, hoping it will be helpful for you all.
 ---
 
 ## 📖 Introduction
